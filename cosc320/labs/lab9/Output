@@ -1,0 +1,3999 @@
+Insertion of 1000 nodes: 0.000569s
+Search of 1000 nodes:    0.00021s
+Deletion of 1000 nodes:  0.000311s
+
+Insertion of 2000 nodes: 0.000626s
+Search of 2000 nodes:    0.00028s
+Deletion of 2000 nodes:  0.000567s
+
+Insertion of 3000 nodes: 0.000999s
+Search of 3000 nodes:    0.000286s
+Deletion of 3000 nodes:  0.000545s
+
+Insertion of 4000 nodes: 0.001003s
+Search of 4000 nodes:    0.000388s
+Deletion of 4000 nodes:  0.000715s
+
+Insertion of 5000 nodes: 0.001145s
+Search of 5000 nodes:    0.00039s
+Deletion of 5000 nodes:  0.000698s
+
+Insertion of 6000 nodes: 0.001123s
+Search of 6000 nodes:    0.000461s
+Deletion of 6000 nodes:  0.000831s
+
+Insertion of 7000 nodes: 0.00131s
+Search of 7000 nodes:    0.000528s
+Deletion of 7000 nodes:  0.00087s
+
+Insertion of 8000 nodes: 0.001424s
+Search of 8000 nodes:    0.000581s
+Deletion of 8000 nodes:  0.000986s
+
+Insertion of 9000 nodes: 0.001533s
+Search of 9000 nodes:    0.000633s
+Deletion of 9000 nodes:  0.001083s
+
+Insertion of 10000 nodes: 0.001674s
+Search of 10000 nodes:    0.000683s
+Deletion of 10000 nodes:  0.001126s
+
+Insertion of 11000 nodes: 0.001751s
+Search of 11000 nodes:    0.000733s
+Deletion of 11000 nodes:  0.001155s
+
+Insertion of 12000 nodes: 0.00185s
+Search of 12000 nodes:    0.000766s
+Deletion of 12000 nodes:  0.001214s
+
+Insertion of 13000 nodes: 0.00195s
+Search of 13000 nodes:    0.000789s
+Deletion of 13000 nodes:  0.001331s
+
+Insertion of 14000 nodes: 0.002217s
+Search of 14000 nodes:    0.000895s
+Deletion of 14000 nodes:  0.001438s
+
+Insertion of 15000 nodes: 0.002254s
+Search of 15000 nodes:    0.000875s
+Deletion of 15000 nodes:  0.001537s
+
+Insertion of 16000 nodes: 0.002465s
+Search of 16000 nodes:    0.000988s
+Deletion of 16000 nodes:  0.002209s
+
+Insertion of 17000 nodes: 0.002917s
+Search of 17000 nodes:    0.001178s
+Deletion of 17000 nodes:  0.001993s
+
+Insertion of 18000 nodes: 0.003072s
+Search of 18000 nodes:    0.001289s
+Deletion of 18000 nodes:  0.001943s
+
+Insertion of 19000 nodes: 0.00307s
+Search of 19000 nodes:    0.001253s
+Deletion of 19000 nodes:  0.001961s
+
+Insertion of 20000 nodes: 0.003334s
+Search of 20000 nodes:    0.001352s
+Deletion of 20000 nodes:  0.002024s
+
+Insertion of 21000 nodes: 0.003279s
+Search of 21000 nodes:    0.001445s
+Deletion of 21000 nodes:  0.002285s
+
+Insertion of 22000 nodes: 0.003606s
+Search of 22000 nodes:    0.001502s
+Deletion of 22000 nodes:  0.002524s
+
+Insertion of 23000 nodes: 0.004326s
+Search of 23000 nodes:    0.001742s
+Deletion of 23000 nodes:  0.002704s
+
+Insertion of 24000 nodes: 0.003982s
+Search of 24000 nodes:    0.001678s
+Deletion of 24000 nodes:  0.002673s
+
+Insertion of 25000 nodes: 0.003988s
+Search of 25000 nodes:    0.001664s
+Deletion of 25000 nodes:  0.002823s
+
+Insertion of 26000 nodes: 0.004445s
+Search of 26000 nodes:    0.002077s
+Deletion of 26000 nodes:  0.002846s
+
+Insertion of 27000 nodes: 0.004784s
+Search of 27000 nodes:    0.002047s
+Deletion of 27000 nodes:  0.002782s
+
+Insertion of 28000 nodes: 0.004568s
+Search of 28000 nodes:    0.002167s
+Deletion of 28000 nodes:  0.00284s
+
+Insertion of 29000 nodes: 0.004814s
+Search of 29000 nodes:    0.002076s
+Deletion of 29000 nodes:  0.004092s
+
+Insertion of 30000 nodes: 0.005011s
+Search of 30000 nodes:    0.00219s
+Deletion of 30000 nodes:  0.003174s
+
+Insertion of 31000 nodes: 0.004882s
+Search of 31000 nodes:    0.001868s
+Deletion of 31000 nodes:  0.003959s
+
+Insertion of 32000 nodes: 0.006004s
+Search of 32000 nodes:    0.00234s
+Deletion of 32000 nodes:  0.004369s
+
+Insertion of 33000 nodes: 0.005749s
+Search of 33000 nodes:    0.002569s
+Deletion of 33000 nodes:  0.004136s
+
+Insertion of 34000 nodes: 0.005605s
+Search of 34000 nodes:    0.002462s
+Deletion of 34000 nodes:  0.004199s
+
+Insertion of 35000 nodes: 0.005985s
+Search of 35000 nodes:    0.00249s
+Deletion of 35000 nodes:  0.004165s
+
+Insertion of 36000 nodes: 0.006152s
+Search of 36000 nodes:    0.00276s
+Deletion of 36000 nodes:  0.005114s
+
+Insertion of 37000 nodes: 0.007092s
+Search of 37000 nodes:    0.002951s
+Deletion of 37000 nodes:  0.005095s
+
+Insertion of 38000 nodes: 0.006467s
+Search of 38000 nodes:    0.003689s
+Deletion of 38000 nodes:  0.004912s
+
+Insertion of 39000 nodes: 0.006794s
+Search of 39000 nodes:    0.002928s
+Deletion of 39000 nodes:  0.005115s
+
+Insertion of 40000 nodes: 0.007031s
+Search of 40000 nodes:    0.003237s
+Deletion of 40000 nodes:  0.004645s
+
+Insertion of 41000 nodes: 0.00725s
+Search of 41000 nodes:    0.00306s
+Deletion of 41000 nodes:  0.004946s
+
+Insertion of 42000 nodes: 0.007321s
+Search of 42000 nodes:    0.0029s
+Deletion of 42000 nodes:  0.004794s
+
+Insertion of 43000 nodes: 0.008728s
+Search of 43000 nodes:    0.003432s
+Deletion of 43000 nodes:  0.006299s
+
+Insertion of 44000 nodes: 0.007492s
+Search of 44000 nodes:    0.002936s
+Deletion of 44000 nodes:  0.005965s
+
+Insertion of 45000 nodes: 0.007894s
+Search of 45000 nodes:    0.0031s
+Deletion of 45000 nodes:  0.005382s
+
+Insertion of 46000 nodes: 0.00768s
+Search of 46000 nodes:    0.003163s
+Deletion of 46000 nodes:  0.006358s
+
+Insertion of 47000 nodes: 0.00915s
+Search of 47000 nodes:    0.003396s
+Deletion of 47000 nodes:  0.006035s
+
+Insertion of 48000 nodes: 0.008385s
+Search of 48000 nodes:    0.003263s
+Deletion of 48000 nodes:  0.005549s
+
+Insertion of 49000 nodes: 0.00873s
+Search of 49000 nodes:    0.003948s
+Deletion of 49000 nodes:  0.005834s
+
+Insertion of 50000 nodes: 0.008691s
+Search of 50000 nodes:    0.003662s
+Deletion of 50000 nodes:  0.005913s
+
+Insertion of 51000 nodes: 0.009402s
+Search of 51000 nodes:    0.004058s
+Deletion of 51000 nodes:  0.006457s
+
+Insertion of 52000 nodes: 0.010198s
+Search of 52000 nodes:    0.004138s
+Deletion of 52000 nodes:  0.00666s
+
+Insertion of 53000 nodes: 0.009386s
+Search of 53000 nodes:    0.004537s
+Deletion of 53000 nodes:  0.007294s
+
+Insertion of 54000 nodes: 0.010292s
+Search of 54000 nodes:    0.005503s
+Deletion of 54000 nodes:  0.007009s
+
+Insertion of 55000 nodes: 0.010351s
+Search of 55000 nodes:    0.004222s
+Deletion of 55000 nodes:  0.006841s
+
+Insertion of 56000 nodes: 0.009694s
+Search of 56000 nodes:    0.005071s
+Deletion of 56000 nodes:  0.007485s
+
+Insertion of 57000 nodes: 0.01051s
+Search of 57000 nodes:    0.004168s
+Deletion of 57000 nodes:  0.006642s
+
+Insertion of 58000 nodes: 0.010173s
+Search of 58000 nodes:    0.004081s
+Deletion of 58000 nodes:  0.007729s
+
+Insertion of 59000 nodes: 0.011124s
+Search of 59000 nodes:    0.005185s
+Deletion of 59000 nodes:  0.007832s
+
+Insertion of 60000 nodes: 0.010617s
+Search of 60000 nodes:    0.004951s
+Deletion of 60000 nodes:  0.007215s
+
+Insertion of 61000 nodes: 0.011115s
+Search of 61000 nodes:    0.005268s
+Deletion of 61000 nodes:  0.008096s
+
+Insertion of 62000 nodes: 0.01073s
+Search of 62000 nodes:    0.004402s
+Deletion of 62000 nodes:  0.008021s
+
+Insertion of 63000 nodes: 0.011015s
+Search of 63000 nodes:    0.004932s
+Deletion of 63000 nodes:  0.008211s
+
+Insertion of 64000 nodes: 0.011621s
+Search of 64000 nodes:    0.005712s
+Deletion of 64000 nodes:  0.008171s
+
+Insertion of 65000 nodes: 0.011774s
+Search of 65000 nodes:    0.004582s
+Deletion of 65000 nodes:  0.008153s
+
+Insertion of 66000 nodes: 0.012222s
+Search of 66000 nodes:    0.005061s
+Deletion of 66000 nodes:  0.008384s
+
+Insertion of 67000 nodes: 0.012018s
+Search of 67000 nodes:    0.005566s
+Deletion of 67000 nodes:  0.008975s
+
+Insertion of 68000 nodes: 0.012337s
+Search of 68000 nodes:    0.005069s
+Deletion of 68000 nodes:  0.009761s
+
+Insertion of 69000 nodes: 0.012646s
+Search of 69000 nodes:    0.005834s
+Deletion of 69000 nodes:  0.00816s
+
+Insertion of 70000 nodes: 0.012841s
+Search of 70000 nodes:    0.005011s
+Deletion of 70000 nodes:  0.009289s
+
+Insertion of 71000 nodes: 0.013514s
+Search of 71000 nodes:    0.005762s
+Deletion of 71000 nodes:  0.008677s
+
+Insertion of 72000 nodes: 0.014267s
+Search of 72000 nodes:    0.005893s
+Deletion of 72000 nodes:  0.009029s
+
+Insertion of 73000 nodes: 0.014318s
+Search of 73000 nodes:    0.005826s
+Deletion of 73000 nodes:  0.009998s
+
+Insertion of 74000 nodes: 0.013432s
+Search of 74000 nodes:    0.005748s
+Deletion of 74000 nodes:  0.009252s
+
+Insertion of 75000 nodes: 0.014889s
+Search of 75000 nodes:    0.006036s
+Deletion of 75000 nodes:  0.009625s
+
+Insertion of 76000 nodes: 0.01483s
+Search of 76000 nodes:    0.006277s
+Deletion of 76000 nodes:  0.009793s
+
+Insertion of 77000 nodes: 0.014219s
+Search of 77000 nodes:    0.006189s
+Deletion of 77000 nodes:  0.010527s
+
+Insertion of 78000 nodes: 0.014055s
+Search of 78000 nodes:    0.006906s
+Deletion of 78000 nodes:  0.00907s
+
+Insertion of 79000 nodes: 0.014273s
+Search of 79000 nodes:    0.006372s
+Deletion of 79000 nodes:  0.009469s
+
+Insertion of 80000 nodes: 0.014895s
+Search of 80000 nodes:    0.006287s
+Deletion of 80000 nodes:  0.009985s
+
+Insertion of 81000 nodes: 0.01504s
+Search of 81000 nodes:    0.006005s
+Deletion of 81000 nodes:  0.012372s
+
+Insertion of 82000 nodes: 0.015001s
+Search of 82000 nodes:    0.006375s
+Deletion of 82000 nodes:  0.010707s
+
+Insertion of 83000 nodes: 0.015336s
+Search of 83000 nodes:    0.007067s
+Deletion of 83000 nodes:  0.01099s
+
+Insertion of 84000 nodes: 0.016498s
+Search of 84000 nodes:    0.007625s
+Deletion of 84000 nodes:  0.011262s
+
+Insertion of 85000 nodes: 0.016786s
+Search of 85000 nodes:    0.006893s
+Deletion of 85000 nodes:  0.011689s
+
+Insertion of 86000 nodes: 0.016621s
+Search of 86000 nodes:    0.006703s
+Deletion of 86000 nodes:  0.010629s
+
+Insertion of 87000 nodes: 0.016062s
+Search of 87000 nodes:    0.007043s
+Deletion of 87000 nodes:  0.011363s
+
+Insertion of 88000 nodes: 0.017148s
+Search of 88000 nodes:    0.007284s
+Deletion of 88000 nodes:  0.010443s
+
+Insertion of 89000 nodes: 0.016716s
+Search of 89000 nodes:    0.008618s
+Deletion of 89000 nodes:  0.012207s
+
+Insertion of 90000 nodes: 0.016424s
+Search of 90000 nodes:    0.006417s
+Deletion of 90000 nodes:  0.011862s
+
+Insertion of 91000 nodes: 0.016884s
+Search of 91000 nodes:    0.007599s
+Deletion of 91000 nodes:  0.011731s
+
+Insertion of 92000 nodes: 0.017442s
+Search of 92000 nodes:    0.00707s
+Deletion of 92000 nodes:  0.012159s
+
+Insertion of 93000 nodes: 0.017713s
+Search of 93000 nodes:    0.007338s
+Deletion of 93000 nodes:  0.011404s
+
+Insertion of 94000 nodes: 0.017336s
+Search of 94000 nodes:    0.007535s
+Deletion of 94000 nodes:  0.01238s
+
+Insertion of 95000 nodes: 0.01758s
+Search of 95000 nodes:    0.007366s
+Deletion of 95000 nodes:  0.012019s
+
+Insertion of 96000 nodes: 0.01745s
+Search of 96000 nodes:    0.007515s
+Deletion of 96000 nodes:  0.01312s
+
+Insertion of 97000 nodes: 0.017686s
+Search of 97000 nodes:    0.007885s
+Deletion of 97000 nodes:  0.012665s
+
+Insertion of 98000 nodes: 0.018354s
+Search of 98000 nodes:    0.008793s
+Deletion of 98000 nodes:  0.012785s
+
+Insertion of 99000 nodes: 0.019699s
+Search of 99000 nodes:    0.008131s
+Deletion of 99000 nodes:  0.011754s
+
+Insertion of 100000 nodes: 0.018249s
+Search of 100000 nodes:    0.007156s
+Deletion of 100000 nodes:  0.012572s
+
+Insertion of 101000 nodes: 0.018851s
+Search of 101000 nodes:    0.008181s
+Deletion of 101000 nodes:  0.014065s
+
+Insertion of 102000 nodes: 0.019384s
+Search of 102000 nodes:    0.008939s
+Deletion of 102000 nodes:  0.014213s
+
+Insertion of 103000 nodes: 0.020171s
+Search of 103000 nodes:    0.007936s
+Deletion of 103000 nodes:  0.014273s
+
+Insertion of 104000 nodes: 0.020178s
+Search of 104000 nodes:    0.007938s
+Deletion of 104000 nodes:  0.01318s
+
+Insertion of 105000 nodes: 0.0201s
+Search of 105000 nodes:    0.008098s
+Deletion of 105000 nodes:  0.013086s
+
+Insertion of 106000 nodes: 0.019995s
+Search of 106000 nodes:    0.009016s
+Deletion of 106000 nodes:  0.013626s
+
+Insertion of 107000 nodes: 0.020413s
+Search of 107000 nodes:    0.00849s
+Deletion of 107000 nodes:  0.013337s
+
+Insertion of 108000 nodes: 0.020602s
+Search of 108000 nodes:    0.008506s
+Deletion of 108000 nodes:  0.014739s
+
+Insertion of 109000 nodes: 0.020961s
+Search of 109000 nodes:    0.009822s
+Deletion of 109000 nodes:  0.01475s
+
+Insertion of 110000 nodes: 0.021147s
+Search of 110000 nodes:    0.009236s
+Deletion of 110000 nodes:  0.01449s
+
+Insertion of 111000 nodes: 0.021381s
+Search of 111000 nodes:    0.008921s
+Deletion of 111000 nodes:  0.014766s
+
+Insertion of 112000 nodes: 0.021683s
+Search of 112000 nodes:    0.009963s
+Deletion of 112000 nodes:  0.014833s
+
+Insertion of 113000 nodes: 0.021655s
+Search of 113000 nodes:    0.010003s
+Deletion of 113000 nodes:  0.01444s
+
+Insertion of 114000 nodes: 0.023221s
+Search of 114000 nodes:    0.009333s
+Deletion of 114000 nodes:  0.014884s
+
+Insertion of 115000 nodes: 0.022406s
+Search of 115000 nodes:    0.009167s
+Deletion of 115000 nodes:  0.016422s
+
+Insertion of 116000 nodes: 0.022137s
+Search of 116000 nodes:    0.009999s
+Deletion of 116000 nodes:  0.015229s
+
+Insertion of 117000 nodes: 0.023555s
+Search of 117000 nodes:    0.010644s
+Deletion of 117000 nodes:  0.016022s
+
+Insertion of 118000 nodes: 0.02214s
+Search of 118000 nodes:    0.009949s
+Deletion of 118000 nodes:  0.015757s
+
+Insertion of 119000 nodes: 0.023199s
+Search of 119000 nodes:    0.009629s
+Deletion of 119000 nodes:  0.014791s
+
+Insertion of 120000 nodes: 0.023128s
+Search of 120000 nodes:    0.009868s
+Deletion of 120000 nodes:  0.016122s
+
+Insertion of 121000 nodes: 0.021607s
+Search of 121000 nodes:    0.010514s
+Deletion of 121000 nodes:  0.015359s
+
+Insertion of 122000 nodes: 0.023531s
+Search of 122000 nodes:    0.009715s
+Deletion of 122000 nodes:  0.017767s
+
+Insertion of 123000 nodes: 0.022979s
+Search of 123000 nodes:    0.010357s
+Deletion of 123000 nodes:  0.01522s
+
+Insertion of 124000 nodes: 0.024808s
+Search of 124000 nodes:    0.010109s
+Deletion of 124000 nodes:  0.015801s
+
+Insertion of 125000 nodes: 0.023869s
+Search of 125000 nodes:    0.011334s
+Deletion of 125000 nodes:  0.015575s
+
+Insertion of 126000 nodes: 0.025364s
+Search of 126000 nodes:    0.010555s
+Deletion of 126000 nodes:  0.016165s
+
+Insertion of 127000 nodes: 0.025312s
+Search of 127000 nodes:    0.011259s
+Deletion of 127000 nodes:  0.016624s
+
+Insertion of 128000 nodes: 0.024951s
+Search of 128000 nodes:    0.011033s
+Deletion of 128000 nodes:  0.016563s
+
+Insertion of 129000 nodes: 0.024915s
+Search of 129000 nodes:    0.011743s
+Deletion of 129000 nodes:  0.017392s
+
+Insertion of 130000 nodes: 0.025746s
+Search of 130000 nodes:    0.011869s
+Deletion of 130000 nodes:  0.018335s
+
+Insertion of 131000 nodes: 0.024914s
+Search of 131000 nodes:    0.010914s
+Deletion of 131000 nodes:  0.017508s
+
+Insertion of 132000 nodes: 0.026283s
+Search of 132000 nodes:    0.011323s
+Deletion of 132000 nodes:  0.018998s
+
+Insertion of 133000 nodes: 0.025272s
+Search of 133000 nodes:    0.014123s
+Deletion of 133000 nodes:  0.018304s
+
+Insertion of 134000 nodes: 0.026778s
+Search of 134000 nodes:    0.010781s
+Deletion of 134000 nodes:  0.017933s
+
+Insertion of 135000 nodes: 0.02731s
+Search of 135000 nodes:    0.010995s
+Deletion of 135000 nodes:  0.018595s
+
+Insertion of 136000 nodes: 0.026199s
+Search of 136000 nodes:    0.011262s
+Deletion of 136000 nodes:  0.017959s
+
+Insertion of 137000 nodes: 0.026636s
+Search of 137000 nodes:    0.012016s
+Deletion of 137000 nodes:  0.017253s
+
+Insertion of 138000 nodes: 0.027143s
+Search of 138000 nodes:    0.011334s
+Deletion of 138000 nodes:  0.019357s
+
+Insertion of 139000 nodes: 0.027891s
+Search of 139000 nodes:    0.012572s
+Deletion of 139000 nodes:  0.017233s
+
+Insertion of 140000 nodes: 0.027379s
+Search of 140000 nodes:    0.012489s
+Deletion of 140000 nodes:  0.018506s
+
+Insertion of 141000 nodes: 0.027348s
+Search of 141000 nodes:    0.012123s
+Deletion of 141000 nodes:  0.019237s
+
+Insertion of 142000 nodes: 0.028412s
+Search of 142000 nodes:    0.012353s
+Deletion of 142000 nodes:  0.019876s
+
+Insertion of 143000 nodes: 0.02823s
+Search of 143000 nodes:    0.012099s
+Deletion of 143000 nodes:  0.019446s
+
+Insertion of 144000 nodes: 0.029107s
+Search of 144000 nodes:    0.013167s
+Deletion of 144000 nodes:  0.020136s
+
+Insertion of 145000 nodes: 0.028653s
+Search of 145000 nodes:    0.013537s
+Deletion of 145000 nodes:  0.020391s
+
+Insertion of 146000 nodes: 0.02968s
+Search of 146000 nodes:    0.014752s
+Deletion of 146000 nodes:  0.019083s
+
+Insertion of 147000 nodes: 0.029872s
+Search of 147000 nodes:    0.013446s
+Deletion of 147000 nodes:  0.020504s
+
+Insertion of 148000 nodes: 0.030371s
+Search of 148000 nodes:    0.011219s
+Deletion of 148000 nodes:  0.01873s
+
+Insertion of 149000 nodes: 0.03019s
+Search of 149000 nodes:    0.012445s
+Deletion of 149000 nodes:  0.021629s
+
+Insertion of 150000 nodes: 0.029204s
+Search of 150000 nodes:    0.015274s
+Deletion of 150000 nodes:  0.020534s
+
+Insertion of 151000 nodes: 0.029767s
+Search of 151000 nodes:    0.015312s
+Deletion of 151000 nodes:  0.019713s
+
+Insertion of 152000 nodes: 0.029824s
+Search of 152000 nodes:    0.013495s
+Deletion of 152000 nodes:  0.019868s
+
+Insertion of 153000 nodes: 0.031174s
+Search of 153000 nodes:    0.013444s
+Deletion of 153000 nodes:  0.019489s
+
+Insertion of 154000 nodes: 0.029887s
+Search of 154000 nodes:    0.013459s
+Deletion of 154000 nodes:  0.019798s
+
+Insertion of 155000 nodes: 0.031352s
+Search of 155000 nodes:    0.013654s
+Deletion of 155000 nodes:  0.020373s
+
+Insertion of 156000 nodes: 0.031528s
+Search of 156000 nodes:    0.012783s
+Deletion of 156000 nodes:  0.020677s
+
+Insertion of 157000 nodes: 0.031175s
+Search of 157000 nodes:    0.01566s
+Deletion of 157000 nodes:  0.020906s
+
+Insertion of 158000 nodes: 0.030955s
+Search of 158000 nodes:    0.013493s
+Deletion of 158000 nodes:  0.020683s
+
+Insertion of 159000 nodes: 0.031737s
+Search of 159000 nodes:    0.013846s
+Deletion of 159000 nodes:  0.020206s
+
+Insertion of 160000 nodes: 0.032488s
+Search of 160000 nodes:    0.014148s
+Deletion of 160000 nodes:  0.020135s
+
+Insertion of 161000 nodes: 0.03201s
+Search of 161000 nodes:    0.013614s
+Deletion of 161000 nodes:  0.022677s
+
+Insertion of 162000 nodes: 0.031944s
+Search of 162000 nodes:    0.013935s
+Deletion of 162000 nodes:  0.021171s
+
+Insertion of 163000 nodes: 0.032294s
+Search of 163000 nodes:    0.01545s
+Deletion of 163000 nodes:  0.021781s
+
+Insertion of 164000 nodes: 0.031842s
+Search of 164000 nodes:    0.013462s
+Deletion of 164000 nodes:  0.021249s
+
+Insertion of 165000 nodes: 0.034072s
+Search of 165000 nodes:    0.013949s
+Deletion of 165000 nodes:  0.023349s
+
+Insertion of 166000 nodes: 0.033885s
+Search of 166000 nodes:    0.016221s
+Deletion of 166000 nodes:  0.022634s
+
+Insertion of 167000 nodes: 0.034392s
+Search of 167000 nodes:    0.015455s
+Deletion of 167000 nodes:  0.023045s
+
+Insertion of 168000 nodes: 0.033644s
+Search of 168000 nodes:    0.015794s
+Deletion of 168000 nodes:  0.02311s
+
+Insertion of 169000 nodes: 0.033982s
+Search of 169000 nodes:    0.013524s
+Deletion of 169000 nodes:  0.024161s
+
+Insertion of 170000 nodes: 0.035407s
+Search of 170000 nodes:    0.014178s
+Deletion of 170000 nodes:  0.02451s
+
+Insertion of 171000 nodes: 0.033791s
+Search of 171000 nodes:    0.013619s
+Deletion of 171000 nodes:  0.02151s
+
+Insertion of 172000 nodes: 0.033325s
+Search of 172000 nodes:    0.015378s
+Deletion of 172000 nodes:  0.023543s
+
+Insertion of 173000 nodes: 0.033773s
+Search of 173000 nodes:    0.014144s
+Deletion of 173000 nodes:  0.023673s
+
+Insertion of 174000 nodes: 0.034998s
+Search of 174000 nodes:    0.013829s
+Deletion of 174000 nodes:  0.023107s
+
+Insertion of 175000 nodes: 0.034051s
+Search of 175000 nodes:    0.014695s
+Deletion of 175000 nodes:  0.021997s
+
+Insertion of 176000 nodes: 0.03498s
+Search of 176000 nodes:    0.014879s
+Deletion of 176000 nodes:  0.023317s
+
+Insertion of 177000 nodes: 0.035853s
+Search of 177000 nodes:    0.016264s
+Deletion of 177000 nodes:  0.023413s
+
+Insertion of 178000 nodes: 0.03615s
+Search of 178000 nodes:    0.014739s
+Deletion of 178000 nodes:  0.023643s
+
+Insertion of 179000 nodes: 0.036161s
+Search of 179000 nodes:    0.014662s
+Deletion of 179000 nodes:  0.02437s
+
+Insertion of 180000 nodes: 0.035463s
+Search of 180000 nodes:    0.017741s
+Deletion of 180000 nodes:  0.024533s
+
+Insertion of 181000 nodes: 0.034713s
+Search of 181000 nodes:    0.015522s
+Deletion of 181000 nodes:  0.023702s
+
+Insertion of 182000 nodes: 0.037059s
+Search of 182000 nodes:    0.013847s
+Deletion of 182000 nodes:  0.022907s
+
+Insertion of 183000 nodes: 0.036465s
+Search of 183000 nodes:    0.015544s
+Deletion of 183000 nodes:  0.027232s
+
+Insertion of 184000 nodes: 0.038076s
+Search of 184000 nodes:    0.016425s
+Deletion of 184000 nodes:  0.025712s
+
+Insertion of 185000 nodes: 0.037102s
+Search of 185000 nodes:    0.014851s
+Deletion of 185000 nodes:  0.025691s
+
+Insertion of 186000 nodes: 0.038287s
+Search of 186000 nodes:    0.014379s
+Deletion of 186000 nodes:  0.023862s
+
+Insertion of 187000 nodes: 0.037954s
+Search of 187000 nodes:    0.016678s
+Deletion of 187000 nodes:  0.026042s
+
+Insertion of 188000 nodes: 0.039006s
+Search of 188000 nodes:    0.016643s
+Deletion of 188000 nodes:  0.024655s
+
+Insertion of 189000 nodes: 0.03778s
+Search of 189000 nodes:    0.015022s
+Deletion of 189000 nodes:  0.026572s
+
+Insertion of 190000 nodes: 0.038525s
+Search of 190000 nodes:    0.017129s
+Deletion of 190000 nodes:  0.023783s
+
+Insertion of 191000 nodes: 0.037398s
+Search of 191000 nodes:    0.015656s
+Deletion of 191000 nodes:  0.025103s
+
+Insertion of 192000 nodes: 0.039213s
+Search of 192000 nodes:    0.016024s
+Deletion of 192000 nodes:  0.025312s
+
+Insertion of 193000 nodes: 0.038525s
+Search of 193000 nodes:    0.015862s
+Deletion of 193000 nodes:  0.026166s
+
+Insertion of 194000 nodes: 0.038223s
+Search of 194000 nodes:    0.016587s
+Deletion of 194000 nodes:  0.025534s
+
+Insertion of 195000 nodes: 0.038926s
+Search of 195000 nodes:    0.01726s
+Deletion of 195000 nodes:  0.02645s
+
+Insertion of 196000 nodes: 0.039009s
+Search of 196000 nodes:    0.018583s
+Deletion of 196000 nodes:  0.026107s
+
+Insertion of 197000 nodes: 0.038969s
+Search of 197000 nodes:    0.016305s
+Deletion of 197000 nodes:  0.027286s
+
+Insertion of 198000 nodes: 0.039787s
+Search of 198000 nodes:    0.017523s
+Deletion of 198000 nodes:  0.027301s
+
+Insertion of 199000 nodes: 0.03916s
+Search of 199000 nodes:    0.016069s
+Deletion of 199000 nodes:  0.026356s
+
+Insertion of 200000 nodes: 0.041084s
+Search of 200000 nodes:    0.016067s
+Deletion of 200000 nodes:  0.02912s
+
+Insertion of 201000 nodes: 0.041419s
+Search of 201000 nodes:    0.016659s
+Deletion of 201000 nodes:  0.0268s
+
+Insertion of 202000 nodes: 0.042122s
+Search of 202000 nodes:    0.017065s
+Deletion of 202000 nodes:  0.02765s
+
+Insertion of 203000 nodes: 0.040335s
+Search of 203000 nodes:    0.018476s
+Deletion of 203000 nodes:  0.028463s
+
+Insertion of 204000 nodes: 0.041827s
+Search of 204000 nodes:    0.018214s
+Deletion of 204000 nodes:  0.027942s
+
+Insertion of 205000 nodes: 0.042814s
+Search of 205000 nodes:    0.01745s
+Deletion of 205000 nodes:  0.027697s
+
+Insertion of 206000 nodes: 0.040979s
+Search of 206000 nodes:    0.018482s
+Deletion of 206000 nodes:  0.028186s
+
+Insertion of 207000 nodes: 0.042153s
+Search of 207000 nodes:    0.017444s
+Deletion of 207000 nodes:  0.030198s
+
+Insertion of 208000 nodes: 0.042857s
+Search of 208000 nodes:    0.01798s
+Deletion of 208000 nodes:  0.02863s
+
+Insertion of 209000 nodes: 0.041058s
+Search of 209000 nodes:    0.017508s
+Deletion of 209000 nodes:  0.02841s
+
+Insertion of 210000 nodes: 0.04091s
+Search of 210000 nodes:    0.018179s
+Deletion of 210000 nodes:  0.028474s
+
+Insertion of 211000 nodes: 0.042274s
+Search of 211000 nodes:    0.018293s
+Deletion of 211000 nodes:  0.0275s
+
+Insertion of 212000 nodes: 0.041894s
+Search of 212000 nodes:    0.017667s
+Deletion of 212000 nodes:  0.027895s
+
+Insertion of 213000 nodes: 0.04212s
+Search of 213000 nodes:    0.019043s
+Deletion of 213000 nodes:  0.028437s
+
+Insertion of 214000 nodes: 0.044029s
+Search of 214000 nodes:    0.020036s
+Deletion of 214000 nodes:  0.029773s
+
+Insertion of 215000 nodes: 0.044222s
+Search of 215000 nodes:    0.019591s
+Deletion of 215000 nodes:  0.029411s
+
+Insertion of 216000 nodes: 0.043915s
+Search of 216000 nodes:    0.019845s
+Deletion of 216000 nodes:  0.030394s
+
+Insertion of 217000 nodes: 0.043491s
+Search of 217000 nodes:    0.018864s
+Deletion of 217000 nodes:  0.030695s
+
+Insertion of 218000 nodes: 0.043532s
+Search of 218000 nodes:    0.021545s
+Deletion of 218000 nodes:  0.028586s
+
+Insertion of 219000 nodes: 0.042384s
+Search of 219000 nodes:    0.018779s
+Deletion of 219000 nodes:  0.029462s
+
+Insertion of 220000 nodes: 0.044831s
+Search of 220000 nodes:    0.019123s
+Deletion of 220000 nodes:  0.030453s
+
+Insertion of 221000 nodes: 0.044005s
+Search of 221000 nodes:    0.019896s
+Deletion of 221000 nodes:  0.031424s
+
+Insertion of 222000 nodes: 0.045571s
+Search of 222000 nodes:    0.020197s
+Deletion of 222000 nodes:  0.030727s
+
+Insertion of 223000 nodes: 0.044518s
+Search of 223000 nodes:    0.01898s
+Deletion of 223000 nodes:  0.028805s
+
+Insertion of 224000 nodes: 0.04437s
+Search of 224000 nodes:    0.019754s
+Deletion of 224000 nodes:  0.02923s
+
+Insertion of 225000 nodes: 0.046986s
+Search of 225000 nodes:    0.020328s
+Deletion of 225000 nodes:  0.031345s
+
+Insertion of 226000 nodes: 0.045842s
+Search of 226000 nodes:    0.01899s
+Deletion of 226000 nodes:  0.029706s
+
+Insertion of 227000 nodes: 0.043752s
+Search of 227000 nodes:    0.018907s
+Deletion of 227000 nodes:  0.030981s
+
+Insertion of 228000 nodes: 0.04537s
+Search of 228000 nodes:    0.020227s
+Deletion of 228000 nodes:  0.031586s
+
+Insertion of 229000 nodes: 0.044638s
+Search of 229000 nodes:    0.01822s
+Deletion of 229000 nodes:  0.030607s
+
+Insertion of 230000 nodes: 0.046059s
+Search of 230000 nodes:    0.019957s
+Deletion of 230000 nodes:  0.030233s
+
+Insertion of 231000 nodes: 0.04748s
+Search of 231000 nodes:    0.019936s
+Deletion of 231000 nodes:  0.031745s
+
+Insertion of 232000 nodes: 0.04751s
+Search of 232000 nodes:    0.020584s
+Deletion of 232000 nodes:  0.031156s
+
+Insertion of 233000 nodes: 0.047216s
+Search of 233000 nodes:    0.020434s
+Deletion of 233000 nodes:  0.032568s
+
+Insertion of 234000 nodes: 0.046964s
+Search of 234000 nodes:    0.021075s
+Deletion of 234000 nodes:  0.03167s
+
+Insertion of 235000 nodes: 0.047472s
+Search of 235000 nodes:    0.020243s
+Deletion of 235000 nodes:  0.032834s
+
+Insertion of 236000 nodes: 0.048343s
+Search of 236000 nodes:    0.021411s
+Deletion of 236000 nodes:  0.031818s
+
+Insertion of 237000 nodes: 0.048081s
+Search of 237000 nodes:    0.021914s
+Deletion of 237000 nodes:  0.033467s
+
+Insertion of 238000 nodes: 0.046979s
+Search of 238000 nodes:    0.019933s
+Deletion of 238000 nodes:  0.033656s
+
+Insertion of 239000 nodes: 0.046495s
+Search of 239000 nodes:    0.019692s
+Deletion of 239000 nodes:  0.032095s
+
+Insertion of 240000 nodes: 0.04769s
+Search of 240000 nodes:    0.019774s
+Deletion of 240000 nodes:  0.033572s
+
+Insertion of 241000 nodes: 0.049322s
+Search of 241000 nodes:    0.020402s
+Deletion of 241000 nodes:  0.03298s
+
+Insertion of 242000 nodes: 0.04826s
+Search of 242000 nodes:    0.023732s
+Deletion of 242000 nodes:  0.032806s
+
+Insertion of 243000 nodes: 0.048799s
+Search of 243000 nodes:    0.021662s
+Deletion of 243000 nodes:  0.032984s
+
+Insertion of 244000 nodes: 0.049661s
+Search of 244000 nodes:    0.022143s
+Deletion of 244000 nodes:  0.035072s
+
+Insertion of 245000 nodes: 0.048102s
+Search of 245000 nodes:    0.021647s
+Deletion of 245000 nodes:  0.03213s
+
+Insertion of 246000 nodes: 0.049105s
+Search of 246000 nodes:    0.019205s
+Deletion of 246000 nodes:  0.033395s
+
+Insertion of 247000 nodes: 0.049671s
+Search of 247000 nodes:    0.022196s
+Deletion of 247000 nodes:  0.031861s
+
+Insertion of 248000 nodes: 0.049673s
+Search of 248000 nodes:    0.020714s
+Deletion of 248000 nodes:  0.033061s
+
+Insertion of 249000 nodes: 0.051217s
+Search of 249000 nodes:    0.023402s
+Deletion of 249000 nodes:  0.035025s
+
+Insertion of 250000 nodes: 0.052269s
+Search of 250000 nodes:    0.021328s
+Deletion of 250000 nodes:  0.034941s
+
+Insertion of 251000 nodes: 0.050995s
+Search of 251000 nodes:    0.021946s
+Deletion of 251000 nodes:  0.032427s
+
+Insertion of 252000 nodes: 0.050421s
+Search of 252000 nodes:    0.021903s
+Deletion of 252000 nodes:  0.033896s
+
+Insertion of 253000 nodes: 0.052389s
+Search of 253000 nodes:    0.021823s
+Deletion of 253000 nodes:  0.033164s
+
+Insertion of 254000 nodes: 0.05077s
+Search of 254000 nodes:    0.023252s
+Deletion of 254000 nodes:  0.034938s
+
+Insertion of 255000 nodes: 0.050767s
+Search of 255000 nodes:    0.022585s
+Deletion of 255000 nodes:  0.036361s
+
+Insertion of 256000 nodes: 0.050567s
+Search of 256000 nodes:    0.021057s
+Deletion of 256000 nodes:  0.038814s
+
+Insertion of 257000 nodes: 0.052289s
+Search of 257000 nodes:    0.020804s
+Deletion of 257000 nodes:  0.034399s
+
+Insertion of 258000 nodes: 0.052271s
+Search of 258000 nodes:    0.022389s
+Deletion of 258000 nodes:  0.036708s
+
+Insertion of 259000 nodes: 0.052662s
+Search of 259000 nodes:    0.023858s
+Deletion of 259000 nodes:  0.03569s
+
+Insertion of 260000 nodes: 0.053332s
+Search of 260000 nodes:    0.023203s
+Deletion of 260000 nodes:  0.035333s
+
+Insertion of 261000 nodes: 0.052992s
+Search of 261000 nodes:    0.023892s
+Deletion of 261000 nodes:  0.035541s
+
+Insertion of 262000 nodes: 0.053534s
+Search of 262000 nodes:    0.024142s
+Deletion of 262000 nodes:  0.033825s
+
+Insertion of 263000 nodes: 0.053475s
+Search of 263000 nodes:    0.023264s
+Deletion of 263000 nodes:  0.034207s
+
+Insertion of 264000 nodes: 0.051802s
+Search of 264000 nodes:    0.023357s
+Deletion of 264000 nodes:  0.036302s
+
+Insertion of 265000 nodes: 0.053959s
+Search of 265000 nodes:    0.022318s
+Deletion of 265000 nodes:  0.034396s
+
+Insertion of 266000 nodes: 0.054304s
+Search of 266000 nodes:    0.023626s
+Deletion of 266000 nodes:  0.03673s
+
+Insertion of 267000 nodes: 0.05323s
+Search of 267000 nodes:    0.021755s
+Deletion of 267000 nodes:  0.035475s
+
+Insertion of 268000 nodes: 0.054542s
+Search of 268000 nodes:    0.024475s
+Deletion of 268000 nodes:  0.039012s
+
+Insertion of 269000 nodes: 0.055486s
+Search of 269000 nodes:    0.023376s
+Deletion of 269000 nodes:  0.038125s
+
+Insertion of 270000 nodes: 0.056019s
+Search of 270000 nodes:    0.024255s
+Deletion of 270000 nodes:  0.038024s
+
+Insertion of 271000 nodes: 0.05596s
+Search of 271000 nodes:    0.023041s
+Deletion of 271000 nodes:  0.034697s
+
+Insertion of 272000 nodes: 0.055561s
+Search of 272000 nodes:    0.025535s
+Deletion of 272000 nodes:  0.037377s
+
+Insertion of 273000 nodes: 0.055347s
+Search of 273000 nodes:    0.025748s
+Deletion of 273000 nodes:  0.037987s
+
+Insertion of 274000 nodes: 0.053212s
+Search of 274000 nodes:    0.02524s
+Deletion of 274000 nodes:  0.038109s
+
+Insertion of 275000 nodes: 0.055359s
+Search of 275000 nodes:    0.022366s
+Deletion of 275000 nodes:  0.03762s
+
+Insertion of 276000 nodes: 0.055643s
+Search of 276000 nodes:    0.023458s
+Deletion of 276000 nodes:  0.037402s
+
+Insertion of 277000 nodes: 0.056531s
+Search of 277000 nodes:    0.025089s
+Deletion of 277000 nodes:  0.040511s
+
+Insertion of 278000 nodes: 0.055707s
+Search of 278000 nodes:    0.021899s
+Deletion of 278000 nodes:  0.039677s
+
+Insertion of 279000 nodes: 0.055849s
+Search of 279000 nodes:    0.024655s
+Deletion of 279000 nodes:  0.037066s
+
+Insertion of 280000 nodes: 0.056205s
+Search of 280000 nodes:    0.025528s
+Deletion of 280000 nodes:  0.038576s
+
+Insertion of 281000 nodes: 0.055719s
+Search of 281000 nodes:    0.022873s
+Deletion of 281000 nodes:  0.039186s
+
+Insertion of 282000 nodes: 0.057765s
+Search of 282000 nodes:    0.022847s
+Deletion of 282000 nodes:  0.039062s
+
+Insertion of 283000 nodes: 0.055943s
+Search of 283000 nodes:    0.024077s
+Deletion of 283000 nodes:  0.039289s
+
+Insertion of 284000 nodes: 0.058016s
+Search of 284000 nodes:    0.024941s
+Deletion of 284000 nodes:  0.037296s
+
+Insertion of 285000 nodes: 0.05682s
+Search of 285000 nodes:    0.024462s
+Deletion of 285000 nodes:  0.038753s
+
+Insertion of 286000 nodes: 0.059184s
+Search of 286000 nodes:    0.02573s
+Deletion of 286000 nodes:  0.037699s
+
+Insertion of 287000 nodes: 0.058951s
+Search of 287000 nodes:    0.02482s
+Deletion of 287000 nodes:  0.039325s
+
+Insertion of 288000 nodes: 0.058558s
+Search of 288000 nodes:    0.025025s
+Deletion of 288000 nodes:  0.042599s
+
+Insertion of 289000 nodes: 0.059256s
+Search of 289000 nodes:    0.024341s
+Deletion of 289000 nodes:  0.039825s
+
+Insertion of 290000 nodes: 0.058882s
+Search of 290000 nodes:    0.026075s
+Deletion of 290000 nodes:  0.039034s
+
+Insertion of 291000 nodes: 0.059114s
+Search of 291000 nodes:    0.024326s
+Deletion of 291000 nodes:  0.041136s
+
+Insertion of 292000 nodes: 0.056702s
+Search of 292000 nodes:    0.025211s
+Deletion of 292000 nodes:  0.040543s
+
+Insertion of 293000 nodes: 0.060073s
+Search of 293000 nodes:    0.024642s
+Deletion of 293000 nodes:  0.040639s
+
+Insertion of 294000 nodes: 0.06103s
+Search of 294000 nodes:    0.02312s
+Deletion of 294000 nodes:  0.039088s
+
+Insertion of 295000 nodes: 0.061651s
+Search of 295000 nodes:    0.02396s
+Deletion of 295000 nodes:  0.039337s
+
+Insertion of 296000 nodes: 0.060157s
+Search of 296000 nodes:    0.02595s
+Deletion of 296000 nodes:  0.04109s
+
+Insertion of 297000 nodes: 0.060956s
+Search of 297000 nodes:    0.025338s
+Deletion of 297000 nodes:  0.040026s
+
+Insertion of 298000 nodes: 0.063353s
+Search of 298000 nodes:    0.025267s
+Deletion of 298000 nodes:  0.042048s
+
+Insertion of 299000 nodes: 0.061543s
+Search of 299000 nodes:    0.026919s
+Deletion of 299000 nodes:  0.039787s
+
+Insertion of 300000 nodes: 0.060881s
+Search of 300000 nodes:    0.025064s
+Deletion of 300000 nodes:  0.040504s
+
+Insertion of 301000 nodes: 0.060645s
+Search of 301000 nodes:    0.027088s
+Deletion of 301000 nodes:  0.040683s
+
+Insertion of 302000 nodes: 0.060562s
+Search of 302000 nodes:    0.024307s
+Deletion of 302000 nodes:  0.03813s
+
+Insertion of 303000 nodes: 0.061365s
+Search of 303000 nodes:    0.02532s
+Deletion of 303000 nodes:  0.04085s
+
+Insertion of 304000 nodes: 0.06245s
+Search of 304000 nodes:    0.025175s
+Deletion of 304000 nodes:  0.044063s
+
+Insertion of 305000 nodes: 0.060441s
+Search of 305000 nodes:    0.024437s
+Deletion of 305000 nodes:  0.043304s
+
+Insertion of 306000 nodes: 0.063327s
+Search of 306000 nodes:    0.024377s
+Deletion of 306000 nodes:  0.040942s
+
+Insertion of 307000 nodes: 0.06371s
+Search of 307000 nodes:    0.025892s
+Deletion of 307000 nodes:  0.041808s
+
+Insertion of 308000 nodes: 0.065273s
+Search of 308000 nodes:    0.027253s
+Deletion of 308000 nodes:  0.042571s
+
+Insertion of 309000 nodes: 0.06177s
+Search of 309000 nodes:    0.025833s
+Deletion of 309000 nodes:  0.040677s
+
+Insertion of 310000 nodes: 0.063473s
+Search of 310000 nodes:    0.025598s
+Deletion of 310000 nodes:  0.042153s
+
+Insertion of 311000 nodes: 0.062299s
+Search of 311000 nodes:    0.026052s
+Deletion of 311000 nodes:  0.039758s
+
+Insertion of 312000 nodes: 0.063706s
+Search of 312000 nodes:    0.028334s
+Deletion of 312000 nodes:  0.040996s
+
+Insertion of 313000 nodes: 0.062531s
+Search of 313000 nodes:    0.027203s
+Deletion of 313000 nodes:  0.044238s
+
+Insertion of 314000 nodes: 0.061101s
+Search of 314000 nodes:    0.026505s
+Deletion of 314000 nodes:  0.042259s
+
+Insertion of 315000 nodes: 0.063226s
+Search of 315000 nodes:    0.025423s
+Deletion of 315000 nodes:  0.042251s
+
+Insertion of 316000 nodes: 0.067008s
+Search of 316000 nodes:    0.036963s
+Deletion of 316000 nodes:  0.048093s
+
+Insertion of 317000 nodes: 0.073782s
+Search of 317000 nodes:    0.03159s
+Deletion of 317000 nodes:  0.05776s
+
+Insertion of 318000 nodes: 0.068333s
+Search of 318000 nodes:    0.027364s
+Deletion of 318000 nodes:  0.047838s
+
+Insertion of 319000 nodes: 0.064222s
+Search of 319000 nodes:    0.026765s
+Deletion of 319000 nodes:  0.044311s
+
+Insertion of 320000 nodes: 0.065716s
+Search of 320000 nodes:    0.027835s
+Deletion of 320000 nodes:  0.046637s
+
+Insertion of 321000 nodes: 0.06834s
+Search of 321000 nodes:    0.027513s
+Deletion of 321000 nodes:  0.046196s
+
+Insertion of 322000 nodes: 0.065705s
+Search of 322000 nodes:    0.027668s
+Deletion of 322000 nodes:  0.045184s
+
+Insertion of 323000 nodes: 0.067378s
+Search of 323000 nodes:    0.030206s
+Deletion of 323000 nodes:  0.044648s
+
+Insertion of 324000 nodes: 0.064289s
+Search of 324000 nodes:    0.028627s
+Deletion of 324000 nodes:  0.045336s
+
+Insertion of 325000 nodes: 0.071076s
+Search of 325000 nodes:    0.029118s
+Deletion of 325000 nodes:  0.044763s
+
+Insertion of 326000 nodes: 0.067407s
+Search of 326000 nodes:    0.027489s
+Deletion of 326000 nodes:  0.047222s
+
+Insertion of 327000 nodes: 0.067719s
+Search of 327000 nodes:    0.027119s
+Deletion of 327000 nodes:  0.0487s
+
+Insertion of 328000 nodes: 0.06658s
+Search of 328000 nodes:    0.028594s
+Deletion of 328000 nodes:  0.047368s
+
+Insertion of 329000 nodes: 0.069073s
+Search of 329000 nodes:    0.030984s
+Deletion of 329000 nodes:  0.045545s
+
+Insertion of 330000 nodes: 0.0672s
+Search of 330000 nodes:    0.029169s
+Deletion of 330000 nodes:  0.047847s
+
+Insertion of 331000 nodes: 0.070501s
+Search of 331000 nodes:    0.03232s
+Deletion of 331000 nodes:  0.049686s
+
+Insertion of 332000 nodes: 0.071226s
+Search of 332000 nodes:    0.031435s
+Deletion of 332000 nodes:  0.047121s
+
+Insertion of 333000 nodes: 0.072313s
+Search of 333000 nodes:    0.030802s
+Deletion of 333000 nodes:  0.048586s
+
+Insertion of 334000 nodes: 0.073741s
+Search of 334000 nodes:    0.03374s
+Deletion of 334000 nodes:  0.052325s
+
+Insertion of 335000 nodes: 0.07046s
+Search of 335000 nodes:    0.031364s
+Deletion of 335000 nodes:  0.050754s
+
+Insertion of 336000 nodes: 0.071246s
+Search of 336000 nodes:    0.03117s
+Deletion of 336000 nodes:  0.055094s
+
+Insertion of 337000 nodes: 0.072847s
+Search of 337000 nodes:    0.031096s
+Deletion of 337000 nodes:  0.051244s
+
+Insertion of 338000 nodes: 0.073957s
+Search of 338000 nodes:    0.031868s
+Deletion of 338000 nodes:  0.046977s
+
+Insertion of 339000 nodes: 0.069318s
+Search of 339000 nodes:    0.031027s
+Deletion of 339000 nodes:  0.059213s
+
+Insertion of 340000 nodes: 0.072049s
+Search of 340000 nodes:    0.031818s
+Deletion of 340000 nodes:  0.045773s
+
+Insertion of 341000 nodes: 0.071207s
+Search of 341000 nodes:    0.031613s
+Deletion of 341000 nodes:  0.046523s
+
+Insertion of 342000 nodes: 0.068798s
+Search of 342000 nodes:    0.032159s
+Deletion of 342000 nodes:  0.049266s
+
+Insertion of 343000 nodes: 0.073971s
+Search of 343000 nodes:    0.033847s
+Deletion of 343000 nodes:  0.048827s
+
+Insertion of 344000 nodes: 0.07632s
+Search of 344000 nodes:    0.033279s
+Deletion of 344000 nodes:  0.046212s
+
+Insertion of 345000 nodes: 0.074385s
+Search of 345000 nodes:    0.02826s
+Deletion of 345000 nodes:  0.048484s
+
+Insertion of 346000 nodes: 0.075478s
+Search of 346000 nodes:    0.034655s
+Deletion of 346000 nodes:  0.049841s
+
+Insertion of 347000 nodes: 0.073408s
+Search of 347000 nodes:    0.03336s
+Deletion of 347000 nodes:  0.049073s
+
+Insertion of 348000 nodes: 0.072743s
+Search of 348000 nodes:    0.033009s
+Deletion of 348000 nodes:  0.048502s
+
+Insertion of 349000 nodes: 0.069447s
+Search of 349000 nodes:    0.030787s
+Deletion of 349000 nodes:  0.048575s
+
+Insertion of 350000 nodes: 0.068518s
+Search of 350000 nodes:    0.032932s
+Deletion of 350000 nodes:  0.051985s
+
+Insertion of 351000 nodes: 0.073595s
+Search of 351000 nodes:    0.034113s
+Deletion of 351000 nodes:  0.051053s
+
+Insertion of 352000 nodes: 0.072215s
+Search of 352000 nodes:    0.030115s
+Deletion of 352000 nodes:  0.049381s
+
+Insertion of 353000 nodes: 0.074636s
+Search of 353000 nodes:    0.033596s
+Deletion of 353000 nodes:  0.051256s
+
+Insertion of 354000 nodes: 0.074924s
+Search of 354000 nodes:    0.031851s
+Deletion of 354000 nodes:  0.049286s
+
+Insertion of 355000 nodes: 0.078983s
+Search of 355000 nodes:    0.032578s
+Deletion of 355000 nodes:  0.05154s
+
+Insertion of 356000 nodes: 0.077838s
+Search of 356000 nodes:    0.031618s
+Deletion of 356000 nodes:  0.051158s
+
+Insertion of 357000 nodes: 0.075838s
+Search of 357000 nodes:    0.032316s
+Deletion of 357000 nodes:  0.052622s
+
+Insertion of 358000 nodes: 0.074751s
+Search of 358000 nodes:    0.032752s
+Deletion of 358000 nodes:  0.049464s
+
+Insertion of 359000 nodes: 0.075755s
+Search of 359000 nodes:    0.033991s
+Deletion of 359000 nodes:  0.051272s
+
+Insertion of 360000 nodes: 0.074717s
+Search of 360000 nodes:    0.033181s
+Deletion of 360000 nodes:  0.050502s
+
+Insertion of 361000 nodes: 0.072899s
+Search of 361000 nodes:    0.030865s
+Deletion of 361000 nodes:  0.050339s
+
+Insertion of 362000 nodes: 0.072196s
+Search of 362000 nodes:    0.033247s
+Deletion of 362000 nodes:  0.052998s
+
+Insertion of 363000 nodes: 0.073917s
+Search of 363000 nodes:    0.035483s
+Deletion of 363000 nodes:  0.049005s
+
+Insertion of 364000 nodes: 0.075137s
+Search of 364000 nodes:    0.034004s
+Deletion of 364000 nodes:  0.049686s
+
+Insertion of 365000 nodes: 0.073875s
+Search of 365000 nodes:    0.034543s
+Deletion of 365000 nodes:  0.048935s
+
+Insertion of 366000 nodes: 0.074093s
+Search of 366000 nodes:    0.03302s
+Deletion of 366000 nodes:  0.051614s
+
+Insertion of 367000 nodes: 0.075698s
+Search of 367000 nodes:    0.032629s
+Deletion of 367000 nodes:  0.049995s
+
+Insertion of 368000 nodes: 0.075754s
+Search of 368000 nodes:    0.034616s
+Deletion of 368000 nodes:  0.049652s
+
+Insertion of 369000 nodes: 0.077549s
+Search of 369000 nodes:    0.035086s
+Deletion of 369000 nodes:  0.052771s
+
+Insertion of 370000 nodes: 0.075758s
+Search of 370000 nodes:    0.036172s
+Deletion of 370000 nodes:  0.049351s
+
+Insertion of 371000 nodes: 0.075796s
+Search of 371000 nodes:    0.033599s
+Deletion of 371000 nodes:  0.053253s
+
+Insertion of 372000 nodes: 0.077712s
+Search of 372000 nodes:    0.037266s
+Deletion of 372000 nodes:  0.053256s
+
+Insertion of 373000 nodes: 0.076771s
+Search of 373000 nodes:    0.035132s
+Deletion of 373000 nodes:  0.050654s
+
+Insertion of 374000 nodes: 0.077831s
+Search of 374000 nodes:    0.035621s
+Deletion of 374000 nodes:  0.052328s
+
+Insertion of 375000 nodes: 0.075481s
+Search of 375000 nodes:    0.035612s
+Deletion of 375000 nodes:  0.05515s
+
+Insertion of 376000 nodes: 0.078342s
+Search of 376000 nodes:    0.033526s
+Deletion of 376000 nodes:  0.050132s
+
+Insertion of 377000 nodes: 0.076228s
+Search of 377000 nodes:    0.033013s
+Deletion of 377000 nodes:  0.053069s
+
+Insertion of 378000 nodes: 0.075077s
+Search of 378000 nodes:    0.030983s
+Deletion of 378000 nodes:  0.051638s
+
+Insertion of 379000 nodes: 0.078965s
+Search of 379000 nodes:    0.034298s
+Deletion of 379000 nodes:  0.050863s
+
+Insertion of 380000 nodes: 0.07666s
+Search of 380000 nodes:    0.033576s
+Deletion of 380000 nodes:  0.051769s
+
+Insertion of 381000 nodes: 0.078113s
+Search of 381000 nodes:    0.033026s
+Deletion of 381000 nodes:  0.06011s
+
+Insertion of 382000 nodes: 0.080403s
+Search of 382000 nodes:    0.035604s
+Deletion of 382000 nodes:  0.053629s
+
+Insertion of 383000 nodes: 0.079023s
+Search of 383000 nodes:    0.034835s
+Deletion of 383000 nodes:  0.054549s
+
+Insertion of 384000 nodes: 0.07952s
+Search of 384000 nodes:    0.035393s
+Deletion of 384000 nodes:  0.053749s
+
+Insertion of 385000 nodes: 0.079883s
+Search of 385000 nodes:    0.034418s
+Deletion of 385000 nodes:  0.053385s
+
+Insertion of 386000 nodes: 0.078906s
+Search of 386000 nodes:    0.037386s
+Deletion of 386000 nodes:  0.054258s
+
+Insertion of 387000 nodes: 0.07776s
+Search of 387000 nodes:    0.036399s
+Deletion of 387000 nodes:  0.057924s
+
+Insertion of 388000 nodes: 0.081269s
+Search of 388000 nodes:    0.034257s
+Deletion of 388000 nodes:  0.054205s
+
+Insertion of 389000 nodes: 0.08115s
+Search of 389000 nodes:    0.037007s
+Deletion of 389000 nodes:  0.053058s
+
+Insertion of 390000 nodes: 0.081419s
+Search of 390000 nodes:    0.034474s
+Deletion of 390000 nodes:  0.055565s
+
+Insertion of 391000 nodes: 0.079446s
+Search of 391000 nodes:    0.035764s
+Deletion of 391000 nodes:  0.052943s
+
+Insertion of 392000 nodes: 0.078776s
+Search of 392000 nodes:    0.037983s
+Deletion of 392000 nodes:  0.053713s
+
+Insertion of 393000 nodes: 0.080628s
+Search of 393000 nodes:    0.036686s
+Deletion of 393000 nodes:  0.058085s
+
+Insertion of 394000 nodes: 0.080507s
+Search of 394000 nodes:    0.03614s
+Deletion of 394000 nodes:  0.054879s
+
+Insertion of 395000 nodes: 0.079118s
+Search of 395000 nodes:    0.037569s
+Deletion of 395000 nodes:  0.054064s
+
+Insertion of 396000 nodes: 0.084255s
+Search of 396000 nodes:    0.035099s
+Deletion of 396000 nodes:  0.055182s
+
+Insertion of 397000 nodes: 0.079787s
+Search of 397000 nodes:    0.036099s
+Deletion of 397000 nodes:  0.05347s
+
+Insertion of 398000 nodes: 0.080034s
+Search of 398000 nodes:    0.033851s
+Deletion of 398000 nodes:  0.052937s
+
+Insertion of 399000 nodes: 0.081203s
+Search of 399000 nodes:    0.037397s
+Deletion of 399000 nodes:  0.059032s
+
+Insertion of 400000 nodes: 0.081929s
+Search of 400000 nodes:    0.037716s
+Deletion of 400000 nodes:  0.055635s
+
+Insertion of 401000 nodes: 0.082816s
+Search of 401000 nodes:    0.037269s
+Deletion of 401000 nodes:  0.054664s
+
+Insertion of 402000 nodes: 0.083741s
+Search of 402000 nodes:    0.041233s
+Deletion of 402000 nodes:  0.057656s
+
+Insertion of 403000 nodes: 0.082973s
+Search of 403000 nodes:    0.038029s
+Deletion of 403000 nodes:  0.058184s
+
+Insertion of 404000 nodes: 0.083245s
+Search of 404000 nodes:    0.0381s
+Deletion of 404000 nodes:  0.05699s
+
+Insertion of 405000 nodes: 0.084843s
+Search of 405000 nodes:    0.035434s
+Deletion of 405000 nodes:  0.055027s
+
+Insertion of 406000 nodes: 0.08255s
+Search of 406000 nodes:    0.038695s
+Deletion of 406000 nodes:  0.057178s
+
+Insertion of 407000 nodes: 0.084372s
+Search of 407000 nodes:    0.036555s
+Deletion of 407000 nodes:  0.059825s
+
+Insertion of 408000 nodes: 0.085674s
+Search of 408000 nodes:    0.039116s
+Deletion of 408000 nodes:  0.057554s
+
+Insertion of 409000 nodes: 0.083075s
+Search of 409000 nodes:    0.037025s
+Deletion of 409000 nodes:  0.055771s
+
+Insertion of 410000 nodes: 0.082823s
+Search of 410000 nodes:    0.0366s
+Deletion of 410000 nodes:  0.054621s
+
+Insertion of 411000 nodes: 0.083555s
+Search of 411000 nodes:    0.039507s
+Deletion of 411000 nodes:  0.057449s
+
+Insertion of 412000 nodes: 0.085722s
+Search of 412000 nodes:    0.037321s
+Deletion of 412000 nodes:  0.058097s
+
+Insertion of 413000 nodes: 0.08557s
+Search of 413000 nodes:    0.041096s
+Deletion of 413000 nodes:  0.063272s
+
+Insertion of 414000 nodes: 0.084934s
+Search of 414000 nodes:    0.037198s
+Deletion of 414000 nodes:  0.057348s
+
+Insertion of 415000 nodes: 0.08758s
+Search of 415000 nodes:    0.035929s
+Deletion of 415000 nodes:  0.056748s
+
+Insertion of 416000 nodes: 0.086105s
+Search of 416000 nodes:    0.040092s
+Deletion of 416000 nodes:  0.060697s
+
+Insertion of 417000 nodes: 0.088727s
+Search of 417000 nodes:    0.041833s
+Deletion of 417000 nodes:  0.06024s
+
+Insertion of 418000 nodes: 0.086753s
+Search of 418000 nodes:    0.039117s
+Deletion of 418000 nodes:  0.057322s
+
+Insertion of 419000 nodes: 0.088057s
+Search of 419000 nodes:    0.039646s
+Deletion of 419000 nodes:  0.057134s
+
+Insertion of 420000 nodes: 0.089171s
+Search of 420000 nodes:    0.038662s
+Deletion of 420000 nodes:  0.057996s
+
+Insertion of 421000 nodes: 0.087534s
+Search of 421000 nodes:    0.037938s
+Deletion of 421000 nodes:  0.061926s
+
+Insertion of 422000 nodes: 0.088512s
+Search of 422000 nodes:    0.038588s
+Deletion of 422000 nodes:  0.059663s
+
+Insertion of 423000 nodes: 0.087249s
+Search of 423000 nodes:    0.040068s
+Deletion of 423000 nodes:  0.059461s
+
+Insertion of 424000 nodes: 0.088091s
+Search of 424000 nodes:    0.04384s
+Deletion of 424000 nodes:  0.059033s
+
+Insertion of 425000 nodes: 0.08632s
+Search of 425000 nodes:    0.039596s
+Deletion of 425000 nodes:  0.059048s
+
+Insertion of 426000 nodes: 0.088755s
+Search of 426000 nodes:    0.039326s
+Deletion of 426000 nodes:  0.059166s
+
+Insertion of 427000 nodes: 0.088677s
+Search of 427000 nodes:    0.038855s
+Deletion of 427000 nodes:  0.055927s
+
+Insertion of 428000 nodes: 0.087991s
+Search of 428000 nodes:    0.040621s
+Deletion of 428000 nodes:  0.06008s
+
+Insertion of 429000 nodes: 0.09001s
+Search of 429000 nodes:    0.041306s
+Deletion of 429000 nodes:  0.063114s
+
+Insertion of 430000 nodes: 0.089219s
+Search of 430000 nodes:    0.037686s
+Deletion of 430000 nodes:  0.061528s
+
+Insertion of 431000 nodes: 0.096524s
+Search of 431000 nodes:    0.037431s
+Deletion of 431000 nodes:  0.061056s
+
+Insertion of 432000 nodes: 0.094298s
+Search of 432000 nodes:    0.039785s
+Deletion of 432000 nodes:  0.058814s
+
+Insertion of 433000 nodes: 0.091016s
+Search of 433000 nodes:    0.038115s
+Deletion of 433000 nodes:  0.059499s
+
+Insertion of 434000 nodes: 0.093288s
+Search of 434000 nodes:    0.040238s
+Deletion of 434000 nodes:  0.059861s
+
+Insertion of 435000 nodes: 0.09433s
+Search of 435000 nodes:    0.040488s
+Deletion of 435000 nodes:  0.061992s
+
+Insertion of 436000 nodes: 0.093199s
+Search of 436000 nodes:    0.039107s
+Deletion of 436000 nodes:  0.062088s
+
+Insertion of 437000 nodes: 0.094469s
+Search of 437000 nodes:    0.041515s
+Deletion of 437000 nodes:  0.064052s
+
+Insertion of 438000 nodes: 0.091056s
+Search of 438000 nodes:    0.040743s
+Deletion of 438000 nodes:  0.060156s
+
+Insertion of 439000 nodes: 0.089316s
+Search of 439000 nodes:    0.042427s
+Deletion of 439000 nodes:  0.058919s
+
+Insertion of 440000 nodes: 0.088846s
+Search of 440000 nodes:    0.042813s
+Deletion of 440000 nodes:  0.062909s
+
+Insertion of 441000 nodes: 0.090299s
+Search of 441000 nodes:    0.039272s
+Deletion of 441000 nodes:  0.062304s
+
+Insertion of 442000 nodes: 0.089831s
+Search of 442000 nodes:    0.039153s
+Deletion of 442000 nodes:  0.062248s
+
+Insertion of 443000 nodes: 0.095284s
+Search of 443000 nodes:    0.040148s
+Deletion of 443000 nodes:  0.058325s
+
+Insertion of 444000 nodes: 0.094359s
+Search of 444000 nodes:    0.040455s
+Deletion of 444000 nodes:  0.061113s
+
+Insertion of 445000 nodes: 0.090462s
+Search of 445000 nodes:    0.040538s
+Deletion of 445000 nodes:  0.062804s
+
+Insertion of 446000 nodes: 0.090707s
+Search of 446000 nodes:    0.037904s
+Deletion of 446000 nodes:  0.059391s
+
+Insertion of 447000 nodes: 0.092527s
+Search of 447000 nodes:    0.039448s
+Deletion of 447000 nodes:  0.059293s
+
+Insertion of 448000 nodes: 0.094383s
+Search of 448000 nodes:    0.043084s
+Deletion of 448000 nodes:  0.059649s
+
+Insertion of 449000 nodes: 0.089963s
+Search of 449000 nodes:    0.041267s
+Deletion of 449000 nodes:  0.058656s
+
+Insertion of 450000 nodes: 0.090213s
+Search of 450000 nodes:    0.039784s
+Deletion of 450000 nodes:  0.058221s
+
+Insertion of 451000 nodes: 0.094831s
+Search of 451000 nodes:    0.03929s
+Deletion of 451000 nodes:  0.05666s
+
+Insertion of 452000 nodes: 0.092848s
+Search of 452000 nodes:    0.044752s
+Deletion of 452000 nodes:  0.060101s
+
+Insertion of 453000 nodes: 0.091196s
+Search of 453000 nodes:    0.036657s
+Deletion of 453000 nodes:  0.068261s
+
+Insertion of 454000 nodes: 0.091709s
+Search of 454000 nodes:    0.043675s
+Deletion of 454000 nodes:  0.064224s
+
+Insertion of 455000 nodes: 0.094752s
+Search of 455000 nodes:    0.043796s
+Deletion of 455000 nodes:  0.067253s
+
+Insertion of 456000 nodes: 0.095398s
+Search of 456000 nodes:    0.044551s
+Deletion of 456000 nodes:  0.063778s
+
+Insertion of 457000 nodes: 0.092515s
+Search of 457000 nodes:    0.046926s
+Deletion of 457000 nodes:  0.061149s
+
+Insertion of 458000 nodes: 0.092163s
+Search of 458000 nodes:    0.043671s
+Deletion of 458000 nodes:  0.059372s
+
+Insertion of 459000 nodes: 0.094196s
+Search of 459000 nodes:    0.045163s
+Deletion of 459000 nodes:  0.063311s
+
+Insertion of 460000 nodes: 0.094454s
+Search of 460000 nodes:    0.041561s
+Deletion of 460000 nodes:  0.064485s
+
+Insertion of 461000 nodes: 0.095043s
+Search of 461000 nodes:    0.041675s
+Deletion of 461000 nodes:  0.063196s
+
+Insertion of 462000 nodes: 0.094828s
+Search of 462000 nodes:    0.04185s
+Deletion of 462000 nodes:  0.062647s
+
+Insertion of 463000 nodes: 0.093547s
+Search of 463000 nodes:    0.048058s
+Deletion of 463000 nodes:  0.06572s
+
+Insertion of 464000 nodes: 0.0956s
+Search of 464000 nodes:    0.042456s
+Deletion of 464000 nodes:  0.063949s
+
+Insertion of 465000 nodes: 0.095235s
+Search of 465000 nodes:    0.043607s
+Deletion of 465000 nodes:  0.061691s
+
+Insertion of 466000 nodes: 0.098074s
+Search of 466000 nodes:    0.046316s
+Deletion of 466000 nodes:  0.06132s
+
+Insertion of 467000 nodes: 0.094973s
+Search of 467000 nodes:    0.043017s
+Deletion of 467000 nodes:  0.061249s
+
+Insertion of 468000 nodes: 0.094972s
+Search of 468000 nodes:    0.042016s
+Deletion of 468000 nodes:  0.061028s
+
+Insertion of 469000 nodes: 0.097889s
+Search of 469000 nodes:    0.044358s
+Deletion of 469000 nodes:  0.061521s
+
+Insertion of 470000 nodes: 0.096481s
+Search of 470000 nodes:    0.043807s
+Deletion of 470000 nodes:  0.060065s
+
+Insertion of 471000 nodes: 0.096325s
+Search of 471000 nodes:    0.039455s
+Deletion of 471000 nodes:  0.059741s
+
+Insertion of 472000 nodes: 0.095645s
+Search of 472000 nodes:    0.03961s
+Deletion of 472000 nodes:  0.06456s
+
+Insertion of 473000 nodes: 0.097174s
+Search of 473000 nodes:    0.044088s
+Deletion of 473000 nodes:  0.06455s
+
+Insertion of 474000 nodes: 0.095385s
+Search of 474000 nodes:    0.044897s
+Deletion of 474000 nodes:  0.064605s
+
+Insertion of 475000 nodes: 0.096289s
+Search of 475000 nodes:    0.042379s
+Deletion of 475000 nodes:  0.063332s
+
+Insertion of 476000 nodes: 0.097982s
+Search of 476000 nodes:    0.045649s
+Deletion of 476000 nodes:  0.064676s
+
+Insertion of 477000 nodes: 0.097596s
+Search of 477000 nodes:    0.041276s
+Deletion of 477000 nodes:  0.062627s
+
+Insertion of 478000 nodes: 0.100154s
+Search of 478000 nodes:    0.043351s
+Deletion of 478000 nodes:  0.063471s
+
+Insertion of 479000 nodes: 0.099457s
+Search of 479000 nodes:    0.041491s
+Deletion of 479000 nodes:  0.066182s
+
+Insertion of 480000 nodes: 0.099705s
+Search of 480000 nodes:    0.048537s
+Deletion of 480000 nodes:  0.06637s
+
+Insertion of 481000 nodes: 0.098003s
+Search of 481000 nodes:    0.043792s
+Deletion of 481000 nodes:  0.064052s
+
+Insertion of 482000 nodes: 0.099997s
+Search of 482000 nodes:    0.042172s
+Deletion of 482000 nodes:  0.06417s
+
+Insertion of 483000 nodes: 0.100608s
+Search of 483000 nodes:    0.047562s
+Deletion of 483000 nodes:  0.064079s
+
+Insertion of 484000 nodes: 0.100567s
+Search of 484000 nodes:    0.043853s
+Deletion of 484000 nodes:  0.064958s
+
+Insertion of 485000 nodes: 0.098395s
+Search of 485000 nodes:    0.043914s
+Deletion of 485000 nodes:  0.061591s
+
+Insertion of 486000 nodes: 0.098618s
+Search of 486000 nodes:    0.043327s
+Deletion of 486000 nodes:  0.060138s
+
+Insertion of 487000 nodes: 0.100256s
+Search of 487000 nodes:    0.04479s
+Deletion of 487000 nodes:  0.064951s
+
+Insertion of 488000 nodes: 0.103392s
+Search of 488000 nodes:    0.046761s
+Deletion of 488000 nodes:  0.06498s
+
+Insertion of 489000 nodes: 0.098942s
+Search of 489000 nodes:    0.044588s
+Deletion of 489000 nodes:  0.064076s
+
+Insertion of 490000 nodes: 0.101298s
+Search of 490000 nodes:    0.044911s
+Deletion of 490000 nodes:  0.070261s
+
+Insertion of 491000 nodes: 0.101037s
+Search of 491000 nodes:    0.043923s
+Deletion of 491000 nodes:  0.06647s
+
+Insertion of 492000 nodes: 0.100987s
+Search of 492000 nodes:    0.043866s
+Deletion of 492000 nodes:  0.06752s
+
+Insertion of 493000 nodes: 0.100596s
+Search of 493000 nodes:    0.047553s
+Deletion of 493000 nodes:  0.065624s
+
+Insertion of 494000 nodes: 0.10144s
+Search of 494000 nodes:    0.044926s
+Deletion of 494000 nodes:  0.066131s
+
+Insertion of 495000 nodes: 0.102387s
+Search of 495000 nodes:    0.045551s
+Deletion of 495000 nodes:  0.065411s
+
+Insertion of 496000 nodes: 0.101122s
+Search of 496000 nodes:    0.04811s
+Deletion of 496000 nodes:  0.066505s
+
+Insertion of 497000 nodes: 0.113339s
+Search of 497000 nodes:    0.044197s
+Deletion of 497000 nodes:  0.074414s
+
+Insertion of 498000 nodes: 0.106274s
+Search of 498000 nodes:    0.047s
+Deletion of 498000 nodes:  0.067022s
+
+Insertion of 499000 nodes: 0.10271s
+Search of 499000 nodes:    0.04731s
+Deletion of 499000 nodes:  0.065153s
+
+Insertion of 500000 nodes: 0.103572s
+Search of 500000 nodes:    0.044819s
+Deletion of 500000 nodes:  0.064492s
+
+Insertion of 501000 nodes: 0.101712s
+Search of 501000 nodes:    0.045267s
+Deletion of 501000 nodes:  0.064419s
+
+Insertion of 502000 nodes: 0.104641s
+Search of 502000 nodes:    0.049437s
+Deletion of 502000 nodes:  0.067516s
+
+Insertion of 503000 nodes: 0.104103s
+Search of 503000 nodes:    0.047071s
+Deletion of 503000 nodes:  0.065162s
+
+Insertion of 504000 nodes: 0.102318s
+Search of 504000 nodes:    0.045353s
+Deletion of 504000 nodes:  0.069638s
+
+Insertion of 505000 nodes: 0.106797s
+Search of 505000 nodes:    0.045766s
+Deletion of 505000 nodes:  0.066759s
+
+Insertion of 506000 nodes: 0.103833s
+Search of 506000 nodes:    0.047964s
+Deletion of 506000 nodes:  0.066706s
+
+Insertion of 507000 nodes: 0.105724s
+Search of 507000 nodes:    0.04621s
+Deletion of 507000 nodes:  0.067358s
+
+Insertion of 508000 nodes: 0.104558s
+Search of 508000 nodes:    0.043676s
+Deletion of 508000 nodes:  0.068853s
+
+Insertion of 509000 nodes: 0.106906s
+Search of 509000 nodes:    0.05004s
+Deletion of 509000 nodes:  0.071836s
+
+Insertion of 510000 nodes: 0.10412s
+Search of 510000 nodes:    0.045332s
+Deletion of 510000 nodes:  0.06672s
+
+Insertion of 511000 nodes: 0.104309s
+Search of 511000 nodes:    0.044721s
+Deletion of 511000 nodes:  0.069064s
+
+Insertion of 512000 nodes: 0.106732s
+Search of 512000 nodes:    0.046206s
+Deletion of 512000 nodes:  0.068687s
+
+Insertion of 513000 nodes: 0.106233s
+Search of 513000 nodes:    0.047247s
+Deletion of 513000 nodes:  0.06771s
+
+Insertion of 514000 nodes: 0.10633s
+Search of 514000 nodes:    0.046928s
+Deletion of 514000 nodes:  0.069741s
+
+Insertion of 515000 nodes: 0.105998s
+Search of 515000 nodes:    0.048749s
+Deletion of 515000 nodes:  0.068914s
+
+Insertion of 516000 nodes: 0.106896s
+Search of 516000 nodes:    0.05216s
+Deletion of 516000 nodes:  0.070798s
+
+Insertion of 517000 nodes: 0.105297s
+Search of 517000 nodes:    0.045741s
+Deletion of 517000 nodes:  0.072599s
+
+Insertion of 518000 nodes: 0.107074s
+Search of 518000 nodes:    0.04503s
+Deletion of 518000 nodes:  0.067505s
+
+Insertion of 519000 nodes: 0.105354s
+Search of 519000 nodes:    0.045812s
+Deletion of 519000 nodes:  0.065339s
+
+Insertion of 520000 nodes: 0.108514s
+Search of 520000 nodes:    0.047557s
+Deletion of 520000 nodes:  0.072129s
+
+Insertion of 521000 nodes: 0.105043s
+Search of 521000 nodes:    0.051028s
+Deletion of 521000 nodes:  0.071392s
+
+Insertion of 522000 nodes: 0.109551s
+Search of 522000 nodes:    0.047416s
+Deletion of 522000 nodes:  0.072854s
+
+Insertion of 523000 nodes: 0.107164s
+Search of 523000 nodes:    0.046689s
+Deletion of 523000 nodes:  0.067019s
+
+Insertion of 524000 nodes: 0.105655s
+Search of 524000 nodes:    0.049734s
+Deletion of 524000 nodes:  0.068219s
+
+Insertion of 525000 nodes: 0.107231s
+Search of 525000 nodes:    0.049946s
+Deletion of 525000 nodes:  0.071634s
+
+Insertion of 526000 nodes: 0.106693s
+Search of 526000 nodes:    0.047048s
+Deletion of 526000 nodes:  0.070519s
+
+Insertion of 527000 nodes: 0.108757s
+Search of 527000 nodes:    0.047961s
+Deletion of 527000 nodes:  0.071755s
+
+Insertion of 528000 nodes: 0.106715s
+Search of 528000 nodes:    0.047909s
+Deletion of 528000 nodes:  0.073653s
+
+Insertion of 529000 nodes: 0.112264s
+Search of 529000 nodes:    0.050175s
+Deletion of 529000 nodes:  0.07429s
+
+Insertion of 530000 nodes: 0.110538s
+Search of 530000 nodes:    0.047613s
+Deletion of 530000 nodes:  0.072848s
+
+Insertion of 531000 nodes: 0.114432s
+Search of 531000 nodes:    0.054164s
+Deletion of 531000 nodes:  0.074098s
+
+Insertion of 532000 nodes: 0.109508s
+Search of 532000 nodes:    0.047217s
+Deletion of 532000 nodes:  0.075169s
+
+Insertion of 533000 nodes: 0.110628s
+Search of 533000 nodes:    0.048503s
+Deletion of 533000 nodes:  0.072364s
+
+Insertion of 534000 nodes: 0.11473s
+Search of 534000 nodes:    0.04871s
+Deletion of 534000 nodes:  0.072224s
+
+Insertion of 535000 nodes: 0.111641s
+Search of 535000 nodes:    0.047003s
+Deletion of 535000 nodes:  0.073474s
+
+Insertion of 536000 nodes: 0.112923s
+Search of 536000 nodes:    0.052841s
+Deletion of 536000 nodes:  0.075347s
+
+Insertion of 537000 nodes: 0.107781s
+Search of 537000 nodes:    0.048841s
+Deletion of 537000 nodes:  0.069286s
+
+Insertion of 538000 nodes: 0.11288s
+Search of 538000 nodes:    0.051455s
+Deletion of 538000 nodes:  0.07027s
+
+Insertion of 539000 nodes: 0.108992s
+Search of 539000 nodes:    0.050079s
+Deletion of 539000 nodes:  0.07163s
+
+Insertion of 540000 nodes: 0.10987s
+Search of 540000 nodes:    0.048602s
+Deletion of 540000 nodes:  0.074239s
+
+Insertion of 541000 nodes: 0.113289s
+Search of 541000 nodes:    0.05016s
+Deletion of 541000 nodes:  0.073317s
+
+Insertion of 542000 nodes: 0.111392s
+Search of 542000 nodes:    0.050245s
+Deletion of 542000 nodes:  0.077521s
+
+Insertion of 543000 nodes: 0.111911s
+Search of 543000 nodes:    0.04979s
+Deletion of 543000 nodes:  0.077375s
+
+Insertion of 544000 nodes: 0.112955s
+Search of 544000 nodes:    0.051349s
+Deletion of 544000 nodes:  0.071751s
+
+Insertion of 545000 nodes: 0.110841s
+Search of 545000 nodes:    0.051287s
+Deletion of 545000 nodes:  0.077867s
+
+Insertion of 546000 nodes: 0.112286s
+Search of 546000 nodes:    0.050653s
+Deletion of 546000 nodes:  0.075916s
+
+Insertion of 547000 nodes: 0.113126s
+Search of 547000 nodes:    0.051598s
+Deletion of 547000 nodes:  0.073767s
+
+Insertion of 548000 nodes: 0.114223s
+Search of 548000 nodes:    0.049955s
+Deletion of 548000 nodes:  0.072897s
+
+Insertion of 549000 nodes: 0.114137s
+Search of 549000 nodes:    0.051699s
+Deletion of 549000 nodes:  0.072622s
+
+Insertion of 550000 nodes: 0.115863s
+Search of 550000 nodes:    0.052315s
+Deletion of 550000 nodes:  0.073906s
+
+Insertion of 551000 nodes: 0.113049s
+Search of 551000 nodes:    0.048359s
+Deletion of 551000 nodes:  0.073421s
+
+Insertion of 552000 nodes: 0.114725s
+Search of 552000 nodes:    0.053222s
+Deletion of 552000 nodes:  0.073027s
+
+Insertion of 553000 nodes: 0.114944s
+Search of 553000 nodes:    0.047813s
+Deletion of 553000 nodes:  0.073926s
+
+Insertion of 554000 nodes: 0.116438s
+Search of 554000 nodes:    0.049476s
+Deletion of 554000 nodes:  0.072286s
+
+Insertion of 555000 nodes: 0.114859s
+Search of 555000 nodes:    0.053128s
+Deletion of 555000 nodes:  0.072372s
+
+Insertion of 556000 nodes: 0.115689s
+Search of 556000 nodes:    0.051184s
+Deletion of 556000 nodes:  0.073651s
+
+Insertion of 557000 nodes: 0.115659s
+Search of 557000 nodes:    0.056592s
+Deletion of 557000 nodes:  0.074727s
+
+Insertion of 558000 nodes: 0.114058s
+Search of 558000 nodes:    0.051355s
+Deletion of 558000 nodes:  0.071035s
+
+Insertion of 559000 nodes: 0.115009s
+Search of 559000 nodes:    0.055904s
+Deletion of 559000 nodes:  0.080908s
+
+Insertion of 560000 nodes: 0.113315s
+Search of 560000 nodes:    0.052704s
+Deletion of 560000 nodes:  0.07445s
+
+Insertion of 561000 nodes: 0.114093s
+Search of 561000 nodes:    0.052343s
+Deletion of 561000 nodes:  0.076576s
+
+Insertion of 562000 nodes: 0.115476s
+Search of 562000 nodes:    0.051795s
+Deletion of 562000 nodes:  0.073758s
+
+Insertion of 563000 nodes: 0.118694s
+Search of 563000 nodes:    0.054382s
+Deletion of 563000 nodes:  0.075397s
+
+Insertion of 564000 nodes: 0.118492s
+Search of 564000 nodes:    0.057807s
+Deletion of 564000 nodes:  0.079674s
+
+Insertion of 565000 nodes: 0.116955s
+Search of 565000 nodes:    0.053384s
+Deletion of 565000 nodes:  0.075547s
+
+Insertion of 566000 nodes: 0.117739s
+Search of 566000 nodes:    0.054048s
+Deletion of 566000 nodes:  0.075976s
+
+Insertion of 567000 nodes: 0.115844s
+Search of 567000 nodes:    0.053121s
+Deletion of 567000 nodes:  0.079549s
+
+Insertion of 568000 nodes: 0.121274s
+Search of 568000 nodes:    0.053493s
+Deletion of 568000 nodes:  0.077969s
+
+Insertion of 569000 nodes: 0.117488s
+Search of 569000 nodes:    0.053446s
+Deletion of 569000 nodes:  0.080942s
+
+Insertion of 570000 nodes: 0.116722s
+Search of 570000 nodes:    0.055132s
+Deletion of 570000 nodes:  0.077016s
+
+Insertion of 571000 nodes: 0.114949s
+Search of 571000 nodes:    0.05842s
+Deletion of 571000 nodes:  0.083613s
+
+Insertion of 572000 nodes: 0.119049s
+Search of 572000 nodes:    0.055354s
+Deletion of 572000 nodes:  0.077664s
+
+Insertion of 573000 nodes: 0.119891s
+Search of 573000 nodes:    0.053224s
+Deletion of 573000 nodes:  0.080519s
+
+Insertion of 574000 nodes: 0.117805s
+Search of 574000 nodes:    0.053609s
+Deletion of 574000 nodes:  0.074238s
+
+Insertion of 575000 nodes: 0.119294s
+Search of 575000 nodes:    0.051742s
+Deletion of 575000 nodes:  0.081436s
+
+Insertion of 576000 nodes: 0.119621s
+Search of 576000 nodes:    0.052463s
+Deletion of 576000 nodes:  0.077248s
+
+Insertion of 577000 nodes: 0.121028s
+Search of 577000 nodes:    0.052937s
+Deletion of 577000 nodes:  0.076956s
+
+Insertion of 578000 nodes: 0.118557s
+Search of 578000 nodes:    0.053195s
+Deletion of 578000 nodes:  0.075059s
+
+Insertion of 579000 nodes: 0.121069s
+Search of 579000 nodes:    0.05839s
+Deletion of 579000 nodes:  0.078035s
+
+Insertion of 580000 nodes: 0.118352s
+Search of 580000 nodes:    0.052836s
+Deletion of 580000 nodes:  0.078744s
+
+Insertion of 581000 nodes: 0.11965s
+Search of 581000 nodes:    0.054214s
+Deletion of 581000 nodes:  0.076298s
+
+Insertion of 582000 nodes: 0.121421s
+Search of 582000 nodes:    0.054635s
+Deletion of 582000 nodes:  0.07781s
+
+Insertion of 583000 nodes: 0.120471s
+Search of 583000 nodes:    0.058316s
+Deletion of 583000 nodes:  0.083671s
+
+Insertion of 584000 nodes: 0.122532s
+Search of 584000 nodes:    0.056928s
+Deletion of 584000 nodes:  0.079712s
+
+Insertion of 585000 nodes: 0.122192s
+Search of 585000 nodes:    0.055095s
+Deletion of 585000 nodes:  0.082278s
+
+Insertion of 586000 nodes: 0.121398s
+Search of 586000 nodes:    0.056771s
+Deletion of 586000 nodes:  0.080871s
+
+Insertion of 587000 nodes: 0.120713s
+Search of 587000 nodes:    0.055597s
+Deletion of 587000 nodes:  0.07829s
+
+Insertion of 588000 nodes: 0.122904s
+Search of 588000 nodes:    0.052374s
+Deletion of 588000 nodes:  0.078526s
+
+Insertion of 589000 nodes: 0.122159s
+Search of 589000 nodes:    0.052361s
+Deletion of 589000 nodes:  0.07964s
+
+Insertion of 590000 nodes: 0.121742s
+Search of 590000 nodes:    0.053012s
+Deletion of 590000 nodes:  0.078016s
+
+Insertion of 591000 nodes: 0.12388s
+Search of 591000 nodes:    0.057238s
+Deletion of 591000 nodes:  0.082404s
+
+Insertion of 592000 nodes: 0.125063s
+Search of 592000 nodes:    0.054221s
+Deletion of 592000 nodes:  0.074993s
+
+Insertion of 593000 nodes: 0.124869s
+Search of 593000 nodes:    0.056231s
+Deletion of 593000 nodes:  0.083127s
+
+Insertion of 594000 nodes: 0.125236s
+Search of 594000 nodes:    0.049627s
+Deletion of 594000 nodes:  0.078071s
+
+Insertion of 595000 nodes: 0.122255s
+Search of 595000 nodes:    0.05515s
+Deletion of 595000 nodes:  0.085159s
+
+Insertion of 596000 nodes: 0.124432s
+Search of 596000 nodes:    0.055696s
+Deletion of 596000 nodes:  0.079366s
+
+Insertion of 597000 nodes: 0.125071s
+Search of 597000 nodes:    0.053828s
+Deletion of 597000 nodes:  0.081461s
+
+Insertion of 598000 nodes: 0.12569s
+Search of 598000 nodes:    0.053788s
+Deletion of 598000 nodes:  0.082361s
+
+Insertion of 599000 nodes: 0.126209s
+Search of 599000 nodes:    0.05454s
+Deletion of 599000 nodes:  0.08194s
+
+Insertion of 600000 nodes: 0.127602s
+Search of 600000 nodes:    0.055845s
+Deletion of 600000 nodes:  0.082747s
+
+Insertion of 601000 nodes: 0.123353s
+Search of 601000 nodes:    0.056041s
+Deletion of 601000 nodes:  0.080312s
+
+Insertion of 602000 nodes: 0.124248s
+Search of 602000 nodes:    0.056947s
+Deletion of 602000 nodes:  0.080149s
+
+Insertion of 603000 nodes: 0.127418s
+Search of 603000 nodes:    0.058811s
+Deletion of 603000 nodes:  0.078932s
+
+Insertion of 604000 nodes: 0.125651s
+Search of 604000 nodes:    0.056375s
+Deletion of 604000 nodes:  0.079578s
+
+Insertion of 605000 nodes: 0.128316s
+Search of 605000 nodes:    0.056827s
+Deletion of 605000 nodes:  0.081426s
+
+Insertion of 606000 nodes: 0.129871s
+Search of 606000 nodes:    0.05771s
+Deletion of 606000 nodes:  0.080153s
+
+Insertion of 607000 nodes: 0.12467s
+Search of 607000 nodes:    0.057922s
+Deletion of 607000 nodes:  0.08424s
+
+Insertion of 608000 nodes: 0.126231s
+Search of 608000 nodes:    0.056486s
+Deletion of 608000 nodes:  0.084394s
+
+Insertion of 609000 nodes: 0.129237s
+Search of 609000 nodes:    0.053385s
+Deletion of 609000 nodes:  0.078307s
+
+Insertion of 610000 nodes: 0.128928s
+Search of 610000 nodes:    0.059427s
+Deletion of 610000 nodes:  0.081575s
+
+Insertion of 611000 nodes: 0.129111s
+Search of 611000 nodes:    0.05437s
+Deletion of 611000 nodes:  0.08314s
+
+Insertion of 612000 nodes: 0.126882s
+Search of 612000 nodes:    0.057178s
+Deletion of 612000 nodes:  0.081191s
+
+Insertion of 613000 nodes: 0.128233s
+Search of 613000 nodes:    0.054326s
+Deletion of 613000 nodes:  0.085021s
+
+Insertion of 614000 nodes: 0.131572s
+Search of 614000 nodes:    0.062935s
+Deletion of 614000 nodes:  0.087886s
+
+Insertion of 615000 nodes: 0.130456s
+Search of 615000 nodes:    0.055523s
+Deletion of 615000 nodes:  0.079789s
+
+Insertion of 616000 nodes: 0.128699s
+Search of 616000 nodes:    0.059122s
+Deletion of 616000 nodes:  0.08862s
+
+Insertion of 617000 nodes: 0.127011s
+Search of 617000 nodes:    0.060119s
+Deletion of 617000 nodes:  0.081369s
+
+Insertion of 618000 nodes: 0.130694s
+Search of 618000 nodes:    0.057769s
+Deletion of 618000 nodes:  0.085854s
+
+Insertion of 619000 nodes: 0.133269s
+Search of 619000 nodes:    0.059739s
+Deletion of 619000 nodes:  0.087772s
+
+Insertion of 620000 nodes: 0.128309s
+Search of 620000 nodes:    0.058278s
+Deletion of 620000 nodes:  0.081246s
+
+Insertion of 621000 nodes: 0.131737s
+Search of 621000 nodes:    0.057036s
+Deletion of 621000 nodes:  0.083706s
+
+Insertion of 622000 nodes: 0.129707s
+Search of 622000 nodes:    0.058008s
+Deletion of 622000 nodes:  0.080576s
+
+Insertion of 623000 nodes: 0.13381s
+Search of 623000 nodes:    0.059411s
+Deletion of 623000 nodes:  0.083764s
+
+Insertion of 624000 nodes: 0.129329s
+Search of 624000 nodes:    0.058273s
+Deletion of 624000 nodes:  0.083889s
+
+Insertion of 625000 nodes: 0.130155s
+Search of 625000 nodes:    0.056709s
+Deletion of 625000 nodes:  0.082376s
+
+Insertion of 626000 nodes: 0.132931s
+Search of 626000 nodes:    0.059914s
+Deletion of 626000 nodes:  0.08621s
+
+Insertion of 627000 nodes: 0.132879s
+Search of 627000 nodes:    0.057766s
+Deletion of 627000 nodes:  0.088695s
+
+Insertion of 628000 nodes: 0.131021s
+Search of 628000 nodes:    0.058423s
+Deletion of 628000 nodes:  0.081104s
+
+Insertion of 629000 nodes: 0.128556s
+Search of 629000 nodes:    0.055719s
+Deletion of 629000 nodes:  0.090887s
+
+Insertion of 630000 nodes: 0.133821s
+Search of 630000 nodes:    0.059892s
+Deletion of 630000 nodes:  0.090487s
+
+Insertion of 631000 nodes: 0.130444s
+Search of 631000 nodes:    0.0615s
+Deletion of 631000 nodes:  0.085438s
+
+Insertion of 632000 nodes: 0.135519s
+Search of 632000 nodes:    0.057514s
+Deletion of 632000 nodes:  0.084116s
+
+Insertion of 633000 nodes: 0.135123s
+Search of 633000 nodes:    0.062s
+Deletion of 633000 nodes:  0.082196s
+
+Insertion of 634000 nodes: 0.132537s
+Search of 634000 nodes:    0.060331s
+Deletion of 634000 nodes:  0.085095s
+
+Insertion of 635000 nodes: 0.136188s
+Search of 635000 nodes:    0.057998s
+Deletion of 635000 nodes:  0.083622s
+
+Insertion of 636000 nodes: 0.131063s
+Search of 636000 nodes:    0.061456s
+Deletion of 636000 nodes:  0.08229s
+
+Insertion of 637000 nodes: 0.135332s
+Search of 637000 nodes:    0.056345s
+Deletion of 637000 nodes:  0.08802s
+
+Insertion of 638000 nodes: 0.131169s
+Search of 638000 nodes:    0.061372s
+Deletion of 638000 nodes:  0.08981s
+
+Insertion of 639000 nodes: 0.134138s
+Search of 639000 nodes:    0.059258s
+Deletion of 639000 nodes:  0.086233s
+
+Insertion of 640000 nodes: 0.134097s
+Search of 640000 nodes:    0.058075s
+Deletion of 640000 nodes:  0.086001s
+
+Insertion of 641000 nodes: 0.135299s
+Search of 641000 nodes:    0.061664s
+Deletion of 641000 nodes:  0.087472s
+
+Insertion of 642000 nodes: 0.137288s
+Search of 642000 nodes:    0.064036s
+Deletion of 642000 nodes:  0.087037s
+
+Insertion of 643000 nodes: 0.133379s
+Search of 643000 nodes:    0.058795s
+Deletion of 643000 nodes:  0.08625s
+
+Insertion of 644000 nodes: 0.135812s
+Search of 644000 nodes:    0.05613s
+Deletion of 644000 nodes:  0.082424s
+
+Insertion of 645000 nodes: 0.135487s
+Search of 645000 nodes:    0.059628s
+Deletion of 645000 nodes:  0.088057s
+
+Insertion of 646000 nodes: 0.13602s
+Search of 646000 nodes:    0.061345s
+Deletion of 646000 nodes:  0.08958s
+
+Insertion of 647000 nodes: 0.134105s
+Search of 647000 nodes:    0.060307s
+Deletion of 647000 nodes:  0.09061s
+
+Insertion of 648000 nodes: 0.133505s
+Search of 648000 nodes:    0.058863s
+Deletion of 648000 nodes:  0.089783s
+
+Insertion of 649000 nodes: 0.133805s
+Search of 649000 nodes:    0.065295s
+Deletion of 649000 nodes:  0.086703s
+
+Insertion of 650000 nodes: 0.13351s
+Search of 650000 nodes:    0.05612s
+Deletion of 650000 nodes:  0.084944s
+
+Insertion of 651000 nodes: 0.136571s
+Search of 651000 nodes:    0.056684s
+Deletion of 651000 nodes:  0.086046s
+
+Insertion of 652000 nodes: 0.133175s
+Search of 652000 nodes:    0.057107s
+Deletion of 652000 nodes:  0.08358s
+
+Insertion of 653000 nodes: 0.139467s
+Search of 653000 nodes:    0.061413s
+Deletion of 653000 nodes:  0.082844s
+
+Insertion of 654000 nodes: 0.135895s
+Search of 654000 nodes:    0.057375s
+Deletion of 654000 nodes:  0.086233s
+
+Insertion of 655000 nodes: 0.139679s
+Search of 655000 nodes:    0.063654s
+Deletion of 655000 nodes:  0.091073s
+
+Insertion of 656000 nodes: 0.13752s
+Search of 656000 nodes:    0.062867s
+Deletion of 656000 nodes:  0.090596s
+
+Insertion of 657000 nodes: 0.138976s
+Search of 657000 nodes:    0.059535s
+Deletion of 657000 nodes:  0.091342s
+
+Insertion of 658000 nodes: 0.139544s
+Search of 658000 nodes:    0.060774s
+Deletion of 658000 nodes:  0.087556s
+
+Insertion of 659000 nodes: 0.139613s
+Search of 659000 nodes:    0.059707s
+Deletion of 659000 nodes:  0.085644s
+
+Insertion of 660000 nodes: 0.140742s
+Search of 660000 nodes:    0.062077s
+Deletion of 660000 nodes:  0.08701s
+
+Insertion of 661000 nodes: 0.138264s
+Search of 661000 nodes:    0.063552s
+Deletion of 661000 nodes:  0.08787s
+
+Insertion of 662000 nodes: 0.139218s
+Search of 662000 nodes:    0.06152s
+Deletion of 662000 nodes:  0.090004s
+
+Insertion of 663000 nodes: 0.139108s
+Search of 663000 nodes:    0.06364s
+Deletion of 663000 nodes:  0.093305s
+
+Insertion of 664000 nodes: 0.137571s
+Search of 664000 nodes:    0.059519s
+Deletion of 664000 nodes:  0.08702s
+
+Insertion of 665000 nodes: 0.139402s
+Search of 665000 nodes:    0.061003s
+Deletion of 665000 nodes:  0.08749s
+
+Insertion of 666000 nodes: 0.142238s
+Search of 666000 nodes:    0.059876s
+Deletion of 666000 nodes:  0.085998s
+
+Insertion of 667000 nodes: 0.142977s
+Search of 667000 nodes:    0.066923s
+Deletion of 667000 nodes:  0.089976s
+
+Insertion of 668000 nodes: 0.14472s
+Search of 668000 nodes:    0.0629s
+Deletion of 668000 nodes:  0.095464s
+
+Insertion of 669000 nodes: 0.142397s
+Search of 669000 nodes:    0.065472s
+Deletion of 669000 nodes:  0.088795s
+
+Insertion of 670000 nodes: 0.142659s
+Search of 670000 nodes:    0.064967s
+Deletion of 670000 nodes:  0.091073s
+
+Insertion of 671000 nodes: 0.138828s
+Search of 671000 nodes:    0.063578s
+Deletion of 671000 nodes:  0.088153s
+
+Insertion of 672000 nodes: 0.14169s
+Search of 672000 nodes:    0.06505s
+Deletion of 672000 nodes:  0.08789s
+
+Insertion of 673000 nodes: 0.140808s
+Search of 673000 nodes:    0.061346s
+Deletion of 673000 nodes:  0.091981s
+
+Insertion of 674000 nodes: 0.143462s
+Search of 674000 nodes:    0.067217s
+Deletion of 674000 nodes:  0.088284s
+
+Insertion of 675000 nodes: 0.139963s
+Search of 675000 nodes:    0.067954s
+Deletion of 675000 nodes:  0.091978s
+
+Insertion of 676000 nodes: 0.141186s
+Search of 676000 nodes:    0.062292s
+Deletion of 676000 nodes:  0.087365s
+
+Insertion of 677000 nodes: 0.142188s
+Search of 677000 nodes:    0.064266s
+Deletion of 677000 nodes:  0.090203s
+
+Insertion of 678000 nodes: 0.140931s
+Search of 678000 nodes:    0.064893s
+Deletion of 678000 nodes:  0.089356s
+
+Insertion of 679000 nodes: 0.1434s
+Search of 679000 nodes:    0.063689s
+Deletion of 679000 nodes:  0.091265s
+
+Insertion of 680000 nodes: 0.142304s
+Search of 680000 nodes:    0.063658s
+Deletion of 680000 nodes:  0.095071s
+
+Insertion of 681000 nodes: 0.143631s
+Search of 681000 nodes:    0.059962s
+Deletion of 681000 nodes:  0.090566s
+
+Insertion of 682000 nodes: 0.144021s
+Search of 682000 nodes:    0.063735s
+Deletion of 682000 nodes:  0.08843s
+
+Insertion of 683000 nodes: 0.142355s
+Search of 683000 nodes:    0.062235s
+Deletion of 683000 nodes:  0.089446s
+
+Insertion of 684000 nodes: 0.145936s
+Search of 684000 nodes:    0.06232s
+Deletion of 684000 nodes:  0.089073s
+
+Insertion of 685000 nodes: 0.14148s
+Search of 685000 nodes:    0.06283s
+Deletion of 685000 nodes:  0.089602s
+
+Insertion of 686000 nodes: 0.142599s
+Search of 686000 nodes:    0.061813s
+Deletion of 686000 nodes:  0.088242s
+
+Insertion of 687000 nodes: 0.145063s
+Search of 687000 nodes:    0.0626s
+Deletion of 687000 nodes:  0.094555s
+
+Insertion of 688000 nodes: 0.144307s
+Search of 688000 nodes:    0.068367s
+Deletion of 688000 nodes:  0.090345s
+
+Insertion of 689000 nodes: 0.147987s
+Search of 689000 nodes:    0.06748s
+Deletion of 689000 nodes:  0.091544s
+
+Insertion of 690000 nodes: 0.145428s
+Search of 690000 nodes:    0.066004s
+Deletion of 690000 nodes:  0.093366s
+
+Insertion of 691000 nodes: 0.14836s
+Search of 691000 nodes:    0.061713s
+Deletion of 691000 nodes:  0.089738s
+
+Insertion of 692000 nodes: 0.145132s
+Search of 692000 nodes:    0.064738s
+Deletion of 692000 nodes:  0.09299s
+
+Insertion of 693000 nodes: 0.145223s
+Search of 693000 nodes:    0.063628s
+Deletion of 693000 nodes:  0.090706s
+
+Insertion of 694000 nodes: 0.149634s
+Search of 694000 nodes:    0.064411s
+Deletion of 694000 nodes:  0.090944s
+
+Insertion of 695000 nodes: 0.15082s
+Search of 695000 nodes:    0.063388s
+Deletion of 695000 nodes:  0.095075s
+
+Insertion of 696000 nodes: 0.147284s
+Search of 696000 nodes:    0.064393s
+Deletion of 696000 nodes:  0.09254s
+
+Insertion of 697000 nodes: 0.146499s
+Search of 697000 nodes:    0.069538s
+Deletion of 697000 nodes:  0.091789s
+
+Insertion of 698000 nodes: 0.145222s
+Search of 698000 nodes:    0.063674s
+Deletion of 698000 nodes:  0.093604s
+
+Insertion of 699000 nodes: 0.148011s
+Search of 699000 nodes:    0.069116s
+Deletion of 699000 nodes:  0.097199s
+
+Insertion of 700000 nodes: 0.153766s
+Search of 700000 nodes:    0.069256s
+Deletion of 700000 nodes:  0.099876s
+
+Insertion of 701000 nodes: 0.146673s
+Search of 701000 nodes:    0.066976s
+Deletion of 701000 nodes:  0.093837s
+
+Insertion of 702000 nodes: 0.147567s
+Search of 702000 nodes:    0.069713s
+Deletion of 702000 nodes:  0.092004s
+
+Insertion of 703000 nodes: 0.151061s
+Search of 703000 nodes:    0.064059s
+Deletion of 703000 nodes:  0.094431s
+
+Insertion of 704000 nodes: 0.151481s
+Search of 704000 nodes:    0.065658s
+Deletion of 704000 nodes:  0.101215s
+
+Insertion of 705000 nodes: 0.157272s
+Search of 705000 nodes:    0.064851s
+Deletion of 705000 nodes:  0.098831s
+
+Insertion of 706000 nodes: 0.155056s
+Search of 706000 nodes:    0.06444s
+Deletion of 706000 nodes:  0.094776s
+
+Insertion of 707000 nodes: 0.154609s
+Search of 707000 nodes:    0.065132s
+Deletion of 707000 nodes:  0.095052s
+
+Insertion of 708000 nodes: 0.147417s
+Search of 708000 nodes:    0.060837s
+Deletion of 708000 nodes:  0.096449s
+
+Insertion of 709000 nodes: 0.148139s
+Search of 709000 nodes:    0.063839s
+Deletion of 709000 nodes:  0.102254s
+
+Insertion of 710000 nodes: 0.152481s
+Search of 710000 nodes:    0.070055s
+Deletion of 710000 nodes:  0.098832s
+
+Insertion of 711000 nodes: 0.152349s
+Search of 711000 nodes:    0.065918s
+Deletion of 711000 nodes:  0.095837s
+
+Insertion of 712000 nodes: 0.150778s
+Search of 712000 nodes:    0.067948s
+Deletion of 712000 nodes:  0.097112s
+
+Insertion of 713000 nodes: 0.148255s
+Search of 713000 nodes:    0.069124s
+Deletion of 713000 nodes:  0.096769s
+
+Insertion of 714000 nodes: 0.152513s
+Search of 714000 nodes:    0.066371s
+Deletion of 714000 nodes:  0.097119s
+
+Insertion of 715000 nodes: 0.149593s
+Search of 715000 nodes:    0.067367s
+Deletion of 715000 nodes:  0.094996s
+
+Insertion of 716000 nodes: 0.148292s
+Search of 716000 nodes:    0.068155s
+Deletion of 716000 nodes:  0.093717s
+
+Insertion of 717000 nodes: 0.149901s
+Search of 717000 nodes:    0.063445s
+Deletion of 717000 nodes:  0.095337s
+
+Insertion of 718000 nodes: 0.149912s
+Search of 718000 nodes:    0.06715s
+Deletion of 718000 nodes:  0.094041s
+
+Insertion of 719000 nodes: 0.149836s
+Search of 719000 nodes:    0.068968s
+Deletion of 719000 nodes:  0.099604s
+
+Insertion of 720000 nodes: 0.152344s
+Search of 720000 nodes:    0.072641s
+Deletion of 720000 nodes:  0.094957s
+
+Insertion of 721000 nodes: 0.152058s
+Search of 721000 nodes:    0.067726s
+Deletion of 721000 nodes:  0.103676s
+
+Insertion of 722000 nodes: 0.157807s
+Search of 722000 nodes:    0.062864s
+Deletion of 722000 nodes:  0.101341s
+
+Insertion of 723000 nodes: 0.153511s
+Search of 723000 nodes:    0.065309s
+Deletion of 723000 nodes:  0.092599s
+
+Insertion of 724000 nodes: 0.149688s
+Search of 724000 nodes:    0.06548s
+Deletion of 724000 nodes:  0.099304s
+
+Insertion of 725000 nodes: 0.15268s
+Search of 725000 nodes:    0.063893s
+Deletion of 725000 nodes:  0.095066s
+
+Insertion of 726000 nodes: 0.156034s
+Search of 726000 nodes:    0.070694s
+Deletion of 726000 nodes:  0.097566s
+
+Insertion of 727000 nodes: 0.150154s
+Search of 727000 nodes:    0.065555s
+Deletion of 727000 nodes:  0.098996s
+
+Insertion of 728000 nodes: 0.154048s
+Search of 728000 nodes:    0.06871s
+Deletion of 728000 nodes:  0.096089s
+
+Insertion of 729000 nodes: 0.155033s
+Search of 729000 nodes:    0.069173s
+Deletion of 729000 nodes:  0.097625s
+
+Insertion of 730000 nodes: 0.152163s
+Search of 730000 nodes:    0.070818s
+Deletion of 730000 nodes:  0.097865s
+
+Insertion of 731000 nodes: 0.154303s
+Search of 731000 nodes:    0.06771s
+Deletion of 731000 nodes:  0.097994s
+
+Insertion of 732000 nodes: 0.155036s
+Search of 732000 nodes:    0.071028s
+Deletion of 732000 nodes:  0.098367s
+
+Insertion of 733000 nodes: 0.152771s
+Search of 733000 nodes:    0.066374s
+Deletion of 733000 nodes:  0.095242s
+
+Insertion of 734000 nodes: 0.157125s
+Search of 734000 nodes:    0.068654s
+Deletion of 734000 nodes:  0.102573s
+
+Insertion of 735000 nodes: 0.155856s
+Search of 735000 nodes:    0.06988s
+Deletion of 735000 nodes:  0.099227s
+
+Insertion of 736000 nodes: 0.157362s
+Search of 736000 nodes:    0.066157s
+Deletion of 736000 nodes:  0.095331s
+
+Insertion of 737000 nodes: 0.154821s
+Search of 737000 nodes:    0.066148s
+Deletion of 737000 nodes:  0.102197s
+
+Insertion of 738000 nodes: 0.157571s
+Search of 738000 nodes:    0.075684s
+Deletion of 738000 nodes:  0.100694s
+
+Insertion of 739000 nodes: 0.161689s
+Search of 739000 nodes:    0.068253s
+Deletion of 739000 nodes:  0.09753s
+
+Insertion of 740000 nodes: 0.154125s
+Search of 740000 nodes:    0.065335s
+Deletion of 740000 nodes:  0.098016s
+
+Insertion of 741000 nodes: 0.155248s
+Search of 741000 nodes:    0.0718s
+Deletion of 741000 nodes:  0.099608s
+
+Insertion of 742000 nodes: 0.157189s
+Search of 742000 nodes:    0.072325s
+Deletion of 742000 nodes:  0.09951s
+
+Insertion of 743000 nodes: 0.154243s
+Search of 743000 nodes:    0.065259s
+Deletion of 743000 nodes:  0.097936s
+
+Insertion of 744000 nodes: 0.156526s
+Search of 744000 nodes:    0.06963s
+Deletion of 744000 nodes:  0.104511s
+
+Insertion of 745000 nodes: 0.156766s
+Search of 745000 nodes:    0.069453s
+Deletion of 745000 nodes:  0.100281s
+
+Insertion of 746000 nodes: 0.157361s
+Search of 746000 nodes:    0.070648s
+Deletion of 746000 nodes:  0.099388s
+
+Insertion of 747000 nodes: 0.157048s
+Search of 747000 nodes:    0.068725s
+Deletion of 747000 nodes:  0.103672s
+
+Insertion of 748000 nodes: 0.15962s
+Search of 748000 nodes:    0.069246s
+Deletion of 748000 nodes:  0.102502s
+
+Insertion of 749000 nodes: 0.15935s
+Search of 749000 nodes:    0.074355s
+Deletion of 749000 nodes:  0.100001s
+
+Insertion of 750000 nodes: 0.157626s
+Search of 750000 nodes:    0.073033s
+Deletion of 750000 nodes:  0.101214s
+
+Insertion of 751000 nodes: 0.158107s
+Search of 751000 nodes:    0.071526s
+Deletion of 751000 nodes:  0.103347s
+
+Insertion of 752000 nodes: 0.158296s
+Search of 752000 nodes:    0.077453s
+Deletion of 752000 nodes:  0.10031s
+
+Insertion of 753000 nodes: 0.158993s
+Search of 753000 nodes:    0.072613s
+Deletion of 753000 nodes:  0.107511s
+
+Insertion of 754000 nodes: 0.159466s
+Search of 754000 nodes:    0.069585s
+Deletion of 754000 nodes:  0.103197s
+
+Insertion of 755000 nodes: 0.163282s
+Search of 755000 nodes:    0.070871s
+Deletion of 755000 nodes:  0.098945s
+
+Insertion of 756000 nodes: 0.160523s
+Search of 756000 nodes:    0.07259s
+Deletion of 756000 nodes:  0.097711s
+
+Insertion of 757000 nodes: 0.161327s
+Search of 757000 nodes:    0.075887s
+Deletion of 757000 nodes:  0.10156s
+
+Insertion of 758000 nodes: 0.162335s
+Search of 758000 nodes:    0.073416s
+Deletion of 758000 nodes:  0.099165s
+
+Insertion of 759000 nodes: 0.161507s
+Search of 759000 nodes:    0.074422s
+Deletion of 759000 nodes:  0.101377s
+
+Insertion of 760000 nodes: 0.161989s
+Search of 760000 nodes:    0.075508s
+Deletion of 760000 nodes:  0.103959s
+
+Insertion of 761000 nodes: 0.162499s
+Search of 761000 nodes:    0.0714s
+Deletion of 761000 nodes:  0.100168s
+
+Insertion of 762000 nodes: 0.16029s
+Search of 762000 nodes:    0.069013s
+Deletion of 762000 nodes:  0.104952s
+
+Insertion of 763000 nodes: 0.163879s
+Search of 763000 nodes:    0.07568s
+Deletion of 763000 nodes:  0.105085s
+
+Insertion of 764000 nodes: 0.162764s
+Search of 764000 nodes:    0.066563s
+Deletion of 764000 nodes:  0.101195s
+
+Insertion of 765000 nodes: 0.164517s
+Search of 765000 nodes:    0.073549s
+Deletion of 765000 nodes:  0.105576s
+
+Insertion of 766000 nodes: 0.161286s
+Search of 766000 nodes:    0.07052s
+Deletion of 766000 nodes:  0.107782s
+
+Insertion of 767000 nodes: 0.164762s
+Search of 767000 nodes:    0.072232s
+Deletion of 767000 nodes:  0.099969s
+
+Insertion of 768000 nodes: 0.163919s
+Search of 768000 nodes:    0.075025s
+Deletion of 768000 nodes:  0.105023s
+
+Insertion of 769000 nodes: 0.162738s
+Search of 769000 nodes:    0.073195s
+Deletion of 769000 nodes:  0.103671s
+
+Insertion of 770000 nodes: 0.163682s
+Search of 770000 nodes:    0.067877s
+Deletion of 770000 nodes:  0.103416s
+
+Insertion of 771000 nodes: 0.163501s
+Search of 771000 nodes:    0.074245s
+Deletion of 771000 nodes:  0.103759s
+
+Insertion of 772000 nodes: 0.164676s
+Search of 772000 nodes:    0.070141s
+Deletion of 772000 nodes:  0.099754s
+
+Insertion of 773000 nodes: 0.163531s
+Search of 773000 nodes:    0.069927s
+Deletion of 773000 nodes:  0.102618s
+
+Insertion of 774000 nodes: 0.166442s
+Search of 774000 nodes:    0.080267s
+Deletion of 774000 nodes:  0.105191s
+
+Insertion of 775000 nodes: 0.164109s
+Search of 775000 nodes:    0.070382s
+Deletion of 775000 nodes:  0.099477s
+
+Insertion of 776000 nodes: 0.166182s
+Search of 776000 nodes:    0.073252s
+Deletion of 776000 nodes:  0.103407s
+
+Insertion of 777000 nodes: 0.16317s
+Search of 777000 nodes:    0.078702s
+Deletion of 777000 nodes:  0.10118s
+
+Insertion of 778000 nodes: 0.167272s
+Search of 778000 nodes:    0.077955s
+Deletion of 778000 nodes:  0.102614s
+
+Insertion of 779000 nodes: 0.168318s
+Search of 779000 nodes:    0.071193s
+Deletion of 779000 nodes:  0.103225s
+
+Insertion of 780000 nodes: 0.168744s
+Search of 780000 nodes:    0.075683s
+Deletion of 780000 nodes:  0.104267s
+
+Insertion of 781000 nodes: 0.166429s
+Search of 781000 nodes:    0.075845s
+Deletion of 781000 nodes:  0.10407s
+
+Insertion of 782000 nodes: 0.164977s
+Search of 782000 nodes:    0.073819s
+Deletion of 782000 nodes:  0.101634s
+
+Insertion of 783000 nodes: 0.167365s
+Search of 783000 nodes:    0.067527s
+Deletion of 783000 nodes:  0.100424s
+
+Insertion of 784000 nodes: 0.164501s
+Search of 784000 nodes:    0.074251s
+Deletion of 784000 nodes:  0.104212s
+
+Insertion of 785000 nodes: 0.166278s
+Search of 785000 nodes:    0.073591s
+Deletion of 785000 nodes:  0.109394s
+
+Insertion of 786000 nodes: 0.168976s
+Search of 786000 nodes:    0.070051s
+Deletion of 786000 nodes:  0.103727s
+
+Insertion of 787000 nodes: 0.167924s
+Search of 787000 nodes:    0.077384s
+Deletion of 787000 nodes:  0.109881s
+
+Insertion of 788000 nodes: 0.166001s
+Search of 788000 nodes:    0.073011s
+Deletion of 788000 nodes:  0.103874s
+
+Insertion of 789000 nodes: 0.166301s
+Search of 789000 nodes:    0.07004s
+Deletion of 789000 nodes:  0.102816s
+
+Insertion of 790000 nodes: 0.169576s
+Search of 790000 nodes:    0.070472s
+Deletion of 790000 nodes:  0.105451s
+
+Insertion of 791000 nodes: 0.165059s
+Search of 791000 nodes:    0.070752s
+Deletion of 791000 nodes:  0.10785s
+
+Insertion of 792000 nodes: 0.166272s
+Search of 792000 nodes:    0.070732s
+Deletion of 792000 nodes:  0.105599s
+
+Insertion of 793000 nodes: 0.168915s
+Search of 793000 nodes:    0.072953s
+Deletion of 793000 nodes:  0.105084s
+
+Insertion of 794000 nodes: 0.167972s
+Search of 794000 nodes:    0.073804s
+Deletion of 794000 nodes:  0.114674s
+
+Insertion of 795000 nodes: 0.171747s
+Search of 795000 nodes:    0.076139s
+Deletion of 795000 nodes:  0.106825s
+
+Insertion of 796000 nodes: 0.169354s
+Search of 796000 nodes:    0.071982s
+Deletion of 796000 nodes:  0.104702s
+
+Insertion of 797000 nodes: 0.167383s
+Search of 797000 nodes:    0.079619s
+Deletion of 797000 nodes:  0.107872s
+
+Insertion of 798000 nodes: 0.166955s
+Search of 798000 nodes:    0.07707s
+Deletion of 798000 nodes:  0.107012s
+
+Insertion of 799000 nodes: 0.171332s
+Search of 799000 nodes:    0.075862s
+Deletion of 799000 nodes:  0.106625s
+
+Insertion of 800000 nodes: 0.168493s
+Search of 800000 nodes:    0.078105s
+Deletion of 800000 nodes:  0.110062s
+
+Insertion of 801000 nodes: 0.168773s
+Search of 801000 nodes:    0.0806s
+Deletion of 801000 nodes:  0.111176s
+
+Insertion of 802000 nodes: 0.177698s
+Search of 802000 nodes:    0.073362s
+Deletion of 802000 nodes:  0.107212s
+
+Insertion of 803000 nodes: 0.169165s
+Search of 803000 nodes:    0.080985s
+Deletion of 803000 nodes:  0.106853s
+
+Insertion of 804000 nodes: 0.170335s
+Search of 804000 nodes:    0.07743s
+Deletion of 804000 nodes:  0.110424s
+
+Insertion of 805000 nodes: 0.166622s
+Search of 805000 nodes:    0.069348s
+Deletion of 805000 nodes:  0.106514s
+
+Insertion of 806000 nodes: 0.173812s
+Search of 806000 nodes:    0.073279s
+Deletion of 806000 nodes:  0.109844s
+
+Insertion of 807000 nodes: 0.171491s
+Search of 807000 nodes:    0.076813s
+Deletion of 807000 nodes:  0.10733s
+
+Insertion of 808000 nodes: 0.169637s
+Search of 808000 nodes:    0.075307s
+Deletion of 808000 nodes:  0.111937s
+
+Insertion of 809000 nodes: 0.171026s
+Search of 809000 nodes:    0.074499s
+Deletion of 809000 nodes:  0.109821s
+
+Insertion of 810000 nodes: 0.176721s
+Search of 810000 nodes:    0.080327s
+Deletion of 810000 nodes:  0.107991s
+
+Insertion of 811000 nodes: 0.171899s
+Search of 811000 nodes:    0.076143s
+Deletion of 811000 nodes:  0.119255s
+
+Insertion of 812000 nodes: 0.170638s
+Search of 812000 nodes:    0.074588s
+Deletion of 812000 nodes:  0.110615s
+
+Insertion of 813000 nodes: 0.176085s
+Search of 813000 nodes:    0.073524s
+Deletion of 813000 nodes:  0.108409s
+
+Insertion of 814000 nodes: 0.170922s
+Search of 814000 nodes:    0.079019s
+Deletion of 814000 nodes:  0.116707s
+
+Insertion of 815000 nodes: 0.171846s
+Search of 815000 nodes:    0.074667s
+Deletion of 815000 nodes:  0.106382s
+
+Insertion of 816000 nodes: 0.173074s
+Search of 816000 nodes:    0.073543s
+Deletion of 816000 nodes:  0.108559s
+
+Insertion of 817000 nodes: 0.17283s
+Search of 817000 nodes:    0.078242s
+Deletion of 817000 nodes:  0.109448s
+
+Insertion of 818000 nodes: 0.173324s
+Search of 818000 nodes:    0.073806s
+Deletion of 818000 nodes:  0.119629s
+
+Insertion of 819000 nodes: 0.174222s
+Search of 819000 nodes:    0.078059s
+Deletion of 819000 nodes:  0.114568s
+
+Insertion of 820000 nodes: 0.179734s
+Search of 820000 nodes:    0.078146s
+Deletion of 820000 nodes:  0.111221s
+
+Insertion of 821000 nodes: 0.17929s
+Search of 821000 nodes:    0.077637s
+Deletion of 821000 nodes:  0.119411s
+
+Insertion of 822000 nodes: 0.176683s
+Search of 822000 nodes:    0.078959s
+Deletion of 822000 nodes:  0.11786s
+
+Insertion of 823000 nodes: 0.176754s
+Search of 823000 nodes:    0.079423s
+Deletion of 823000 nodes:  0.1113s
+
+Insertion of 824000 nodes: 0.176769s
+Search of 824000 nodes:    0.078275s
+Deletion of 824000 nodes:  0.109206s
+
+Insertion of 825000 nodes: 0.17619s
+Search of 825000 nodes:    0.084778s
+Deletion of 825000 nodes:  0.11145s
+
+Insertion of 826000 nodes: 0.175523s
+Search of 826000 nodes:    0.07572s
+Deletion of 826000 nodes:  0.110352s
+
+Insertion of 827000 nodes: 0.184611s
+Search of 827000 nodes:    0.086102s
+Deletion of 827000 nodes:  0.122378s
+
+Insertion of 828000 nodes: 0.17987s
+Search of 828000 nodes:    0.079819s
+Deletion of 828000 nodes:  0.111121s
+
+Insertion of 829000 nodes: 0.173644s
+Search of 829000 nodes:    0.073758s
+Deletion of 829000 nodes:  0.111555s
+
+Insertion of 830000 nodes: 0.173716s
+Search of 830000 nodes:    0.081151s
+Deletion of 830000 nodes:  0.112657s
+
+Insertion of 831000 nodes: 0.175375s
+Search of 831000 nodes:    0.072528s
+Deletion of 831000 nodes:  0.108825s
+
+Insertion of 832000 nodes: 0.17667s
+Search of 832000 nodes:    0.080894s
+Deletion of 832000 nodes:  0.115303s
+
+Insertion of 833000 nodes: 0.176994s
+Search of 833000 nodes:    0.079225s
+Deletion of 833000 nodes:  0.113201s
+
+Insertion of 834000 nodes: 0.176594s
+Search of 834000 nodes:    0.076779s
+Deletion of 834000 nodes:  0.116545s
+
+Insertion of 835000 nodes: 0.182644s
+Search of 835000 nodes:    0.077991s
+Deletion of 835000 nodes:  0.114989s
+
+Insertion of 836000 nodes: 0.183186s
+Search of 836000 nodes:    0.083622s
+Deletion of 836000 nodes:  0.11534s
+
+Insertion of 837000 nodes: 0.179304s
+Search of 837000 nodes:    0.079058s
+Deletion of 837000 nodes:  0.113852s
+
+Insertion of 838000 nodes: 0.178182s
+Search of 838000 nodes:    0.077048s
+Deletion of 838000 nodes:  0.111974s
+
+Insertion of 839000 nodes: 0.175549s
+Search of 839000 nodes:    0.078015s
+Deletion of 839000 nodes:  0.109486s
+
+Insertion of 840000 nodes: 0.176201s
+Search of 840000 nodes:    0.080723s
+Deletion of 840000 nodes:  0.112855s
+
+Insertion of 841000 nodes: 0.1727s
+Search of 841000 nodes:    0.085326s
+Deletion of 841000 nodes:  0.116606s
+
+Insertion of 842000 nodes: 0.180274s
+Search of 842000 nodes:    0.084445s
+Deletion of 842000 nodes:  0.114418s
+
+Insertion of 843000 nodes: 0.180603s
+Search of 843000 nodes:    0.083128s
+Deletion of 843000 nodes:  0.116088s
+
+Insertion of 844000 nodes: 0.185191s
+Search of 844000 nodes:    0.083601s
+Deletion of 844000 nodes:  0.117071s
+
+Insertion of 845000 nodes: 0.178824s
+Search of 845000 nodes:    0.08371s
+Deletion of 845000 nodes:  0.118998s
+
+Insertion of 846000 nodes: 0.181754s
+Search of 846000 nodes:    0.076131s
+Deletion of 846000 nodes:  0.112238s
+
+Insertion of 847000 nodes: 0.180436s
+Search of 847000 nodes:    0.079705s
+Deletion of 847000 nodes:  0.114957s
+
+Insertion of 848000 nodes: 0.178507s
+Search of 848000 nodes:    0.078793s
+Deletion of 848000 nodes:  0.113182s
+
+Insertion of 849000 nodes: 0.178627s
+Search of 849000 nodes:    0.077145s
+Deletion of 849000 nodes:  0.112638s
+
+Insertion of 850000 nodes: 0.179578s
+Search of 850000 nodes:    0.076216s
+Deletion of 850000 nodes:  0.117615s
+
+Insertion of 851000 nodes: 0.18254s
+Search of 851000 nodes:    0.076928s
+Deletion of 851000 nodes:  0.117024s
+
+Insertion of 852000 nodes: 0.181178s
+Search of 852000 nodes:    0.079354s
+Deletion of 852000 nodes:  0.111632s
+
+Insertion of 853000 nodes: 0.18221s
+Search of 853000 nodes:    0.087031s
+Deletion of 853000 nodes:  0.116833s
+
+Insertion of 854000 nodes: 0.182091s
+Search of 854000 nodes:    0.082453s
+Deletion of 854000 nodes:  0.115559s
+
+Insertion of 855000 nodes: 0.183817s
+Search of 855000 nodes:    0.083147s
+Deletion of 855000 nodes:  0.120285s
+
+Insertion of 856000 nodes: 0.180949s
+Search of 856000 nodes:    0.079258s
+Deletion of 856000 nodes:  0.11596s
+
+Insertion of 857000 nodes: 0.185925s
+Search of 857000 nodes:    0.081525s
+Deletion of 857000 nodes:  0.113522s
+
+Insertion of 858000 nodes: 0.183335s
+Search of 858000 nodes:    0.080308s
+Deletion of 858000 nodes:  0.119798s
+
+Insertion of 859000 nodes: 0.193065s
+Search of 859000 nodes:    0.084135s
+Deletion of 859000 nodes:  0.115499s
+
+Insertion of 860000 nodes: 0.183989s
+Search of 860000 nodes:    0.079241s
+Deletion of 860000 nodes:  0.11789s
+
+Insertion of 861000 nodes: 0.182933s
+Search of 861000 nodes:    0.080619s
+Deletion of 861000 nodes:  0.12094s
+
+Insertion of 862000 nodes: 0.186251s
+Search of 862000 nodes:    0.082s
+Deletion of 862000 nodes:  0.11307s
+
+Insertion of 863000 nodes: 0.181271s
+Search of 863000 nodes:    0.085361s
+Deletion of 863000 nodes:  0.118268s
+
+Insertion of 864000 nodes: 0.184532s
+Search of 864000 nodes:    0.083163s
+Deletion of 864000 nodes:  0.116771s
+
+Insertion of 865000 nodes: 0.1868s
+Search of 865000 nodes:    0.085087s
+Deletion of 865000 nodes:  0.11396s
+
+Insertion of 866000 nodes: 0.184385s
+Search of 866000 nodes:    0.076672s
+Deletion of 866000 nodes:  0.118402s
+
+Insertion of 867000 nodes: 0.182346s
+Search of 867000 nodes:    0.085254s
+Deletion of 867000 nodes:  0.117283s
+
+Insertion of 868000 nodes: 0.187189s
+Search of 868000 nodes:    0.079634s
+Deletion of 868000 nodes:  0.115281s
+
+Insertion of 869000 nodes: 0.185405s
+Search of 869000 nodes:    0.081999s
+Deletion of 869000 nodes:  0.114026s
+
+Insertion of 870000 nodes: 0.185008s
+Search of 870000 nodes:    0.080014s
+Deletion of 870000 nodes:  0.115346s
+
+Insertion of 871000 nodes: 0.185276s
+Search of 871000 nodes:    0.082255s
+Deletion of 871000 nodes:  0.120247s
+
+Insertion of 872000 nodes: 0.188899s
+Search of 872000 nodes:    0.082297s
+Deletion of 872000 nodes:  0.115006s
+
+Insertion of 873000 nodes: 0.187721s
+Search of 873000 nodes:    0.083589s
+Deletion of 873000 nodes:  0.116245s
+
+Insertion of 874000 nodes: 0.185473s
+Search of 874000 nodes:    0.082312s
+Deletion of 874000 nodes:  0.11967s
+
+Insertion of 875000 nodes: 0.186548s
+Search of 875000 nodes:    0.082502s
+Deletion of 875000 nodes:  0.122543s
+
+Insertion of 876000 nodes: 0.186367s
+Search of 876000 nodes:    0.083756s
+Deletion of 876000 nodes:  0.119349s
+
+Insertion of 877000 nodes: 0.18964s
+Search of 877000 nodes:    0.086306s
+Deletion of 877000 nodes:  0.121834s
+
+Insertion of 878000 nodes: 0.184892s
+Search of 878000 nodes:    0.08475s
+Deletion of 878000 nodes:  0.11951s
+
+Insertion of 879000 nodes: 0.190212s
+Search of 879000 nodes:    0.078959s
+Deletion of 879000 nodes:  0.118221s
+
+Insertion of 880000 nodes: 0.188478s
+Search of 880000 nodes:    0.084909s
+Deletion of 880000 nodes:  0.122372s
+
+Insertion of 881000 nodes: 0.186786s
+Search of 881000 nodes:    0.082259s
+Deletion of 881000 nodes:  0.116139s
+
+Insertion of 882000 nodes: 0.186099s
+Search of 882000 nodes:    0.08333s
+Deletion of 882000 nodes:  0.120188s
+
+Insertion of 883000 nodes: 0.188712s
+Search of 883000 nodes:    0.082774s
+Deletion of 883000 nodes:  0.117626s
+
+Insertion of 884000 nodes: 0.187498s
+Search of 884000 nodes:    0.086798s
+Deletion of 884000 nodes:  0.12244s
+
+Insertion of 885000 nodes: 0.188909s
+Search of 885000 nodes:    0.087812s
+Deletion of 885000 nodes:  0.121027s
+
+Insertion of 886000 nodes: 0.191508s
+Search of 886000 nodes:    0.084515s
+Deletion of 886000 nodes:  0.122176s
+
+Insertion of 887000 nodes: 0.189721s
+Search of 887000 nodes:    0.085366s
+Deletion of 887000 nodes:  0.116497s
+
+Insertion of 888000 nodes: 0.190357s
+Search of 888000 nodes:    0.094157s
+Deletion of 888000 nodes:  0.124254s
+
+Insertion of 889000 nodes: 0.18718s
+Search of 889000 nodes:    0.085985s
+Deletion of 889000 nodes:  0.127099s
+
+Insertion of 890000 nodes: 0.188245s
+Search of 890000 nodes:    0.081574s
+Deletion of 890000 nodes:  0.117205s
+
+Insertion of 891000 nodes: 0.19319s
+Search of 891000 nodes:    0.079192s
+Deletion of 891000 nodes:  0.114793s
+
+Insertion of 892000 nodes: 0.194896s
+Search of 892000 nodes:    0.08652s
+Deletion of 892000 nodes:  0.117279s
+
+Insertion of 893000 nodes: 0.191092s
+Search of 893000 nodes:    0.086015s
+Deletion of 893000 nodes:  0.124084s
+
+Insertion of 894000 nodes: 0.188886s
+Search of 894000 nodes:    0.079982s
+Deletion of 894000 nodes:  0.122307s
+
+Insertion of 895000 nodes: 0.191517s
+Search of 895000 nodes:    0.083196s
+Deletion of 895000 nodes:  0.118956s
+
+Insertion of 896000 nodes: 0.192449s
+Search of 896000 nodes:    0.085565s
+Deletion of 896000 nodes:  0.123332s
+
+Insertion of 897000 nodes: 0.189553s
+Search of 897000 nodes:    0.082999s
+Deletion of 897000 nodes:  0.119887s
+
+Insertion of 898000 nodes: 0.19269s
+Search of 898000 nodes:    0.090409s
+Deletion of 898000 nodes:  0.127206s
+
+Insertion of 899000 nodes: 0.189502s
+Search of 899000 nodes:    0.081689s
+Deletion of 899000 nodes:  0.119457s
+
+Insertion of 900000 nodes: 0.197889s
+Search of 900000 nodes:    0.09014s
+Deletion of 900000 nodes:  0.123588s
+
+Insertion of 901000 nodes: 0.194542s
+Search of 901000 nodes:    0.082674s
+Deletion of 901000 nodes:  0.123815s
+
+Insertion of 902000 nodes: 0.188505s
+Search of 902000 nodes:    0.082242s
+Deletion of 902000 nodes:  0.117334s
+
+Insertion of 903000 nodes: 0.190517s
+Search of 903000 nodes:    0.084525s
+Deletion of 903000 nodes:  0.124308s
+
+Insertion of 904000 nodes: 0.190965s
+Search of 904000 nodes:    0.086103s
+Deletion of 904000 nodes:  0.11812s
+
+Insertion of 905000 nodes: 0.190323s
+Search of 905000 nodes:    0.080739s
+Deletion of 905000 nodes:  0.116755s
+
+Insertion of 906000 nodes: 0.197694s
+Search of 906000 nodes:    0.083561s
+Deletion of 906000 nodes:  0.118766s
+
+Insertion of 907000 nodes: 0.192665s
+Search of 907000 nodes:    0.082745s
+Deletion of 907000 nodes:  0.124977s
+
+Insertion of 908000 nodes: 0.191092s
+Search of 908000 nodes:    0.087427s
+Deletion of 908000 nodes:  0.126824s
+
+Insertion of 909000 nodes: 0.192915s
+Search of 909000 nodes:    0.090532s
+Deletion of 909000 nodes:  0.121249s
+
+Insertion of 910000 nodes: 0.193593s
+Search of 910000 nodes:    0.085587s
+Deletion of 910000 nodes:  0.118666s
+
+Insertion of 911000 nodes: 0.197057s
+Search of 911000 nodes:    0.08803s
+Deletion of 911000 nodes:  0.123295s
+
+Insertion of 912000 nodes: 0.196684s
+Search of 912000 nodes:    0.085765s
+Deletion of 912000 nodes:  0.123435s
+
+Insertion of 913000 nodes: 0.195123s
+Search of 913000 nodes:    0.093911s
+Deletion of 913000 nodes:  0.12728s
+
+Insertion of 914000 nodes: 0.196556s
+Search of 914000 nodes:    0.087133s
+Deletion of 914000 nodes:  0.120354s
+
+Insertion of 915000 nodes: 0.191537s
+Search of 915000 nodes:    0.085309s
+Deletion of 915000 nodes:  0.118991s
+
+Insertion of 916000 nodes: 0.20184s
+Search of 916000 nodes:    0.091722s
+Deletion of 916000 nodes:  0.122343s
+
+Insertion of 917000 nodes: 0.193258s
+Search of 917000 nodes:    0.09078s
+Deletion of 917000 nodes:  0.121457s
+
+Insertion of 918000 nodes: 0.197385s
+Search of 918000 nodes:    0.092772s
+Deletion of 918000 nodes:  0.133867s
+
+Insertion of 919000 nodes: 0.198125s
+Search of 919000 nodes:    0.085874s
+Deletion of 919000 nodes:  0.127774s
+
+Insertion of 920000 nodes: 0.197761s
+Search of 920000 nodes:    0.088396s
+Deletion of 920000 nodes:  0.125607s
+
+Insertion of 921000 nodes: 0.203708s
+Search of 921000 nodes:    0.085372s
+Deletion of 921000 nodes:  0.125451s
+
+Insertion of 922000 nodes: 0.196342s
+Search of 922000 nodes:    0.085636s
+Deletion of 922000 nodes:  0.12326s
+
+Insertion of 923000 nodes: 0.19734s
+Search of 923000 nodes:    0.086076s
+Deletion of 923000 nodes:  0.132291s
+
+Insertion of 924000 nodes: 0.195331s
+Search of 924000 nodes:    0.082658s
+Deletion of 924000 nodes:  0.121735s
+
+Insertion of 925000 nodes: 0.19528s
+Search of 925000 nodes:    0.082057s
+Deletion of 925000 nodes:  0.122525s
+
+Insertion of 926000 nodes: 0.20028s
+Search of 926000 nodes:    0.084241s
+Deletion of 926000 nodes:  0.123168s
+
+Insertion of 927000 nodes: 0.196331s
+Search of 927000 nodes:    0.09153s
+Deletion of 927000 nodes:  0.128813s
+
+Insertion of 928000 nodes: 0.196778s
+Search of 928000 nodes:    0.08695s
+Deletion of 928000 nodes:  0.131528s
+
+Insertion of 929000 nodes: 0.19521s
+Search of 929000 nodes:    0.090339s
+Deletion of 929000 nodes:  0.125392s
+
+Insertion of 930000 nodes: 0.205345s
+Search of 930000 nodes:    0.090432s
+Deletion of 930000 nodes:  0.12489s
+
+Insertion of 931000 nodes: 0.203175s
+Search of 931000 nodes:    0.083321s
+Deletion of 931000 nodes:  0.123347s
+
+Insertion of 932000 nodes: 0.197749s
+Search of 932000 nodes:    0.085148s
+Deletion of 932000 nodes:  0.123715s
+
+Insertion of 933000 nodes: 0.199047s
+Search of 933000 nodes:    0.089039s
+Deletion of 933000 nodes:  0.131104s
+
+Insertion of 934000 nodes: 0.198623s
+Search of 934000 nodes:    0.089285s
+Deletion of 934000 nodes:  0.129163s
+
+Insertion of 935000 nodes: 0.198912s
+Search of 935000 nodes:    0.0881s
+Deletion of 935000 nodes:  0.128301s
+
+Insertion of 936000 nodes: 0.200202s
+Search of 936000 nodes:    0.085582s
+Deletion of 936000 nodes:  0.125955s
+
+Insertion of 937000 nodes: 0.204932s
+Search of 937000 nodes:    0.088307s
+Deletion of 937000 nodes:  0.130362s
+
+Insertion of 938000 nodes: 0.205567s
+Search of 938000 nodes:    0.090583s
+Deletion of 938000 nodes:  0.124106s
+
+Insertion of 939000 nodes: 0.199829s
+Search of 939000 nodes:    0.091639s
+Deletion of 939000 nodes:  0.131502s
+
+Insertion of 940000 nodes: 0.198826s
+Search of 940000 nodes:    0.088645s
+Deletion of 940000 nodes:  0.126802s
+
+Insertion of 941000 nodes: 0.197391s
+Search of 941000 nodes:    0.090474s
+Deletion of 941000 nodes:  0.12901s
+
+Insertion of 942000 nodes: 0.204204s
+Search of 942000 nodes:    0.095149s
+Deletion of 942000 nodes:  0.125165s
+
+Insertion of 943000 nodes: 0.201223s
+Search of 943000 nodes:    0.1s
+Deletion of 943000 nodes:  0.136996s
+
+Insertion of 944000 nodes: 0.208296s
+Search of 944000 nodes:    0.086407s
+Deletion of 944000 nodes:  0.135572s
+
+Insertion of 945000 nodes: 0.212201s
+Search of 945000 nodes:    0.086617s
+Deletion of 945000 nodes:  0.135396s
+
+Insertion of 946000 nodes: 0.200439s
+Search of 946000 nodes:    0.076556s
+Deletion of 946000 nodes:  0.124651s
+
+Insertion of 947000 nodes: 0.203935s
+Search of 947000 nodes:    0.082491s
+Deletion of 947000 nodes:  0.134666s
+
+Insertion of 948000 nodes: 0.205583s
+Search of 948000 nodes:    0.082417s
+Deletion of 948000 nodes:  0.134469s
+
+Insertion of 949000 nodes: 0.210745s
+Search of 949000 nodes:    0.088854s
+Deletion of 949000 nodes:  0.133211s
+
+Insertion of 950000 nodes: 0.203766s
+Search of 950000 nodes:    0.088429s
+Deletion of 950000 nodes:  0.136379s
+
+Insertion of 951000 nodes: 0.207591s
+Search of 951000 nodes:    0.081989s
+Deletion of 951000 nodes:  0.132655s
+
+Insertion of 952000 nodes: 0.210194s
+Search of 952000 nodes:    0.084026s
+Deletion of 952000 nodes:  0.13314s
+
+Insertion of 953000 nodes: 0.208191s
+Search of 953000 nodes:    0.081117s
+Deletion of 953000 nodes:  0.140472s
+
+Insertion of 954000 nodes: 0.210449s
+Search of 954000 nodes:    0.084685s
+Deletion of 954000 nodes:  0.129108s
+
+Insertion of 955000 nodes: 0.208412s
+Search of 955000 nodes:    0.097634s
+Deletion of 955000 nodes:  0.133947s
+
+Insertion of 956000 nodes: 0.207601s
+Search of 956000 nodes:    0.086445s
+Deletion of 956000 nodes:  0.132822s
+
+Insertion of 957000 nodes: 0.208739s
+Search of 957000 nodes:    0.093447s
+Deletion of 957000 nodes:  0.13621s
+
+Insertion of 958000 nodes: 0.204975s
+Search of 958000 nodes:    0.090776s
+Deletion of 958000 nodes:  0.131373s
+
+Insertion of 959000 nodes: 0.210118s
+Search of 959000 nodes:    0.093721s
+Deletion of 959000 nodes:  0.130732s
+
+Insertion of 960000 nodes: 0.204999s
+Search of 960000 nodes:    0.088134s
+Deletion of 960000 nodes:  0.133166s
+
+Insertion of 961000 nodes: 0.203563s
+Search of 961000 nodes:    0.092644s
+Deletion of 961000 nodes:  0.129708s
+
+Insertion of 962000 nodes: 0.204031s
+Search of 962000 nodes:    0.083397s
+Deletion of 962000 nodes:  0.130227s
+
+Insertion of 963000 nodes: 0.208645s
+Search of 963000 nodes:    0.093117s
+Deletion of 963000 nodes:  0.132657s
+
+Insertion of 964000 nodes: 0.210103s
+Search of 964000 nodes:    0.089608s
+Deletion of 964000 nodes:  0.131632s
+
+Insertion of 965000 nodes: 0.20491s
+Search of 965000 nodes:    0.094341s
+Deletion of 965000 nodes:  0.134535s
+
+Insertion of 966000 nodes: 0.208415s
+Search of 966000 nodes:    0.090692s
+Deletion of 966000 nodes:  0.130266s
+
+Insertion of 967000 nodes: 0.213151s
+Search of 967000 nodes:    0.086935s
+Deletion of 967000 nodes:  0.13179s
+
+Insertion of 968000 nodes: 0.209254s
+Search of 968000 nodes:    0.093677s
+Deletion of 968000 nodes:  0.130678s
+
+Insertion of 969000 nodes: 0.207445s
+Search of 969000 nodes:    0.08739s
+Deletion of 969000 nodes:  0.13371s
+
+Insertion of 970000 nodes: 0.208748s
+Search of 970000 nodes:    0.090896s
+Deletion of 970000 nodes:  0.132086s
+
+Insertion of 971000 nodes: 0.213122s
+Search of 971000 nodes:    0.097946s
+Deletion of 971000 nodes:  0.129617s
+
+Insertion of 972000 nodes: 0.208811s
+Search of 972000 nodes:    0.09102s
+Deletion of 972000 nodes:  0.132985s
+
+Insertion of 973000 nodes: 0.209372s
+Search of 973000 nodes:    0.090283s
+Deletion of 973000 nodes:  0.127791s
+
+Insertion of 974000 nodes: 0.213396s
+Search of 974000 nodes:    0.093753s
+Deletion of 974000 nodes:  0.135979s
+
+Insertion of 975000 nodes: 0.209369s
+Search of 975000 nodes:    0.095238s
+Deletion of 975000 nodes:  0.133995s
+
+Insertion of 976000 nodes: 0.209304s
+Search of 976000 nodes:    0.094161s
+Deletion of 976000 nodes:  0.13471s
+
+Insertion of 977000 nodes: 0.21086s
+Search of 977000 nodes:    0.088367s
+Deletion of 977000 nodes:  0.13811s
+
+Insertion of 978000 nodes: 0.209234s
+Search of 978000 nodes:    0.093107s
+Deletion of 978000 nodes:  0.130682s
+
+Insertion of 979000 nodes: 0.209499s
+Search of 979000 nodes:    0.092633s
+Deletion of 979000 nodes:  0.131067s
+
+Insertion of 980000 nodes: 0.214604s
+Search of 980000 nodes:    0.088012s
+Deletion of 980000 nodes:  0.135403s
+
+Insertion of 981000 nodes: 0.208576s
+Search of 981000 nodes:    0.088229s
+Deletion of 981000 nodes:  0.130235s
+
+Insertion of 982000 nodes: 0.209592s
+Search of 982000 nodes:    0.092595s
+Deletion of 982000 nodes:  0.130726s
+
+Insertion of 983000 nodes: 0.208794s
+Search of 983000 nodes:    0.095599s
+Deletion of 983000 nodes:  0.133653s
+
+Insertion of 984000 nodes: 0.210671s
+Search of 984000 nodes:    0.093932s
+Deletion of 984000 nodes:  0.134522s
+
+Insertion of 985000 nodes: 0.210645s
+Search of 985000 nodes:    0.088284s
+Deletion of 985000 nodes:  0.130747s
+
+Insertion of 986000 nodes: 0.210198s
+Search of 986000 nodes:    0.092845s
+Deletion of 986000 nodes:  0.137166s
+
+Insertion of 987000 nodes: 0.211628s
+Search of 987000 nodes:    0.088032s
+Deletion of 987000 nodes:  0.128855s
+
+Insertion of 988000 nodes: 0.213875s
+Search of 988000 nodes:    0.095406s
+Deletion of 988000 nodes:  0.138041s
+
+Insertion of 989000 nodes: 0.212598s
+Search of 989000 nodes:    0.093671s
+Deletion of 989000 nodes:  0.132321s
+
+Insertion of 990000 nodes: 0.213645s
+Search of 990000 nodes:    0.090296s
+Deletion of 990000 nodes:  0.13547s
+
+Insertion of 991000 nodes: 0.211358s
+Search of 991000 nodes:    0.092078s
+Deletion of 991000 nodes:  0.137284s
+
+Insertion of 992000 nodes: 0.214736s
+Search of 992000 nodes:    0.091127s
+Deletion of 992000 nodes:  0.137403s
+
+Insertion of 993000 nodes: 0.214485s
+Search of 993000 nodes:    0.089453s
+Deletion of 993000 nodes:  0.132175s
+
+Insertion of 994000 nodes: 0.215755s
+Search of 994000 nodes:    0.093666s
+Deletion of 994000 nodes:  0.13073s
+
+Insertion of 995000 nodes: 0.218245s
+Search of 995000 nodes:    0.092599s
+Deletion of 995000 nodes:  0.132581s
+
+Insertion of 996000 nodes: 0.215181s
+Search of 996000 nodes:    0.094445s
+Deletion of 996000 nodes:  0.132277s
+
+Insertion of 997000 nodes: 0.214569s
+Search of 997000 nodes:    0.094604s
+Deletion of 997000 nodes:  0.134791s
+
+Insertion of 998000 nodes: 0.217072s
+Search of 998000 nodes:    0.095103s
+Deletion of 998000 nodes:  0.13779s
+
+Insertion of 999000 nodes: 0.21587s
+Search of 999000 nodes:    0.095635s
+Deletion of 999000 nodes:  0.14213s
+
+Insertion of 1000000 nodes: 0.21124s
+Search of 1000000 nodes:    0.092426s
+Deletion of 1000000 nodes:  0.132111s

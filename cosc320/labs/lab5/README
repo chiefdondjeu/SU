@@ -1,0 +1,15 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+lab 5
+README
+Mar 5, 2020
+
+(a) When creating a priority Queue object of any data type, the queue size is initialized to zero. To put an item in the queue, call Insert(), with parameters (item_to_enter, priority). The first time Insert() is called, the memory is dynamically allocated but after Insert() has been called more than once, the content of the queue is copied and the queue is resized so there is enough space for the new item. The items in the queue will be ordered in max heap priority since buildmaxheap() is called in Increase_key(). The Dequeue() will allow you to only remove the item with the highest priority. The content of the queue is copied and the queue is then resized accordingly, then builmaxHeap() is called to put the queue back into a max heap. If the queue size is zero, an error will be thrown if Dequeue() is called.
+
+(b) In terms of input size, my Dequeue() cost O(nlogn) for worst and O(1) for best case, increase_key() cost O(nlogn) for worst-case and O(1) for best case, and my Insert() cost O(nlogn) for worst-case and O(n) for best case.
+
+(c) As the input increases, the time also increases. Because I called buildMaxHeap() every time I use the Insert(), it will take Θ(nlogn). The non-asymptotic function of n mostly matches O(n).
+
+(d) Priority queue would be helpful in a companies TODO list, where the most important tasks are at the top of the queue and the least are at the bottom of the queue, which helps with organizing. When they complete the task with the highest priority, they can easily delete the task since it will be at the very top. Another lager application would be in a game, where there are multiple enemies but some enemies attacks are prioritized over others to show that this particular enemy is the "strongest" or it could be used in the event where its player vs player and the commands that are prioritized it the one that came before, makes sense if min Heap is used.
+
+(e) My code could be improved but adding more functions similar to the STL priority queue, and implementing a stronger error handling system, and also not use buildMaxHeap() but use maxHeapify() so the algorithms are faster.

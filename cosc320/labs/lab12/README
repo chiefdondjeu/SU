@@ -1,0 +1,20 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+lab 12
+May 5, 2020
+
+Instructions: type 'make' to compile the code. To test run directed graphs, type './lab12Driver data dir', and to test run undirected graphs, type './labDirver data undir'.
+
+*Note*: In the data file, when making an undirected graph, only list the occurrence of an edge once e.g at line 1 edges {1 2 4} but at line 2 no {2 1}.
+
+(a) RandomVertexCover is similar to VertexCover expect I recorded all the vertices in an array, and used the randomized shuffle function from lab 6. For minimumVertexCover, I have two helper function, one that created all possible vertex covers and puts them in a vector of vectors and the other function, given a list of vertex covers determines if the vertex covers are actually covers.
+
+(b) The theoretical time complexity is O(|V|+|E|) because the functions always go through vertex and their edges.
+
+(c) The computed cover is suboptimal if given a graph with no edges because it will still run through each vertices.
+
+(d) The computed cover is optimal when the vertices are multi-connected.
+
+(e) The randomized version always gives us the most optimal covers as compared to the deterministic one, especially when the size of the graph increases.
+
+(f) I do not see how I could further improve the code.

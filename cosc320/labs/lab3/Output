@@ -1,0 +1,55 @@
+bash-4.2$ make run
+./lab3Driver
+Enter number of elements: 50000
+
+        HEAP SORT
+
+        elasped time: 0.03s
+        # swap: 773305
+        goodArr is sorted!
+
+        elasped time: 0.03s
+        # swap: 731888
+        randArr is sorted!
+
+        elasped time: 0.02s
+        # swap: 698893
+        badArr is sorted!
+
+bash-4.2$ make run
+./lab3Driver
+Enter number of elements: 100000 
+
+        HEAP SORT
+
+        elasped time: 0.07s
+        # swap: 1650855
+        goodArr is sorted!
+
+        elasped time: 0.06s
+        # swap: 1563386
+        randArr is sorted!
+
+        elasped time: 0.04s
+        # swap: 1497435
+        badArr is sorted!
+
+bash-4.2$ make run
+./lab3Driver
+Enter number of elements: 250000
+
+        HEAP SORT
+
+        elasped time: 0.16s
+        # swap: 4436833
+        goodArr is sorted!
+
+        elasped time: 0.14s
+        # swap: 4225404
+        randArr is sorted!
+
+        elasped time: 0.13s
+        # swap: 4072887
+        badArr is sorted!
+
+bash-4.2$

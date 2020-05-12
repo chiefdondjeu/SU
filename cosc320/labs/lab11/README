@@ -1,0 +1,12 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+Lab 11
+Apr 30, 2020
+
+To run the program: type 'make' then './lab11Driver data'
+
+(a) I made my constructor take in a boolean expression, where true makes the graph directed and false makes the graph undirected. When adding a vertex for an undirected graph, u -> v, v -> u  is also mapped. For directed graph, v->u needs to be specified in the main. And if a vertex does not exist, nothing is done. To implement printDfs(), I had to utilize a 2nd private function that allows the a vertex adjacent vertices to be explored. strongConnect is build similarly to printDfs() except it takes in a graph as parameter.
+
+(b) Best case is O(1) if the the the number of edges is generally small and worst case is O(n), where n is the total number of edges. This would be the case when all the vertices have a multi connected edges.
+
+(c) the code could be improve by implementing a better read from file system.

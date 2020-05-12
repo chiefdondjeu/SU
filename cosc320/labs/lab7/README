@@ -1,0 +1,14 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+Lab 7
+Mar 26, 2020
+
+(a)I implemented 3 hash functions, the first one is used for integers and the other two are used for strings. In the integer hash function, hash(), the input is multiplied by a big number then trimmed down to a smaller number, which is the hash value. Doing this allows for more unique hashes which reduce the number of possible collisions that might occur. My first string hash function hashV1(), basically converts the string into a numerical value, then that numerical value is then hashed with the integer hash function. Then my hashV2() 2nd string hash function, does the same thing as hashV1() but includes a multiplication step (will be discussed in b). Also, I implemented 3 more functions, hashInt(), hashStringV1(), and hashStringV2(), who returns the hash value of each hash function described above in hexadecimal form. In the main, I generate random numbers and display their hash value with hashInt() using a for loop that runs 10 times. Then for the string hashing, I initialize a string variable then call hashStringV#() V1 and V2 passing in the string variable which output the hash value of that string side by side.
+
+(b)How hashStringV1() works, it takes in a given string, then it hashes using hashV1() each word in the string excluding the spaces, then sums the hashing of each word and output the hash value of the string. What hashV1() does is, it takes in a string, converts each character to its numerical value then sum all of them up. That sum is then passed into hash(), which is our hashing function for integers. The result of hash() is the hash of the string.
+
+hashstringV2() works similarly in the first and last step has hashStringV1(), the only difference is that it uses hashV2(). hashV2() similarly to hashV1() takes in a string and converts each character to its numerical value then multiply that number with its position in the word then sum, e.g "AAAAAA" multiplication would look something like 65*0 + 65*1 + 65*2, etc... that sum value is then passed into hash(), hashing function for integer.
+
+The hash values output from each function using the same string differ simply because of that multiplication step included.
+
+(c)To improve my code, instead of excluding the spaces, I could include them in the hashing. The only issue is whether we should put the space in front of the word or behind because the hash value from hashstringV2() would differ a lot. I could have also added a text file and read the data from the file so that it could be hashed, but doing so would also require to edit both hashStringV#() V1 and V2 because I would also need to exclude newline when hashing different blocks of words.

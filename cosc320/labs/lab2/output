@@ -1,0 +1,95 @@
+./lab2Driver
+Enter number of elements: 100
+
+QUICK SORT
+
+	elapsed time: 5.7e-05s
+	goodArr is sorted!
+
+	elapsed time: 1.3e-05s
+	randArr is sorted!
+
+	elapsed time: 4e-05s
+	 badArr is sorted!
+
+MERGE SORT
+	elapsed time: 1e-05s
+	goodArr is sorted!
+
+	elapsed time: 1.8e-05s
+	randArr is sorted!
+
+	elapsed time: 9e-06s
+	badArr is sorted!
+
+bash-3.2$ ./lab2Driver
+Enter number of elements: 1000
+
+QUICK SORT
+
+	elapsed time: 0.005187s
+	goodArr is sorted!
+
+	elapsed time: 0.000139s
+	randArr is sorted!
+
+	elapsed time: 0.002619s
+	 badArr is sorted!
+
+MERGE SORT
+	elapsed time: 7.2e-05s
+	goodArr is sorted!
+
+	elapsed time: 0.000146s
+	randArr is sorted!
+
+	elapsed time: 7.5e-05s
+	badArr is sorted!
+
+bash-3.2$ ./lab2Driver
+Enter number of elements: 10000
+
+QUICK SORT
+
+	elapsed time: 0.214427s
+	goodArr is sorted!
+
+	elapsed time: 0.000855s
+	randArr is sorted!
+
+	elapsed time: 0.147471s
+	 badArr is sorted!
+
+MERGE SORT
+	elapsed time: 0.000672s
+	goodArr is sorted!
+
+	elapsed time: 0.001041s
+	randArr is sorted!
+
+	elapsed time: 0.000575s
+	badArr is sorted!
+
+bash-3.2$ ./lab2Driver
+Enter number of elements: 100000
+
+QUICK SORT
+
+	elapsed time: 19.8853s
+	goodArr is sorted!
+
+	elapsed time: 0.016314s
+	randArr is sorted!
+
+	elapsed time: 14.2071s
+	 badArr is sorted!
+
+MERGE SORT
+	elapsed time: 0.006448s
+	goodArr is sorted!
+
+	elapsed time: 0.011435s
+	randArr is sorted!
+
+	elapsed time: 0.006501s
+	badArr is sorted!

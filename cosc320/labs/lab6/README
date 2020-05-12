@@ -1,0 +1,25 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+lab 6
+README
+Mar 12, 2020
+
+Note: program may run slow when playing hiring algorithm generating 5000+ elements.
+
+(a) For the hiring algorithm, I made a namespace called "Assistant" which helps me track the rank of the worker hired, how many interviews took place, and the worker sample size 1,000~10,000, where size+= 1000. For every sample size, the hiring algorithm runs 10 times and the average hiring of that sample size is also calculated. after all the 100 trials, the total average of hiring from each sample size is also calaculated. In order to achieve this, I used a function pointer called "playHire" with parameter, an array, which contains the rank of workers, and the size of the array. I used suffle 2B, to randomly distribute the rank positions in the array. The funtion pointer calls "Hire_Assistant", which is the hiring assistant algorithm, adds up all the total hiring over all and the total hiring for each sample size.
+
+For the sorting algorithm, I used suffle 2A instead of suffle 2B because it took forever to generate 100k+ element. In order to get the average time of each sorts, I used nested for loops where the outside loop kept track of the size of the arrays, and the the 4 nested loops kept track of the number of trials. The outer loop runs from 10,000 50,000 then nicely increments by 50,000 until size equal 1,000,000. Each sorts has its own for loop which loops 20 times. Inside each, the array is suffle then sorted with the help of a pointer function (Note: each sorts has it own pointer function). The pointer functions play the sort and returns a time it took the sort to sort the array. Those times are then summed and divided by the total number of trials, which gives us an average time for how long each sorts takes as the size of the array increases.
+
+(b) The theoretical time for the hiring algorithm is T = n. The input size has no big effect on the time complexity. 
+
+ The theoretical time for quicksort, randomized quicksort amd merge sort were T = 2n(log(2n)). As the size of the array double, the time it takes to sort also doubles. In the OUTPUT at 500,000 elements, quicksort 0.069s, randomized quicksort 0.07s and merge sort 0.07s compared to the times at 1,000,000 elements: quick sort 0.15s, randomized quicksort 0.15s, and merge 0.14s. The time for each is almost double. Heapsort's theoretical time complexity is fairly the same the other three sorts, excepts it is double taht of the other three. At 500,000 elements heapsort 0.17s and at 1,000,000 heapsort 0.39s. These times are double that of the times of the other sorts at their respective size even tho heapsort is also nlogn. This is because heapsort relizes on the order of the array. Since the array was randomized, it first had to be put into a max heap which takes O(nlogn) time, then added to the actual sorting time. So when looking at heapsort alone its T = 2n(log(2n)) but when comparing it to the others its T = 4n(log(4n)).
+
+(c) For the hiring algorithm, as the input increase the time is not affected but for the sorting algorithms, the time and input size are directly proportional. The average number of hired looks close to the theoretical expeactation. We are only only getting the total time for that exact number of workers hired. The number of swaps for quicksort look like the expectation proved in class.
+
+(d) The worst case for the hiring algorithm is probably 0.1s assumming the array is in ascending order where every one is hiring until we reach the end of the array. For all the sorting algorithm the worst case is 1s but the algorithms do not come close to incurring this worst case.
+
+(e) Looking at the graph, the function that would resemble the data collected for quicksort, random quicksort and mergesort is T = n/2 and heapsort would most resemble T = n.
+
+(f) I feel like my shuffle function are good as they are. We can use both idea 2a and 2b and combined them into an even more formatable suffle, so I was thinking, insert elements into the queue qith randome prioty ranging from 1 to whatever, then we dequeue the elemnts into the aary and implement suffle 2a where we swap elements in the array.
+
+(g) This code could be imporved using the ofstream and write out the information to a file for easy data collecting and referencing.

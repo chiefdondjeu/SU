@@ -1,0 +1,10 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+Lab 10
+Apr 23, 2020
+
+(a) When adding a vertex, addVertex() checks if the vertex being added exist, if it doesn't the vertex is added otherwise, an error message is printed. To implement addEdge(), I made a private vector search function isPresent() function. addEdge() adds a vertex in the vector list of the vertex. If one of the vertex doesn't exist, it is created and added to the map. To implement print(), I made a private print vector function printVect(). printBfs() checks if the vertex is present, if it isn't an error message is printer, otherwise, the vertices's attributes are printed, {vertex: color, distance, parent}.
+
+(b) Best case is O(1) if the the the number of edges is generally small and worst case is O(n), where n is the total number of edges. This would be the case when all the vertices have a multi connected edges.
+
+(c) The code could be improved by printing the bfs in distance order from 0 to n, so that it is easier to read and visualize the output.

@@ -1,0 +1,399 @@
+Insertion of 1000 nodes: 0.00 s
+Search of 1000 nodes:    0.00 s
+Deletion of 1000 nodes:  0.00 s
+
+Insertion of 2000 nodes: 0.01 s
+Search of 2000 nodes:    0.00 s
+Deletion of 2000 nodes:  0.00 s
+
+Insertion of 3000 nodes: 0.01 s
+Search of 3000 nodes:    0.01 s
+Deletion of 3000 nodes:  0.00 s
+
+Insertion of 4000 nodes: 0.02 s
+Search of 4000 nodes:    0.02 s
+Deletion of 4000 nodes:  0.00 s
+
+Insertion of 5000 nodes: 0.04 s
+Search of 5000 nodes:    0.04 s
+Deletion of 5000 nodes:  0.00 s
+
+Insertion of 6000 nodes: 0.05 s
+Search of 6000 nodes:    0.04 s
+Deletion of 6000 nodes:  0.00 s
+
+Insertion of 7000 nodes: 0.08 s
+Search of 7000 nodes:    0.06 s
+Deletion of 7000 nodes:  0.00 s
+
+Insertion of 8000 nodes: 0.09 s
+Search of 8000 nodes:    0.08 s
+Deletion of 8000 nodes:  0.00 s
+
+Insertion of 9000 nodes: 0.12 s
+Search of 9000 nodes:    0.10 s
+Deletion of 9000 nodes:  0.00 s
+
+Insertion of 10000 nodes: 0.15 s
+Search of 10000 nodes:    0.12 s
+Deletion of 10000 nodes:  0.00 s
+
+Insertion of 11000 nodes: 0.17 s
+Search of 11000 nodes:    0.15 s
+Deletion of 11000 nodes:  0.00 s
+
+Insertion of 12000 nodes: 0.20 s
+Search of 12000 nodes:    0.17 s
+Deletion of 12000 nodes:  0.00 s
+
+Insertion of 13000 nodes: 0.24 s
+Search of 13000 nodes:    0.20 s
+Deletion of 13000 nodes:  0.00 s
+
+Insertion of 14000 nodes: 0.27 s
+Search of 14000 nodes:    0.24 s
+Deletion of 14000 nodes:  0.00 s
+
+Insertion of 15000 nodes: 0.33 s
+Search of 15000 nodes:    0.28 s
+Deletion of 15000 nodes:  0.00 s
+
+Insertion of 16000 nodes: 0.36 s
+Search of 16000 nodes:    0.31 s
+Deletion of 16000 nodes:  0.00 s
+
+Insertion of 17000 nodes: 0.40 s
+Search of 17000 nodes:    0.34 s
+Deletion of 17000 nodes:  0.00 s
+
+Insertion of 18000 nodes: 0.46 s
+Search of 18000 nodes:    0.37 s
+Deletion of 18000 nodes:  0.00 s
+
+Insertion of 19000 nodes: 0.51 s
+Search of 19000 nodes:    0.42 s
+Deletion of 19000 nodes:  0.00 s
+
+Insertion of 20000 nodes: 0.54 s
+Search of 20000 nodes:    0.49 s
+Deletion of 20000 nodes:  0.00 s
+
+Insertion of 21000 nodes: 0.60 s
+Search of 21000 nodes:    0.54 s
+Deletion of 21000 nodes:  0.00 s
+
+Insertion of 22000 nodes: 0.72 s
+Search of 22000 nodes:    0.62 s
+Deletion of 22000 nodes:  0.00 s
+
+Insertion of 23000 nodes: 0.76 s
+Search of 23000 nodes:    0.63 s
+Deletion of 23000 nodes:  0.00 s
+
+Insertion of 24000 nodes: 0.82 s
+Search of 24000 nodes:    0.70 s
+Deletion of 24000 nodes:  0.00 s
+
+Insertion of 25000 nodes: 0.87 s
+Search of 25000 nodes:    0.76 s
+Deletion of 25000 nodes:  0.00 s
+
+Insertion of 26000 nodes: 0.94 s
+Search of 26000 nodes:    0.82 s
+Deletion of 26000 nodes:  0.00 s
+
+Insertion of 27000 nodes: 1.01 s
+Search of 27000 nodes:    0.90 s
+Deletion of 27000 nodes:  0.00 s
+
+Insertion of 28000 nodes: 1.10 s
+Search of 28000 nodes:    0.92 s
+Deletion of 28000 nodes:  0.00 s
+
+Insertion of 29000 nodes: 1.24 s
+Search of 29000 nodes:    1.04 s
+Deletion of 29000 nodes:  0.00 s
+
+Insertion of 30000 nodes: 1.26 s
+Search of 30000 nodes:    1.07 s
+Deletion of 30000 nodes:  0.00 s
+
+Insertion of 31000 nodes: 1.34 s
+Search of 31000 nodes:    1.13 s
+Deletion of 31000 nodes:  0.00 s
+
+Insertion of 32000 nodes: 1.42 s
+Search of 32000 nodes:    1.22 s
+Deletion of 32000 nodes:  0.00 s
+
+Insertion of 33000 nodes: 1.55 s
+Search of 33000 nodes:    1.35 s
+Deletion of 33000 nodes:  0.00 s
+
+Insertion of 34000 nodes: 1.60 s
+Search of 34000 nodes:    1.39 s
+Deletion of 34000 nodes:  0.00 s
+
+Insertion of 35000 nodes: 1.68 s
+Search of 35000 nodes:    1.52 s
+Deletion of 35000 nodes:  0.00 s
+
+Insertion of 36000 nodes: 1.80 s
+Search of 36000 nodes:    1.57 s
+Deletion of 36000 nodes:  0.00 s
+
+Insertion of 37000 nodes: 1.96 s
+Search of 37000 nodes:    1.82 s
+Deletion of 37000 nodes:  0.00 s
+
+Insertion of 38000 nodes: 2.21 s
+Search of 38000 nodes:    1.77 s
+Deletion of 38000 nodes:  0.00 s
+
+Insertion of 39000 nodes: 2.16 s
+Search of 39000 nodes:    1.86 s
+Deletion of 39000 nodes:  0.00 s
+
+Insertion of 40000 nodes: 2.25 s
+Search of 40000 nodes:    1.94 s
+Deletion of 40000 nodes:  0.00 s
+
+Insertion of 41000 nodes: 2.39 s
+Search of 41000 nodes:    2.10 s
+Deletion of 41000 nodes:  0.00 s
+
+Insertion of 42000 nodes: 2.56 s
+Search of 42000 nodes:    2.22 s
+Deletion of 42000 nodes:  0.00 s
+
+Insertion of 43000 nodes: 2.74 s
+Search of 43000 nodes:    2.31 s
+Deletion of 43000 nodes:  0.00 s
+
+Insertion of 44000 nodes: 2.74 s
+Search of 44000 nodes:    2.34 s
+Deletion of 44000 nodes:  0.00 s
+
+Insertion of 45000 nodes: 2.92 s
+Search of 45000 nodes:    2.49 s
+Deletion of 45000 nodes:  0.00 s
+
+Insertion of 46000 nodes: 3.02 s
+Search of 46000 nodes:    2.54 s
+Deletion of 46000 nodes:  0.00 s
+
+Insertion of 47000 nodes: 3.24 s
+Search of 47000 nodes:    2.71 s
+Deletion of 47000 nodes:  0.00 s
+
+Insertion of 48000 nodes: 3.27 s
+Search of 48000 nodes:    2.83 s
+Deletion of 48000 nodes:  0.00 s
+
+Insertion of 49000 nodes: 3.40 s
+Search of 49000 nodes:    2.95 s
+Deletion of 49000 nodes:  0.00 s
+
+Insertion of 50000 nodes: 3.53 s
+Search of 50000 nodes:    2.98 s
+Deletion of 50000 nodes:  0.00 s
+
+Insertion of 51000 nodes: 3.67 s
+Search of 51000 nodes:    3.15 s
+Deletion of 51000 nodes:  0.00 s
+
+Insertion of 52000 nodes: 3.87 s
+Search of 52000 nodes:    3.55 s
+Deletion of 52000 nodes:  0.00 s
+
+Insertion of 53000 nodes: 4.12 s
+Search of 53000 nodes:    3.42 s
+Deletion of 53000 nodes:  0.00 s
+
+Insertion of 54000 nodes: 4.14 s
+Search of 54000 nodes:    3.55 s
+Deletion of 54000 nodes:  0.00 s
+
+Insertion of 55000 nodes: 4.27 s
+Search of 55000 nodes:    3.73 s
+Deletion of 55000 nodes:  0.00 s
+
+Insertion of 56000 nodes: 4.47 s
+Search of 56000 nodes:    3.83 s
+Deletion of 56000 nodes:  0.00 s
+
+Insertion of 57000 nodes: 4.51 s
+Search of 57000 nodes:    3.99 s
+Deletion of 57000 nodes:  0.01 s
+
+Insertion of 58000 nodes: 4.79 s
+Search of 58000 nodes:    4.09 s
+Deletion of 58000 nodes:  0.00 s
+
+Insertion of 59000 nodes: 4.92 s
+Search of 59000 nodes:    4.25 s
+Deletion of 59000 nodes:  0.00 s
+
+Insertion of 60000 nodes: 5.11 s
+Search of 60000 nodes:    4.33 s
+Deletion of 60000 nodes:  0.01 s
+
+Insertion of 61000 nodes: 5.20 s
+Search of 61000 nodes:    4.44 s
+Deletion of 61000 nodes:  0.00 s
+
+Insertion of 62000 nodes: 5.43 s
+Search of 62000 nodes:    4.81 s
+Deletion of 62000 nodes:  0.00 s
+
+Insertion of 63000 nodes: 5.63 s
+Search of 63000 nodes:    4.75 s
+Deletion of 63000 nodes:  0.01 s
+
+Insertion of 64000 nodes: 5.72 s
+Search of 64000 nodes:    4.96 s
+Deletion of 64000 nodes:  0.00 s
+
+Insertion of 65000 nodes: 5.99 s
+Search of 65000 nodes:    5.22 s
+Deletion of 65000 nodes:  0.01 s
+
+Insertion of 66000 nodes: 6.29 s
+Search of 66000 nodes:    5.35 s
+Deletion of 66000 nodes:  0.01 s
+
+Insertion of 67000 nodes: 6.46 s
+Search of 67000 nodes:    5.62 s
+Deletion of 67000 nodes:  0.01 s
+
+Insertion of 68000 nodes: 7.01 s
+Search of 68000 nodes:    5.67 s
+Deletion of 68000 nodes:  0.00 s
+
+Insertion of 69000 nodes: 6.78 s
+Search of 69000 nodes:    5.73 s
+Deletion of 69000 nodes:  0.01 s
+
+Insertion of 70000 nodes: 6.89 s
+Search of 70000 nodes:    5.99 s
+Deletion of 70000 nodes:  0.01 s
+
+Insertion of 71000 nodes: 7.08 s
+Search of 71000 nodes:    6.22 s
+Deletion of 71000 nodes:  0.01 s
+
+Insertion of 72000 nodes: 7.42 s
+Search of 72000 nodes:    6.45 s
+Deletion of 72000 nodes:  0.01 s
+
+Insertion of 73000 nodes: 7.74 s
+Search of 73000 nodes:    6.69 s
+Deletion of 73000 nodes:  0.01 s
+
+Insertion of 74000 nodes: 8.15 s
+Search of 74000 nodes:    6.75 s
+Deletion of 74000 nodes:  0.01 s
+
+Insertion of 75000 nodes: 8.05 s
+Search of 75000 nodes:    6.83 s
+Deletion of 75000 nodes:  0.01 s
+
+Insertion of 76000 nodes: 8.18 s
+Search of 76000 nodes:    7.01 s
+Deletion of 76000 nodes:  0.01 s
+
+Insertion of 77000 nodes: 8.30 s
+Search of 77000 nodes:    7.30 s
+Deletion of 77000 nodes:  0.01 s
+
+Insertion of 78000 nodes: 8.93 s
+Search of 78000 nodes:    7.92 s
+Deletion of 78000 nodes:  0.01 s
+
+Insertion of 79000 nodes: 10.04 s
+Search of 79000 nodes:    8.17 s
+Deletion of 79000 nodes:  0.01 s
+
+Insertion of 80000 nodes: 9.11 s
+Search of 80000 nodes:    8.14 s
+Deletion of 80000 nodes:  0.01 s
+
+Insertion of 81000 nodes: 9.25 s
+Search of 81000 nodes:    7.80 s
+Deletion of 81000 nodes:  0.01 s
+
+Insertion of 82000 nodes: 9.58 s
+Search of 82000 nodes:    8.39 s
+Deletion of 82000 nodes:  0.01 s
+
+Insertion of 83000 nodes: 9.72 s
+Search of 83000 nodes:    8.24 s
+Deletion of 83000 nodes:  0.01 s
+
+Insertion of 84000 nodes: 10.02 s
+Search of 84000 nodes:    8.48 s
+Deletion of 84000 nodes:  0.01 s
+
+Insertion of 85000 nodes: 10.06 s
+Search of 85000 nodes:    8.60 s
+Deletion of 85000 nodes:  0.01 s
+
+Insertion of 86000 nodes: 10.23 s
+Search of 86000 nodes:    9.00 s
+Deletion of 86000 nodes:  0.01 s
+
+Insertion of 87000 nodes: 11.04 s
+Search of 87000 nodes:    8.98 s
+Deletion of 87000 nodes:  0.01 s
+
+Insertion of 88000 nodes: 10.69 s
+Search of 88000 nodes:    9.19 s
+Deletion of 88000 nodes:  0.01 s
+
+Insertion of 89000 nodes: 10.97 s
+Search of 89000 nodes:    9.44 s
+Deletion of 89000 nodes:  0.01 s
+
+Insertion of 90000 nodes: 11.22 s
+Search of 90000 nodes:    9.68 s
+Deletion of 90000 nodes:  0.01 s
+
+Insertion of 91000 nodes: 11.39 s
+Search of 91000 nodes:    9.86 s
+Deletion of 91000 nodes:  0.01 s
+
+Insertion of 92000 nodes: 11.61 s
+Search of 92000 nodes:    9.99 s
+Deletion of 92000 nodes:  0.01 s
+
+Insertion of 93000 nodes: 13.13 s
+Search of 93000 nodes:    10.95 s
+Deletion of 93000 nodes:  0.01 s
+
+Insertion of 94000 nodes: 13.55 s
+Search of 94000 nodes:    10.43 s
+Deletion of 94000 nodes:  0.01 s
+
+Insertion of 95000 nodes: 12.71 s
+Search of 95000 nodes:    10.79 s
+Deletion of 95000 nodes:  0.01 s
+
+Insertion of 96000 nodes: 13.55 s
+Search of 96000 nodes:    11.92 s
+Deletion of 96000 nodes:  0.01 s
+
+Insertion of 97000 nodes: 13.95 s
+Search of 97000 nodes:    11.72 s
+Deletion of 97000 nodes:  0.01 s
+
+Insertion of 98000 nodes: 13.74 s
+Search of 98000 nodes:    11.79 s
+Deletion of 98000 nodes:  0.01 s
+
+Insertion of 99000 nodes: 14.30 s
+Search of 99000 nodes:    12.32 s
+Deletion of 99000 nodes:  0.01 s
+
+Insertion of 100000 nodes: 14.60 s
+Search of 100000 nodes:    12.39 s
+Deletion of 100000 nodes:  0.01 s

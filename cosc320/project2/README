@@ -1,0 +1,32 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+Project 2
+Apr 12, 2020
+
+INSTRUCTION:
+To compile and run the program, type "make" to create spellcheck executable. Then type "./spellcheck" to run the program.
+
+
+APPROACH: 
+To solve the problem, I made a templated doubly link-list, with a public node pointer that acts like an iterator. In my dictionary class, to make a hash table I created a list double-pointer that takes in strings, and dynamically allocated each box in the array. I made a hash_insert(), hash_search(), and a hash_delete(). hash_insert() puts a string in the hash table at an index determined by hash(). hash_search() search if a given string is in the hash table and output a message accordingly. hash_delete() deletes a string in the hash table if it is present. 
+
+To generate an index, each character is converted into their ASCII value, then multiplied by the number of their position in the string (started from 1), then that number is then multiplied by 2^i then sum into a value. i ranges from 0 to length of the string. The final sum is then modules by the size of the hash table. This generates a key for each word in the english.txt file, and also assures that they do not have the same hash value, e.g. "abc" 1677, "acb" 1669, "bac" 1674. This allowed us to fill every bucket in the hash table.
+
+My read() functions, which reads the words from the file and puts them into the tables, utilizes my hash_insert(). Before each word is inserted, their first character is uncapitalized. Will explained why when I talk about error_check(). I also made another search function, isPresent() which returns true or false.
+My error_check() reads in the string entered by the user. It separates each word depending on where the character space is located. Then it uncapitalizes each word and checks if they are present in the hash table (It uncapitalize because if the user typed "I", "I" is not the text file but "i" is. This simplifies the amounts of errors due to capitalization). If the word is not in the hash table, it stores the words into a list. With the help of the iter I mentioned above, we can now individually access each word in the list and derive suggestions from them. if the list were to be empty then the "no correction" message is output then the program ends.
+
+If the list contains words, suggestion1() is called. This function derives suggestions from within 1 edit distance. It has one big for loop, which contains 3 other for loops. The first for loop replaced the character value at each position from !~z, if the word is found then it is put into a list. After that, the word is then changed at another position. The 2nd loop excludes a character. If I enter the word "wow", the outcomes are "ow" "ww" and "wo". Then it checks if each word is in the table, and if present it inserts them into a list as well. The 3rd loop, added an extra character at the beginning of the string, in between each character in the string, and at the end of the string. The character inserted range from !~z. With the words found, each suggestion is then output corresponding from the error string they originated from. I was able to determine this because I made a temporary array of list. If the errors where 'lo' and 'ba', the suggestions for 'lo' would be in the list at the first index and 'ba''s suggestions would be in the next index, and so on. The suggestions are then output.
+
+Suggestions2() is similar from suggestions1() but instead of deriving suggestions from the list that contains errors, it derives suggestions from the list that was made from suggestions1(). This allows us to get suggestions from 2 edit distance.
+
+
+DEFICIENCIES:
+Initially, when running the program I sometimes got duplicated suggestions and sometimes I would even get the suggestion in the list of suggestions. To fix this, I had to exclude words that were equal to the previous word inserted in the list of suggestions and also compared that it does not equal from the original. These were implemented in the suggestions2().
+
+
+DESIGN CHOICE:
+I use "[]" to separate the words to help with visualization and I colored the errors in red and the first suggestions in green, to also help with visualization.
+
+
+IMPROVEMENTS:
+This program could be improved by having error_check() exclude punctuations from the string entered by the user.

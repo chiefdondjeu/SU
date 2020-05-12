@@ -1,0 +1,12 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+Lab 9
+Apr 16, 2020
+
+(a) To implement the necessary functions to implement a RED-BLACK Tree, I had to make private functions for deconstructor, search, minimum, maximum, successor, transplant, left-rotate, right-rotate, insert-fixup, delete-fixup, inorder and print. All of them are recursive functions and their return value is a node except for print, inorder, transplant, left-rotate, right-rotate, insert-fixup, delete-fixup and dec() (for deconstructor). This was done to make the calling of functions in the main stressless. My print functions prints the tree in descending order. I also had to make nil public so that I could delete it in main because anywhere prior would have caused the program to crash.
+
+(b) For insertion, search and deletion, best and worst-case for each was O(logn) as the size of the tree increased.
+
+(c) The data collected does align with theoretical guarantees. When looking at the times from the Output files, the logn behavior from each function is visible.
+
+(d) The code could be improved by adding a fancy printing so that all the nodes are visible and we can see the children nodes, which would help us ensure that the RED-BLACK Tree rules are not broken.

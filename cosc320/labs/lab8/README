@@ -1,0 +1,12 @@
+Florent Dondjeu Tschoufack
+COSC 320 - 002
+Lab 7
+Apr 1, 2020
+
+(a) In order to implement the necessary functions to implement a binary tree, I had to make private functions for deconstructor, search, minimun, maximum, successor, transplant, inorder and print. All of them are recurvise functions and their return value is a node except for print, inorder, transplant and dec() (for desconstructor). This was done in order to make the calling of functions in the main stressless. My print functions prints the tree in descending order.
+
+(b) For inserion, the complexity for best and worst case is O(h) where h is the height of the tree because we go down the length of the tree and insert at a leaf node. For search, the time complexity, best is O(1) if the root hold the value we are looking for and worst case O(logn) because we compare the search value size thus halfing how search area each time until we find the correct node. For deletion, the time complexity best case is O(1) where we are deleting the root and for worst case O(h) where h is the height of the tree.
+
+(c) The data collected does allign with the theoretical garuantees. Looking at the times from dataOutput file, as the size of node increase, the time to insert them all increased as well. When collecting data, new nodes are always inserting at the right most leaf node because I insert key = 0 to n. Similar for search as well, the time also increased since we are walking down the tree and the tree's height increase. From the time collected, my deletion on the other hand only shows the time for best case because I am always deleting the root, since I delete key = 1 to n and not key = n to 0.
+
+(d) The code could be improved by making the output look more appealing along with some colors, and for data collecting, I could have randomly generated key so I can insert them and then store those values for search and deletion. By doing this, this would give us time for more general cases, so we do not just get a linear tree (when visuializing) like I implemented above.

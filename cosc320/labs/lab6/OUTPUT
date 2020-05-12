@@ -1,0 +1,522 @@
+bash-3.2$ make all
+g++ -std=c++11 -c main.cpp
+g++ -std=c++11 -o lab6Driver main.o
+./lab6Driver
+Play hiring algorithm (y/n)
+	-->y
+
+Hiring Algorithm
+
+# of applicants: 1000
+average hiring: 6
+avg time: 0.000002s
+
+# of applicants: 2000
+average hiring: 6
+avg time: 0.000004s
+
+# of applicants: 3000
+average hiring: 7
+avg time: 0.000006s
+
+# of applicants: 4000
+average hiring: 7
+avg time: 0.000010s
+
+# of applicants: 5000
+average hiring: 9
+avg time: 0.000009s
+
+# of applicants: 6000
+average hiring: 7
+avg time: 0.000011s
+
+# of applicants: 7000
+average hiring: 8
+avg time: 0.000013s
+
+# of applicants: 8000
+average hiring: 9
+avg time: 0.000015s
+
+# of applicants: 9000
+average hiring: 9
+avg time: 0.000017s
+
+# of applicants: 10000
+average hiring: 8
+avg time: 0.000019s
+
+Total average hiring: 7
+
+
+Play sorting algorithms (y/n)
+	-->y
+
+Sorting Algorithm
+
+Quicksort
+size: 10000
+average time: 0.001260s
+avg swaps: 4304527621
+
+Randomized Quicksort
+size: 10000
+average time: 0.001072s
+avg swaps: 4215443999
+
+MergeSort
+size: 10000
+average time: 0.001083s
+
+HeapSort
+size: 10000
+average time: 0.002288s
+avg swaps: 10862815243
+
+
+
+
+Quicksort
+size: 50000
+average time: 0.005784s
+avg swaps: 141347055002
+
+Randomized Quicksort
+size: 50000
+average time: 0.006011s
+avg swaps: 140868548237
+
+MergeSort
+size: 50000
+average time: 0.006045s
+
+HeapSort
+size: 50000
+average time: 0.013507s
+avg swaps: 358226661938
+
+
+
+
+Quicksort
+size: 100000
+average time: 0.012291s
+avg swaps: 665995977279
+
+Randomized Quicksort
+size: 100000
+average time: 0.012514s
+avg swaps: 667795733633
+
+MergeSort
+size: 100000
+average time: 0.012348s
+
+HeapSort
+size: 100000
+average time: 0.028949s
+avg swaps: 1597710070362
+
+
+
+
+Quicksort
+size: 150000
+average time: 0.019064s
+avg swaps: 1542379447283
+
+Randomized Quicksort
+size: 150000
+average time: 0.018905s
+avg swaps: 1557794349686
+
+MergeSort
+size: 150000
+average time: 0.019099s
+
+HeapSort
+size: 150000
+average time: 0.045847s
+avg swaps: 3815017842079
+
+
+
+
+Quicksort
+size: 200000
+average time: 0.025828s
+avg swaps: 2830968010636
+
+Randomized Quicksort
+size: 200000
+average time: 0.026044s
+avg swaps: 2962239620971
+
+MergeSort
+size: 200000
+average time: 0.025879s
+
+HeapSort
+size: 200000
+average time: 0.062807s
+avg swaps: 7087798064942
+
+
+
+
+Quicksort
+size: 250000
+average time: 0.033031s
+avg swaps: 4683695711101
+
+Randomized Quicksort
+size: 250000
+average time: 0.033112s
+avg swaps: 4756680672921
+
+MergeSort
+size: 250000
+average time: 0.033112s
+
+HeapSort
+size: 250000
+average time: 0.080320s
+avg swaps: 11410758098732
+
+
+
+
+Quicksort
+size: 300000
+average time: 0.040032s
+avg swaps: 6918310256380
+
+Randomized Quicksort
+size: 300000
+average time: 0.040570s
+avg swaps: 7141532329989
+
+MergeSort
+size: 300000
+average time: 0.040381s
+
+HeapSort
+size: 300000
+average time: 0.098610s
+avg swaps: 16877190345217
+
+
+
+
+Quicksort
+size: 350000
+average time: 0.047565s
+avg swaps: 9775544267668
+
+Randomized Quicksort
+size: 350000
+average time: 0.047529s
+avg swaps: 9800706462170
+
+MergeSort
+size: 350000
+average time: 0.047400s
+
+HeapSort
+size: 350000
+average time: 0.116509s
+avg swaps: 23511336057066
+
+
+
+
+Quicksort
+size: 400000
+average time: 0.055306s
+avg swaps: 13103209790632
+
+Randomized Quicksort
+size: 400000
+average time: 0.054573s
+avg swaps: 12783286414807
+
+MergeSort
+size: 400000
+average time: 0.054563s
+
+HeapSort
+size: 400000
+average time: 0.151408s
+avg swaps: 31289593076456
+
+
+
+
+Quicksort
+size: 450000
+average time: 0.067646s
+avg swaps: 16804141313598
+
+Randomized Quicksort
+size: 450000
+average time: 0.065405s
+avg swaps: 16879112471907
+
+MergeSort
+size: 450000
+average time: 0.062335s
+
+HeapSort
+size: 450000
+average time: 0.163246s
+avg swaps: 40217686929803
+
+
+
+
+Quicksort
+size: 500000
+average time: 0.069935s
+avg swaps: 20790571011139
+
+Randomized Quicksort
+size: 500000
+average time: 0.070377s
+avg swaps: 20880021047588
+
+MergeSort
+size: 500000
+average time: 0.070654s
+
+HeapSort
+size: 500000
+average time: 0.174242s
+avg swaps: 50306168210960
+
+
+
+
+Quicksort
+size: 550000
+average time: 0.076976s
+avg swaps: 25081340417300
+
+Randomized Quicksort
+size: 550000
+average time: 0.080105s
+avg swaps: 25768037340932
+
+MergeSort
+size: 550000
+average time: 0.080261s
+
+HeapSort
+size: 550000
+average time: 0.201148s
+avg swaps: 61650495115645
+
+
+
+
+Quicksort
+size: 600000
+average time: 0.089861s
+avg swaps: 31089794124846
+
+Randomized Quicksort
+size: 600000
+average time: 0.088743s
+avg swaps: 31649307508337
+
+MergeSort
+size: 600000
+average time: 0.085956s
+
+HeapSort
+size: 600000
+average time: 0.219385s
+avg swaps: 74319624873094
+
+
+
+
+Quicksort
+size: 650000
+average time: 0.093672s
+avg swaps: 36852993479349
+
+Randomized Quicksort
+size: 650000
+average time: 0.092253s
+avg swaps: 37924832474208
+
+MergeSort
+size: 650000
+average time: 0.091027s
+
+HeapSort
+size: 650000
+average time: 0.228610s
+avg swaps: 88239409379220
+
+
+
+
+Quicksort
+size: 700000
+average time: 0.100487s
+avg swaps: 42860263609933
+
+Randomized Quicksort
+size: 700000
+average time: 0.099179s
+avg swaps: 43437202904613
+
+MergeSort
+size: 700000
+average time: 0.099412s
+
+HeapSort
+size: 700000
+average time: 0.247917s
+avg swaps: 103420462327115
+
+
+
+
+Quicksort
+size: 750000
+average time: 0.107872s
+avg swaps: 49058874009462
+
+Randomized Quicksort
+size: 750000
+average time: 0.107621s
+avg swaps: 50362366562424
+
+MergeSort
+size: 750000
+average time: 0.106755s
+
+HeapSort
+size: 750000
+average time: 0.266669s
+avg swaps: 119844693672206
+
+
+
+
+Quicksort
+size: 800000
+average time: 0.114646s
+avg swaps: 57063324521978
+
+Randomized Quicksort
+size: 800000
+average time: 0.114714s
+avg swaps: 57810840843617
+
+MergeSort
+size: 800000
+average time: 0.114127s
+
+HeapSort
+size: 800000
+average time: 0.295349s
+avg swaps: 137526701485294
+
+
+
+
+Quicksort
+size: 850000
+average time: 0.125927s
+avg swaps: 66362339524370
+
+Randomized Quicksort
+size: 850000
+average time: 0.125957s
+avg swaps: 66458583191751
+
+MergeSort
+size: 850000
+average time: 0.127466s
+
+HeapSort
+size: 850000
+average time: 0.333163s
+avg swaps: 156466635338877
+
+
+
+
+Quicksort
+size: 900000
+average time: 0.142455s
+avg swaps: 74070465288016
+
+Randomized Quicksort
+size: 900000
+average time: 0.144063s
+avg swaps: 77504765162483
+
+MergeSort
+size: 900000
+average time: 0.141464s
+
+HeapSort
+size: 900000
+average time: 0.348102s
+avg swaps: 176657876293544
+
+
+
+
+Quicksort
+size: 950000
+average time: 0.150406s
+avg swaps: 85460891166529
+
+Randomized Quicksort
+size: 950000
+average time: 0.146362s
+avg swaps: 81243099179532
+
+MergeSort
+size: 950000
+average time: 0.144774s
+
+HeapSort
+size: 950000
+average time: 0.376906s
+avg swaps: 198120358431472
+
+
+
+
+Quicksort
+size: 1000000
+average time: 0.153570s
+avg swaps: 94753757198456
+
+Randomized Quicksort
+size: 1000000
+average time: 0.150407s
+avg swaps: 92682857281006
+
+MergeSort
+size: 1000000
+average time: 0.149081s
+
+HeapSort
+size: 1000000
+average time: 0.391980s
+avg swaps: 220828620161459
+
+
+
+
+
+exiting program...
+bash-3.2$ 
