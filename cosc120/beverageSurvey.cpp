@@ -56,8 +56,9 @@ int main()
         }
     } while(choice !=-1);
 
-    cout << "The total number of people surveyed is " << counter-1 << ". The results are as follows: " << endl;
-    cout << "\nBeverage\tNumber of Votes\n********************************" << endl;
+    cout << "\nThe total number of people surveyed is " << counter-1 << ". The results are as follows: " << endl;
+    cout << "\nBeverages\tNumber of Votes\n********************************" << endl;
     cout << "Coffee\t\t" << coffee << "\nTea\t\t" << tea << "\nCoke\t\t" << coke << "\nOrange Juice\t" << orangejuice << endl;
 
+    return 0;
 }
