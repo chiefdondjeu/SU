@@ -1,0 +1,31 @@
+Florent Dondjeu Tschoufack
+Lab 1
+Cosc350
+9/8/20
+
+Task 1:
+  /urs/include
+
+Task 2:
+  ../bin/ls
+
+Task 3:
+	2.  a. read and write
+		b. I own the file
+		c. staff
+		d. yes
+		e. staff access_bpf everyone localaccounts _appserverusr admin _appserveradm _lpadmin com.apple.sharepoint.group.1 _appstore _lpoperator _developer _analyticsusers com.apple.access_ftp com.apple.access_screensharing com.apple.access_ssh
+	3.  chmod u-r-w+x foo
+		chmod g-r+w-x foo
+		chmod o+r-w+x foo
+	4.  rm foo
+		the system asked me to overwrite the user permissions to the staff permissions.
+
+Task 4:
+	2.  a: shows hidden files in a directory
+		l: list in long format 
+		R: Recursively list subdirectories encountered
+	3. ls -a list dot files that are not showed with ls
+	4. 
+
+
