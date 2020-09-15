@@ -1,0 +1,37 @@
+Florent Dondjeu Tschoufack
+Lab 2
+Cosc350
+9/15/20
+
+Task1
+	1.	PS1="[\[\e[32m\]\u@\h\[\e[00m\]:\[\e[34m\]\W\[\e[00m\]]$ ". Its located in ‘.bash_profile’.
+	2.
+	HOME=/Users/chiefdondjeu 
+	PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin PWD=/Users/chiefdondjeu 
+	SHELL=/bin/bash 
+	TERM=xterm-256color 
+	USER=chiefdondjeu
+	No values: EDITOR, HOSTNAME, LD_LIBRARY_PATH, LESS, MAIL, MANPATH, MORE, PAGER
+
+Task 2
+	1.	I typed ‘PS1="[COSC350 \W\]]: "’ on my terminal and my prompt was changed.
+	2.	To get the prompt previous value, I typed “source ~/.bash_profile”.
+
+Task 4
+	1.	ls aa 2>bar
+	2.	ls aa 2>~/dev/null
+	3.	echo 3 > foo | echo 5 >> foo | echo 2 >> foo | echo 1 >> foo
+	4.	cat foo >  bar
+	5.	sort < foo
+	6.	sort < foo > bar
+
+Task 5
+	1.	I wrote a c++ program.
+	2.	100     100     292 numbs. There are a 100 line, 100 words and the file size is 292 bytes.
+	3.	sed -n 25,38p numbs > somenumbers
+	4.	14      14      42 somenumbers. There are 14 lines, 14 words and the file size is 42 bytes.
+
+Task 6
+
+
+
