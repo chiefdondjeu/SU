@@ -1,26 +1,30 @@
-#!/bin/sh
-#task7.sh
+#!/bin/bash
 
-echo "Enter a positive integer"
-read numb
+# Florent Dondjeu TSchoufack
+# Sept 15, 2020
+# Lab 2
+# task7.sh
 
-while [ $numb -lt 0 ]; do
-	echo "Error! Enter a positive integer"
-	read numb
+echo -n "Enter a positive integer: "
+read NUMB
+
+while [ $NUMB -lt 0 ]; do
+	echo -n "Error! Enter a positive integer: "
+	read NUMB
 done
 
 
-if [ $numb -lt 3 ]; then
-	echo "$numb! = $numb"
+if [ $NUMB -lt 3 ]; then
+	echo "$NUMB! = $NUMB"
 else
-	let i=numb
-	let k=numb-1
+	let RESULT=NUMB
+	let k=NUMB-1
 	
 	while [ $k -gt 0 ]; do
-		let i=i*k
+		let RESULT=RESULT*k
 		let k--
 	done
-	echo "$numb! = $i"
+	echo "$NUMB! = $RESULT"
 fi
 
 exit 0

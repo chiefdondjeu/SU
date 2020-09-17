@@ -1,5 +1,9 @@
-#!/bin/sh
-#task6a.sh
+#!/bin/bash
+
+# Florent Dondjeu TSchoufack
+# Sept 15, 2020
+# Lab 2
+# task6a.sh
 
 for i in $(seq 1 5);
 do
@@ -7,6 +11,6 @@ do
 	do
 		printf "$i";
 	done
-	echo ""
+	echo
 done
 exit 0

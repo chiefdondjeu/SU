@@ -14,8 +14,8 @@ Task1
 	No values: EDITOR, HOSTNAME, LD_LIBRARY_PATH, LESS, MAIL, MANPATH, MORE, PAGER
 
 Task 2
-	1.	I typed ‘PS1="[COSC350 \W\]]: "’ on my terminal and my prompt was changed.
-	2.	To get the prompt previous value, I typed “source ~/.bash_profile”.
+	2.	I typed ‘PS1="[COSC350 \W\]]: "’ on my terminal and my prompt was changed.
+	3.	To get the prompt previous value, I typed “source ~/.bash_profile”.
 
 Task 4
 	1.	ls aa 2>bar
@@ -27,11 +27,6 @@ Task 4
 
 Task 5
 	1.	I wrote a c++ program.
-	2.	100     100     292 numbs. There are a 100 line, 100 words and the file size is 292 bytes.
+	2.	100     100     292 numbs. There are 100 lines, 100 words and the file size is 292 bytes.
 	3.	sed -n 25,38p numbs > somenumbers
 	4.	14      14      42 somenumbers. There are 14 lines, 14 words and the file size is 42 bytes.
-
-Task 6
-
-
-

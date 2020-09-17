@@ -1,17 +1,22 @@
-#!/bin/sh
-#task6c.sh
+#!/bin/bash
 
-echo "Enter an integer"
-read numb
+# Florent Dondjeu TSchoufack
+# Sept 15, 2020
+# Lab 2
+# task6c.sh
 
-while [ $numb -lt 5 ] || [ $numb -gt 9 ]; do
-	echo "Error! Input integer between 5-9!"
-	read numb
+echo -n "Enter an integer: "
+read NUMB
+
+while [ $NUMB -lt 5 ] || [ $NUMB -gt 9 ]; do
+	echo -n "Error! Input integer between 5-9: "
+	read NUMB
 done
 
-x=$numb
+x=$NUMB
+echo
 
-for i in $(seq 1 $numb); do
+for i in $(seq 1 $NUMB); do
 	for ((k = x; k > 0; k--)); do
 		printf " "
 	done
@@ -20,7 +25,7 @@ for i in $(seq 1 $numb); do
 		printf "$i ";
 	done
 
-	echo " "
+	echo
 	let x--
 done
 

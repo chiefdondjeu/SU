@@ -1,24 +1,28 @@
 #!/bin/bash
-#task6b.sh
 
-star="*"
+# Florent Dondjeu TSchoufack
+# Sept 15, 2020
+# Lab 2
+# task6b.sh
+
+STAR="*"
 
 for i in $(seq 1 5);
 do
 	for ((j = 1; j <= i; j++));
 	do
-		printf "$star"
+		printf "$STAR"
 	done
-	echo ""
+	echo
 done
 
 for i in $(seq 4 1);
 do
 	for ((j = 1; j <= i; j++));
 	do
-		printf "$star"
+		printf "$STAR"
 	done
-	echo ""
+	echo
 done
 
 exit 0
