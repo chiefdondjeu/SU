@@ -15,33 +15,37 @@ int main()
     int nr;
     
     //open foo and foo1 for rw only
-    fd[0] = open("foo", O_RDWR);
-    fd[1] = open("foo1", O_RDWR);
+    if( (fd[0] = open("foo", O_RDWR)) < 0)
+		printf("Open foo file error\n");
+
+    if( (fd[1] = open("foo1", O_RDWR)) < 0)
+		printf("Open foo1 file error\n");
 
     //reset permission for file
     umask(0);
 
     //open foo12 for rw only, create rwxrw----
-    fd[2] = open("foo12", O_RDWR | O_CREAT, 0760);
+    if( (fd[2] = open("foo12", O_RDWR | O_CREAT, 0760)) < 0)
+		printf("Open create foo12 file error\n");
 
-    if(fd[0] != -1 && fd[1] != -1)
+    if(fd[0] > 0 && fd[1] > 0 && fd[2] > 0)
     {
-        //start at beginninf of foo12
+        //start at beginning of foo12
         lseek(fd[2],0,SEEK_SET);
         
         //read foo file and write to foo12
-        while((nr = read(fd[0],&c,1)) > 0)
+        while( (nr = read(fd[0],&c,1)) > 0)
             write(fd[2],&c,nr);
 
-        //start at end of foo12
-        lseek(fd[2],1,SEEK_END);
+        //start at current+1 of foo12
+        lseek(fd[2],1,SEEK_CUR);
 
         //read foo1 and write to foo12
-        while((nr = read(fd[1],&c,1)) > 0)
+        while( (nr = read(fd[1],&c,1)) > 0)
             write(fd[2],&c,nr);
     }
     else
-        printf("Error while reading foo and foo1 files!");
+        printf("Reading foo and foo1 files error\n");
 
     for(int i = 0; i < sizeof(fd); i++)
         close(fd[i]);
