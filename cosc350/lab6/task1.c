@@ -1,7 +1,7 @@
 //Florent Dondjeu Tschoufack
 //Oct 26, 2020
 //lab 6
-//task6.c
+//task1.c
 
 #include <stdio.h>
 #include <stdlib.h>
