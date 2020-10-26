@@ -41,7 +41,7 @@ char *mygetenv(char *env)
 
 int main(int argc, char *argv[])
 {
-    if(argc == 1 || argc > 3)
+    if(argc != 2)
     {
         printf("Need to pass in an env variable as an argument.\n\te.g ./task1 HOME\n");
         exit(1);
