@@ -43,7 +43,7 @@ int main(int argc, char *argv[])
 			//convert read char to int
 			nr = (int)c;
 			//print to console
-			printf("%d",nr);
+			printf("%d ",nr);
 		}
 	}
 	else 

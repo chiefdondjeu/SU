@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 	//open argument file for read only
 	if( (fd1 = open(argv[1],O_RDONLY)) < 0)
 	{
-		printf("Open %s file error", argv[1]);
+		printf("Open %s file error\n", argv[1]);
 		exit(2);
 	}
 
