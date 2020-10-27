@@ -37,6 +37,12 @@ int main(int argc, char *argv[])
 	int tc = convertToInt(argv[3], strlen(argv[3]));
 	int tp = convertToInt(argv[4], strlen(argv[4]));
 
+	//if child.c was not compiled
+	if( (access("child", F_OK)) == -1)
+	{	
+		int run = system("gcc -o child child.c");
+	}
+
 	pid_t pid;
 	char *message;
 	int n, sleep_time, exit_code;
