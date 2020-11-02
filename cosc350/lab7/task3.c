@@ -49,7 +49,7 @@ int main()
 		//+1 to take into account "\n"
 
 		pread(fd,child_msg,c_size,SEEK_SET); //read foo file
-		sprintf(parent_msg,"My son said %s\n",child_msg);
+		sprintf(parent_msg,"%s%s\n", output, child_msg);
 
 		write(1,parent_msg,p_size+1);	//write to console
 	}
