@@ -20,6 +20,11 @@ void response(int sig)
 
 int main()
 {
+	struct sigaction act;
+	act.sa_handler = response;
+	sigemptyset(&act.sa_mask);
+	act.sa_flags = 0;
+
 	pid_t pid, pid2;
 	
 	pid = fork();
@@ -39,10 +44,10 @@ int main()
 		}
 		else /* parent process */
 		{
-			(void) signal(SIGUSR1,response);
+			sigaction(SIGUSR1, &act, 0);
 			pause();
 
-			(void) signal(SIGUSR2,response);
+			sigaction(SIGUSR2, &act, 0);
 			pause();
 			exit(0);
 		}
