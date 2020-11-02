@@ -9,6 +9,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <signal.h>
+#include <sys/wait.h>
 
 void response(int sig)
 {
@@ -26,6 +27,7 @@ int main()
 	act.sa_flags = 0;
 
 	pid_t pid, pid2;
+	int status, end;
 	
 	pid = fork();
 
@@ -39,6 +41,7 @@ int main()
 		pid2 = fork();
 		if(pid2 == 0) /* 2nd child process */
 		{
+			end = waitpid(pid,&status,WUNTRACED);	//waits for other child to end
 			kill(getppid(),SIGUSR2);
 			exit(0);
 		}
