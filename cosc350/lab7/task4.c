@@ -15,7 +15,7 @@ void response(int sig)
 {
 	if(sig == 30)
 		printf("Hi Honey! Anything wrong?\n");
-	if(sig == 31)
+	else if(sig == 31)
 		printf("Do you make trouble again?\n");
 }
 
