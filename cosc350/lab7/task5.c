@@ -12,16 +12,16 @@
 
 int main()
 {
-	sigset_t mask2, mask3, orig_mask;
+	sigset_t setI, setQ, set;
 	
-	sigemptyset(&mask2);
-	sigemptyset(&mask3);
+	sigemptyset(&setI);
+	sigemptyset(&setQ);
 
-	sigaddset(&mask2, 2);
-	sigaddset(&mask3, 3);
+	sigaddset(&setI, SIGINT);
+	sigaddset(&setQ, SIGQUIT);
 
-	sigprocmask(SIG_BLOCK, &mask2, &orig_mask);
-	sigprocmask(SIG_BLOCK, &mask3, &orig_mask);
+	sigprocmask(SIG_BLOCK, &setI, &set);
+	sigprocmask(SIG_BLOCK, &setQ, &set);
 	//signals are blocked
 
 	for(int i = 1; i <= 5; i++)
@@ -30,7 +30,7 @@ int main()
 		sleep(1);
 	}
 
-	sigprocmask(SIG_UNBLOCK, &mask3, &orig_mask);
+	sigprocmask(SIG_UNBLOCK, &setQ, &set);
 	//SIGQUIT unblocked
 
 	for(int i = 1; i <= 5; i++)
