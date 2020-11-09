@@ -5,12 +5,6 @@
 	task1.c
  */
 
-/*
-	Compile:
-	gcc -c source.c
-	gcc -pthread -o source source.o
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
