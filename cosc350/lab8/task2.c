@@ -9,10 +9,8 @@
 #include <stdlib.h>
 #include <pthread.h>
 
-#define NUM_SCORES 10
-#define NUM_THREADS 4
-
-int scores[NUM_SCORES];
+#define NUM_SCORES 20
+int* scores;
 
 //Thread #1: get test scores from keyboard up 
 //to 20 and save into the array.
@@ -30,11 +28,7 @@ void* thrd_f3();
 //display after Thread #2, Thread #3 finishes its job.
 void* thrd_f4();
 
-//print error message and
-//exits program
-void err_sys(char*, int);
-
-//swap fnct
+//swap two variables
 void swap(int*,int*);
 
 //bubblesort array in ascending order
@@ -46,41 +40,41 @@ void display();
 
 int main()
 {
-	pthread_t threads[NUM_THREADS];
+	pthread_t threads[4];
+    scores = malloc(NUM_SCORES*sizeof(int));
 	int rc;
 
-	/*
-	if( (rc = pthread_create(&threads[0], NULL, thrd_f1, NULL)) != 0)
-		err_sys("Error; return code from pthread_create() is",rc);
-
-	pthread_join(threads[0],NULL);
+	if( (rc =pthread_create(&threads[0], NULL, thrd_f1, NULL)) != 0)
+	{
+		printf("Error; return code from pthread_create() is %d", rc);
+		exit(1);
+	}
 	
-	if( (rc = pthread_create(&threads[1], NULL, thrd_f2, NULL)) != 0)
-		err_sys("Error; return code from pthread_create() is",rc);
-	
-	if( (rc = pthread_create(&threads[2], NULL, thrd_f3, NULL)) != 0)
-		err_sys("Error; return code from pthread_create() is",rc);
-
-	pthread_join(threads[1],NULL);
-	pthread_join(threads[2],NULL);
-
-	if( (rc = pthread_create(&threads[3], NULL, thrd_f4, NULL)) != 0)
-		err_sys("Error; return code from pthread_create() is",rc);
-	*/
-
-	pthread_create(&threads[0], NULL, thrd_f1, NULL);
 	pthread_join(threads[0],NULL);	//wait
 
-	pthread_create(&threads[1], NULL, thrd_f2, NULL);
-	pthread_create(&threads[2], NULL, thrd_f3, NULL);
+	if( (rc = pthread_create(&threads[1], NULL, thrd_f2, NULL)) != 0)
+	{
+		printf("Error; return code from pthread_create() is %d", rc);
+		exit(1);
+	}
+	if( (rc = pthread_create(&threads[2], NULL, thrd_f3, NULL)) != 0)
+	{
+		printf("Error; return code from pthread_create() is %d", rc);
+		exit(1);
+	}
 
 	pthread_join(threads[1],NULL);	//wait
 	pthread_join(threads[2],NULL);	//wait
 
-	pthread_create(&threads[3], NULL, thrd_f4, NULL);	
+	if( (rc = pthread_create(&threads[3], NULL, thrd_f4, NULL)) != 0)
+	{
+		printf("Error; return code from pthread_create() is %d", rc);
+		exit(1);
+	}	
 
-	pthread_join(threads[3],NULL);
+	pthread_join(threads[3],NULL);	//wait
 
+    free(scores);
 	pthread_exit(NULL);
 	exit(0);
 }
@@ -147,7 +141,8 @@ void* thrd_f3()
 
 /* Thread 4 */
 void* thrd_f4()
-{	
+{
+    fflush(stdout);
 	printf("Thread 4:\n");
 
 	for(int i = 0; i < NUM_SCORES; i++)
@@ -155,13 +150,6 @@ void* thrd_f4()
 	display();
 	
 	pthread_exit(NULL);
-}
-
-
-void error_sys(char* msg, int id)
-{
-	printf("%s %d\n", msg, id);
-	exit(1);
 }
 
 void swap(int* a, int* b)
