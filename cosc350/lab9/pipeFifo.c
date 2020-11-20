@@ -2,7 +2,7 @@
 	Florent Dondjeu Tschoufack
 	Nov 19, 2020
 	lab 9
-	pipe1.c
+	pipeFifo.c
  */
 
 #include <unistd.h>
