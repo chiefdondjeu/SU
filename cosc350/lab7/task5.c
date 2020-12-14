@@ -10,9 +10,14 @@
 #include <unistd.h>
 #include <signal.h>
 
+void hd1(int sig)
+{
+	signal(SIGQUIT,SIG_DFL);
+}
+
 int main()
 {
-	sigset_t setI, setQ, set;
+	sigset_t setI, setQ;
 	
 	sigemptyset(&setI);
 	sigemptyset(&setQ);
@@ -20,8 +25,8 @@ int main()
 	sigaddset(&setI, SIGINT);
 	sigaddset(&setQ, SIGQUIT);
 
-	sigprocmask(SIG_BLOCK, &setI, &set);
-	sigprocmask(SIG_BLOCK, &setQ, &set);
+	sigprocmask(SIG_BLOCK, &setI, NULL);
+	sigprocmask(SIG_BLOCK, &setQ, NULL);
 	//signals are blocked
 
 	for(int i = 1; i <= 5; i++)
@@ -30,8 +35,12 @@ int main()
 		sleep(1);
 	}
 
-	sigprocmask(SIG_UNBLOCK, &setQ, &set);
+  	signal(SIGQUIT, hd1);
+	sigprocmask(SIG_UNBLOCK, &setQ, NULL);
 	//SIGQUIT unblocked
+
+	sigemptyset(&setQ);
+	//clear signal set
 
 	for(int i = 1; i <= 5; i++)
 	{
