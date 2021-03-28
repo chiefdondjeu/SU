@@ -23,38 +23,39 @@ semaphore full = 0;
 
 int buffer[N];
 int semid;
-int count = 0; //index
+union semun arg;
+//int count = 0; //index
 
-void display(char ch)
+void display(char ch, char ch2)
 {
 	printf("%c [ ", ch);
 	for(int i = 0; i < N; i++)
 		printf("%d ", buffer[i]);
-	printf("]\n");
+	printf("] %c\n", ch2);
 }
 
 int produce_item()
 {
-	int item = count;
-	printf("item %d produced\n", item);
-	return item;
+	int val = semctl(semid, full, GETVAL, arg);
+	//printf("\nitem at %d produced\n", val);
+	return 1;
 }
 
 void insert_item(int item)
 {
-	if (count < 10) {
-		buffer[count] = item;
-		count++;
+	int val = semctl(semid, full, GETVAL, arg);
+	if (val < 10) {
+		buffer[val] = item;
 		//display('P');
 	} else printf("BUFFER FULL\n");
 }
 
 int remove_item()
 {
-	if (count > 0) {
-		int item = buffer[count-1];
-		buffer[count-1] = -1;
-		count--;
+	int val = semctl(semid, full, GETVAL, arg);
+	if (val > 0) {
+		int item = buffer[val-1];
+		buffer[val-1] = 0;
 		//display('C');
 		return item;
 	}
@@ -65,8 +66,9 @@ int remove_item()
 
 void consume_item(int item)
 {
-	if (item == -1) printf("NO ITEM CONSUMED\n");
-	else printf("item consumed %d\n", item);
+	if (item == -1 || item == 0)
+		printf("NO ITEM CONSUMED\n");
+	//else printf("item consumed at %d\n\n", count);
 }
 
 void up(int val)
@@ -92,10 +94,14 @@ void* producer()
 	int item;
 	while(1) {
 		item = produce_item();
+		
 		down(empty);
 		down(mutex);
+
 		insert_item(item);
+		display('P', ' ');
 		sleep(1); //
+
 		up(mutex);
 		up(full);
 	}
@@ -105,13 +111,17 @@ void* producer()
 void* consumer()
 {
 	int item;
-	while(1) {
+	while(1) {		
 		down(full);
 		down(mutex);
+		
 		item = remove_item();
+		display(' ', 'C');
 		sleep(1); //
+		
 		up(mutex);
 		up(empty);
+		
 		consume_item(item);
 	}
 	pthread_exit(NULL);
@@ -122,7 +132,7 @@ int main()
 	pthread_t T[2];
 	int data;
 	key_t key;
-	union semun arg;
+	//union semun arg;
 
 	if ((key = ftok("task3.c", 'J')) == -1) {
 		perror("ftok error");
@@ -152,7 +162,7 @@ int main()
 	}
 
 	for(int i = 0; i < N; i++)
-		buffer[i] = -1;
+		buffer[i] = 0;
 
 	//create threads
 	data = pthread_create(&T[0], NULL, producer, NULL);

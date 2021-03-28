@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 
-#define NUM_SCORES 20
+#define NUM_SCORES 9
 int* scores;
 
 //Thread #1: get test scores from keyboard up 

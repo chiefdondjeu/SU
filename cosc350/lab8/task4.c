@@ -26,7 +26,7 @@ int main(int argc, char* argv[])
 	FILE *fp;
 	char buf[BUFSIZ];
 
-	if( (fp = popen(cmd,"r")) != NULL)
+	if( (fp = popen(cmd,"w")) != NULL)
 	{
 		while(fgets(buf, BUFSIZ, fp) != NULL)
 			(void) printf("%s\n", buf);
