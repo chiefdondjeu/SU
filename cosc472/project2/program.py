@@ -106,7 +106,7 @@ def decrypt():
 			
 			else:
 				if option == 'c':
-					print("\nMonoalphabetic decrypt", end="")
+					print("\nCaesar decrypt", end="")
 					while True:
 						try:
 							key = int(input("\nenter valid key: "))

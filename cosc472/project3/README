@@ -1,0 +1,9 @@
+I did my implementation using python version 3. To not worry about installing modules and binary files locally, I made the implementation as a python notebook using google colab, https://colab.research.google.com. Their virtual machines come with everything preinstall and I would recommend using their services, it's free. 
+
+When prompted simply upload the file 'MerkleTree.ipynb'. Then either individualy run each cell or go to 'Runtime > Run all' to run all of the cells.
+
+If using colab is not possible here are the following steps to make the program work localy:
+	You will need to download 'graphviz' with a package manager. Then pip install the following modules:
+		- networkx
+		- matplotlib
+		- requests

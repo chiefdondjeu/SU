@@ -9,6 +9,9 @@ def indexOf(ch):
 
 def displayOutput(text, answer):
 	print(f"\n{text}:\n{answer}")
+	f = open("output.txt", "w")
+	f.write(answer)
+	f.close()
 
 
 class Caesar:
@@ -187,14 +190,16 @@ def compression(block, total):
 		current_total[i] %= 26
 
 	# ROUND 2
-	# rotate r1 left by 1
-	matrix = block[1:4] + list(block[0])
-	# rotate r2 left by 2
-	matrix += block[6:8] + block[4:6]
-	# rotate r3 left by 3
-	matrix += list(block[-5]) + block[8:11]
-	# reverse r4
-	matrix += list(reversed(block[12:16]))
+	# # rotate r1 left by 1
+	# matrix = block[1:4] + list(block[0])
+	# # rotate r2 left by 2
+	# matrix += block[6:8] + block[4:6]
+	# # rotate r3 left by 3
+	# matrix += list(block[-5]) + block[8:11]
+	# # reverse r4
+	# matrix += list(reversed(block[12:16]))
+
+	matrix = block[1:4] + list(block[0]) + block[6:8] + block[4:6] + list(block[-5]) + block[8:11] + list(reversed(block[12:16]))
 
 	for i in range(4):
 		sum = 0
@@ -217,9 +222,11 @@ def TTH(msg):
 	blocks = [alpha_msg[i:i+16] for i in range(0, len(alpha_msg), 16)]
 
 	# pad with zeros
-	for i in range(len(blocks)):
-		if len(blocks[i]) < 16:
-			blocks[i] = blocks[i] + "0" * (16 - len(blocks[i]))
+	if len(blocks[-1]) < 16:
+		blocks[-1] = blocks[-1] + "0" * (16 - len(blocks[-1]))
+	# for i in range(len(blocks)):
+	# 	if len(blocks[i]) < 16:
+	# 		blocks[i] = blocks[i] + "0" * (16 - len(blocks[i]))
 
 	total = [0,0,0,0]
 	for b in blocks:
